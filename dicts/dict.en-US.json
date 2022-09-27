@@ -268,6 +268,8 @@
     "台海新闻": "Taiwan News",
     "国际新闻": "International News",
     "中国银行保险监督管理委员会": "China Banking and Insurance Regulatory Commission",
+    "CNBC": "CNBC",
+    "全文 RSS": "Full Text RSS",
     "第一财经杂志": "First Financial Magazine",
     "澳门廉政公署": "Macau Independent Commission Against Corruption",
     "最新消息": "News",
@@ -1879,7 +1881,5 @@
     "当前页面": "Current page",
     "当前页面 (trashhalo/reddit-rss)": "Current page (trashhalo/reddit-rss)",
     "CNN": "CNN",
-    "Top Stories": "Top Stories",
-    "CNBC": "CNBC",
-    "全文 RSS": "Full Text RSS"
+    "Top Stories": "Top Stories"
 }
