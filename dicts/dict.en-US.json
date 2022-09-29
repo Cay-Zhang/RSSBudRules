@@ -1281,7 +1281,6 @@
     "用户动作更新": "User Action Updates",
     "版本更新": "Version Updates",
     "云听": "Cloud Hearing",
-    "电台节目": "Radio Programs",
     "Radio Canada": "Radio Canada",
     "Rare Historical Photos": "Rare Historical Photos",
     "Home": "Home",
@@ -1881,5 +1880,7 @@
     "当前页面": "Current page",
     "当前页面 (trashhalo/reddit-rss)": "Current page (trashhalo/reddit-rss)",
     "CNN": "CNN",
-    "Top Stories": "Top Stories"
+    "Top Stories": "Top Stories",
+    "节目": "Programs",
+    "直播": "Live Streaming"
 }
