@@ -9499,6 +9499,16 @@
         docs:"https://docs.rsshub.app/bbs.html#zhi-bo-ba",
         source:[ "/:category" ],
         target:"/zhibo8/more/:category" } ] },
+  "zhitongcaijing.com":{ _name:"WisdomTree Finance",
+    ".":[ { title:"Information",
+        docs:"https://docs.rsshub.app/finance.html#zhi-tong-cai-jing-zi-xun",
+        source:[ "/:category",
+          "/" ],
+        target:(params, url) => {
+                    const id = new URL(url).toString().match(/\/(\w+)\.html/)[1];
+                    const category = new URL(url).searchParams.get('category_key');
+                    return `/zhitongcaijing/${id}${category ? `/${category}` : ''}`;
+                } } ] },
   "zhubai.love":{ _name:"Bamboo White",
     ".":[ { title:"Articles",
         docs:"https://docs.rsshub.app/blog.html#zhu-bai",
