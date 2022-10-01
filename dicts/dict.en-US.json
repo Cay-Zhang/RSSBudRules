@@ -112,6 +112,8 @@
     "数据库内核月报": "Database Kernel Monthly Report",
     "阿里云盘": "Ali Cloud Drive",
     "文件列表": "File List",
+    "News": "News",
+    "Tag": "Tag",
     "重构": "Reconfiguration",
     "推荐": "Recommend",
     "艾莱资讯": "Elle Information",
@@ -171,7 +173,6 @@
     "用户帖子": "User Posts",
     "白鲸出海": "Beluga Whales at Sea",
     "Bandcamp": "Bandcamp",
-    "Tag": "Tag",
     "Upcoming Live Streams": "Upcoming Live Streams",
     "Weekly": "Weekly",
     "萌番組": "Moe Fan Group",
@@ -192,7 +193,6 @@
     "巴伦周刊中文版": "Barron's China",
     "栏目": "Column",
     "BBC News Labs": "BBC News Labs",
-    "News": "News",
     "Behance": "Behance",
     "User": "User",
     "本地宝": "Local Treasure",
@@ -1888,5 +1888,7 @@
     "当前页面": "Current page",
     "当前页面 (trashhalo/reddit-rss)": "Current page (trashhalo/reddit-rss)",
     "CNN": "CNN",
-    "Top Stories": "Top Stories"
+    "Top Stories": "Top Stories",
+    "Aljazeera 半岛电视台": "Aljazeera Al Jazeera",
+    "Official RSS": "Official RSS"
 }
