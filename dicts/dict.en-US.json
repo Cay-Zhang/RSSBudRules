@@ -1415,6 +1415,8 @@
     "办公网": "Office Network",
     "计算机科学学院": "School of Computer Science",
     "电气信息学院": "School of Electrical Information",
+    "信息学院": "School of Information",
+    "财经学院": "College of Finance and Economics",
     "syosetu": "syosetu",
     "中山大学": "Sun Yat-sen University",
     "计算机学院（软件学院）": "School of Computer Science (School of Software)",
@@ -1892,7 +1894,5 @@
     "当前页面": "Current page",
     "当前页面 (trashhalo/reddit-rss)": "Current page (trashhalo/reddit-rss)",
     "CNN": "CNN",
-    "Top Stories": "Top Stories",
-    "信息学院": "School of Information",
-    "财经学院": "College of Finance and Economics"
+    "Top Stories": "Top Stories"
 }
