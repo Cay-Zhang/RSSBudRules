@@ -351,6 +351,7 @@
     "消费者委员会": "Consumer Council",
     "酷 18": "Cool 18",
     "分站": "Sub-site",
+    "热榜": "Hot List",
     "Coomer": "Coomer",
     "Artist": "Artist",
     "Recent Posts": "Recent Posts",
@@ -1509,7 +1510,6 @@
     "收藏夹": "Favorites",
     "用户回答": "User Answer",
     "用户想法": "User ideas",
-    "热榜": "Hot List",
     "想法热榜": "Ideas Hotlist",
     "问题": "Question",
     "新书": "New Books",
@@ -1900,5 +1900,8 @@
     "当前页面": "Current page",
     "当前页面 (trashhalo/reddit-rss)": "Current page (trashhalo/reddit-rss)",
     "CNN": "CNN",
-    "Top Stories": "Top Stories"
+    "Top Stories": "Top Stories",
+    "酷安": "Coolant",
+    "图文": "Graphic",
+    "看看号": "Look at the number"
 }
