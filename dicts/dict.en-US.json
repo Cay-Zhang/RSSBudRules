@@ -758,8 +758,7 @@
     "科普-中本聪": "Science - Satoshi Nakamoto",
     "科普-公链": "Science - Public Chain",
     "HelloGitHub": "HelloGitHub",
-    "文章列表": "Article List",
-    "编程语言排行榜": "Programming Language Ranking",
+    "排行榜": "Leaderboard",
     "月刊": "Monthly Newsletter",
     "哈尔滨工程大学": "Harbin Engineering University",
     "研究生院 - 通知公告": "Graduate School - Notices",
@@ -902,7 +901,6 @@
     "欧美 - 搜索": "Europe and America - Search",
     "JavDB": "JavDB",
     "主页": "Home",
-    "排行榜": "Leaderboard",
     "演員": "Actor",
     "系列": "Series",
     "片商": "Film Dealers",
@@ -1270,6 +1268,7 @@
     "PuTTY": "PuTTY",
     "qBittorrent": "qBittorrent",
     "前瞻网": "Forward-looking.com",
+    "文章列表": "Article List",
     "起点": "Starting Point",
     "章节": "Chapter",
     "限免": "Limited exemption",
@@ -1900,5 +1899,6 @@
     "当前页面": "Current page",
     "当前页面 (trashhalo/reddit-rss)": "Current page (trashhalo/reddit-rss)",
     "CNN": "CNN",
-    "Top Stories": "Top Stories"
+    "Top Stories": "Top Stories",
+    "最近": "Recent"
 }
