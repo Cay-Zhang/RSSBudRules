@@ -5279,6 +5279,19 @@
         docs:"https://docs.rsshub.app/new-media.html#line-today",
         source:[ "/" ],
         target:"/line/today/:edition?/:tab?" } ] },
+  linkresearcher:{ _name:"Leading Research",
+    ".":[ { title:"Papers",
+        docs:"https://docs.rsshub.app/study.html#ling-yan",
+        source:[ "/theses",
+          "/information",
+          "/careers" ],
+        target:(_, url) => {
+                    const pathname = new URL(url).pathname;
+                    const searchParams = new URL(url).searchParams;
+                    return `/linkresearcher/theses/${pathname.replace('/', '')}${searchParams.has('filters.subject') ? `&subject=${searchParams.get('filters.subject')}` : ''}${
+                        searchParams.has('filters.columns') ? `&columns=${searchParams.get('filters.columns')}` : ''
+                    }`;
+                } } ] },
   "linovelib.com":{ _name:"Mile Beep Light Novel",
     ".":[ { title:"Novel Details",
         docs:"https://docs.rsshub.app/anime.html#linovelib",
