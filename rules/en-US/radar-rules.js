@@ -5672,7 +5672,7 @@
           "/" ],
         target:(params) => `/mpaypass/main/${params.type.replace('.html', '')}` } ] },
   "mtime.com":{ _name:"Time.com",
-    news:[ { title:"Information",
+    news:[ { title:"Time News",
         docs:"https://docs.rsshub.app/multimedia.html#shi-guang-wang",
         source:"/",
         target:"/mtime/news" } ] },
