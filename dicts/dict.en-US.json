@@ -969,6 +969,8 @@
     "精选专栏": "Featured Column",
     "活动讯息": "Event Information",
     "影音专区": "Video and Audio Zone",
+    "快递 100": "Express delivery 100",
+    "快递订单追踪": "Courier Order Tracking",
     "支持的快递公司列表": "List of supported couriers",
     "Kuwait Local": "Kuwait Local",
     "Categorised News": "Categorised News",
@@ -1919,7 +1921,5 @@
     "当前页面": "Current page",
     "当前页面 (trashhalo/reddit-rss)": "Current page (trashhalo/reddit-rss)",
     "CNN": "CNN",
-    "Top Stories": "Top Stories",
-    "快递 100": "Express delivery 100",
-    "快递订单追踪": "Courier Order Tracking"
+    "Top Stories": "Top Stories"
 }
