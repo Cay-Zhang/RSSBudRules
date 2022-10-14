@@ -5152,6 +5152,21 @@
         source:[ "/",
           "/topics/影音專區" ],
         target:"/knowmedia/yyzq" } ] },
+  "kuaidi100.com":{ _name:"Express delivery 100",
+    ".":[ { title:"Courier Order Tracking",
+        docs:"https://docs.rsshub.app/other.html#kuai-di-100",
+        source:"/",
+        target:(params, url, document) => {
+                    const postid = document && document.querySelector('#postid').value;
+                    const com = document && document.querySelector('#selectComBtn').childNodes[1].attributes[1].value;
+                    if (com && com !== 'default' && postid) {
+                        return `/kuaidi100/track/${com}/${postid}`;
+                    }
+                } },
+      { title:"List of supported couriers",
+        docs:"https://docs.rsshub.app/other.html#kuai-di-100",
+        source:"/",
+        target:"/kuaidi100/company" } ] },
   "kuwaitlocal.com":{ _name:"Kuwait Local",
     ".":[ { title:"Latest News",
         docs:"https://docs.rsshub.app/en/new-media.html#kuwait-local",
@@ -10178,21 +10193,6 @@
         docs:"https://docs.rsshub.app/university.html#yun-nan-da-xue",
         source:"/*",
         target:"" } ] },
-  "kuaidi100.com":{ _name:"Express 100",
-    ".":[ { title:"Courier Tracking",
-        docs:"https://docs.rsshub.app/other.html#kuai-di-100",
-        source:"/",
-        target:(params, url, document) => {
-                    const postid = document && document.querySelector('#postid').value;
-                    const com = document && document.querySelector('#selectComBtn').childNodes[1].attributes[1].value;
-                    if (com && com !== 'default' && postid) {
-                        return `/kuaidi100/track/${com}/${postid}`;
-                    }
-                } },
-      { title:"List of supported couriers",
-        docs:"https://docs.rsshub.app/other.html#kuai-di-100",
-        source:"/",
-        target:"/kuaidi100/company" } ] },
   "gongxue.cn":{ _name:"Engineering Network",
     ".":[ { title:"Important News",
         docs:"https://docs.rsshub.app/university.html#ha-er-bin-gong-cheng-da-xue",
