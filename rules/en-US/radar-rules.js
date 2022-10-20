@@ -6603,6 +6603,12 @@
                         return `/njust/eo/${params.grade}/${params.type}`;
                     }
                 } } ] },
+  "njxzc.edu.cn":{ _name:"Nanjing Xiaozhuang College",
+    www:[ { title:"Notice",
+        docs:"https://docs.rsshub.app/university.html#nan-jing-xiao-zhuang-xue-yuan-tong-zhi-gong-gao",
+        source:[ "/89/list.htm",
+          "/" ],
+        target:"/njxzc/tzgg" } ] },
   "nltimes.nl":{ _name:"NL Times",
     ".":[ { title:"News",
         docs:"https://docs.rsshub.app/new-media.html#nl-times",
