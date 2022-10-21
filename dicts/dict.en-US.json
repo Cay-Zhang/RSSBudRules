@@ -1416,6 +1416,9 @@
     "慢雾科技 SLOWMIST": "SLOWMIST",
     "动态": "Dynamic",
     "什么值得买": "What's worth buying",
+    "好文": "Good article",
+    "好文分类": "Good Article Categories",
+    "用户爆料": "User reports",
     "SoBooks": "SoBooks",
     "归档": "Archive",
     "搜狐": "Sohu",
@@ -1952,8 +1955,5 @@
     "当前页面": "Current page",
     "当前页面 (trashhalo/reddit-rss)": "Current page (trashhalo/reddit-rss)",
     "CNN": "CNN",
-    "Top Stories": "Top Stories",
-    "好文": "Good article",
-    "好文分类": "Good Article Categories",
-    "用户爆料": "User reports"
+    "Top Stories": "Top Stories"
 }
