@@ -5679,7 +5679,12 @@
   "metmuseum.org":{ _name:"The Metropolitan Museum of Art",
     www:[ { title:"Exhibitions",
         docs:"https://docs.rsshub.app/en/travel.html#the-metropolitan-museum-of-art" } ] },
-  "mihoyo.com":{ _name:"MiYusha v2",
+  "hoyoverse.com":{ _name:"Miha Tour",
+    genshin:[ { title:"Hara-Kami - News",
+        docs:"https://docs.rsshub.app/game.html##mi-ha-you",
+        source:"/:location/news",
+        target:"/mihoyo/ys/:location" } ] },
+  "mihoyo.com":{ _name:"Miha Tour",
     bbs:[ { title:"MiYusha - Official Announcement",
         docs:"https://docs.rsshub.app/game.html#mi-ha-you-mi-you-she-guan-fang-gong-gao",
         source:[ "/:game/home/28",
@@ -5706,7 +5711,11 @@
                     const page_size = '20';
                     const last_id = '';
                     return `/mihoyo/bbs/official/${gids}/${type}/${page_size}/${last_id}`;
-                } } ] },
+                } } ],
+    ys:[ { title:"Hara-Kami - News",
+        docs:"https://docs.rsshub.app/game.html##mi-ha-you",
+        source:"/:location/news/:category",
+        target:"/mihoyo/ys/:location/:category" } ] },
   "mindmeister.com":{ _name:"MindMeister",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/study.html#mindmeister",
