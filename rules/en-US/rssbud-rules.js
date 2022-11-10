@@ -57,5 +57,40 @@
                 target: "http://rss.cnn.com/rss/cnn_topstories.rss"
             }
         ]
+    },
+    "smzdm.com": {
+        _name: "What's worth buying",
+        ".": [
+            {
+                title: "Special Offers",
+                docs: "https://www.smzdm.com/dingyue",
+                targetType: "url",
+                target: "http://feed.smzdm.com/"
+            },
+            {
+                title: "Amoy Zone",
+                docs: "https://www.smzdm.com/dingyue",
+                targetType: "url",
+                target: "http://haitao.smzdm.com/feed"
+            },
+            {
+                title: "Community Articles",
+                docs: "https://www.smzdm.com/dingyue",
+                targetType: "url",
+                target: "http://post.smzdm.com/feed"
+            },
+            {
+                title: "Discovery Channel",
+                docs: "https://www.smzdm.com/dingyue",
+                targetType: "url",
+                target: "http://faxian.smzdm.com/feed"
+            },
+            {
+                title: "Information Zone",
+                docs: "https://www.smzdm.com/dingyue",
+                targetType: "url",
+                target: "http://news.smzdm.com/feed"
+            }
+        ]
     }
 })
