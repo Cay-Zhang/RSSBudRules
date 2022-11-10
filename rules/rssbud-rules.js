@@ -57,5 +57,40 @@
                 target: "http://rss.cnn.com/rss/cnn_topstories.rss"
             }
         ]
+    },
+    "smzdm.com": {
+        _name: "什么值得买",
+        ".": [
+            {
+                title: "优惠精选",
+                docs: "https://www.smzdm.com/dingyue",
+                targetType: "url",
+                target: "http://feed.smzdm.com/"
+            },
+            {
+                title: "海淘专区",
+                docs: "https://www.smzdm.com/dingyue",
+                targetType: "url",
+                target: "http://haitao.smzdm.com/feed"
+            },
+            {
+                title: "社区文章",
+                docs: "https://www.smzdm.com/dingyue",
+                targetType: "url",
+                target: "http://post.smzdm.com/feed"
+            },
+            {
+                title: "发现频道",
+                docs: "https://www.smzdm.com/dingyue",
+                targetType: "url",
+                target: "http://faxian.smzdm.com/feed"
+            },
+            {
+                title: "资讯专区",
+                docs: "https://www.smzdm.com/dingyue",
+                targetType: "url",
+                target: "http://news.smzdm.com/feed"
+            }
+        ]
     }
 })
