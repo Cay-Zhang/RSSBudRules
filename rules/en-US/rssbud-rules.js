@@ -3,13 +3,13 @@
         _name: "GitHub",
         ".": [
             {
-                title: "Warehouse Releases",
+                title: "Repo Releases",
                 source: ["/:user/:repo/releases", "/:user/:repo/releases/*", "/:user/:repo"],
                 targetType: "pathForOriginal",
                 target: "/:user/:repo/releases.atom"
             },
             {
-                title: "Repository Commits",
+                title: "Repo Commits",
                 source: ["/:user/:repo/commits", "/:user/:repo/commits/:branch", "/:user/:repo"],
                 targetType: "pathForOriginal",
                 target: ({ user, repo, branch }, url) => `/${user}/${repo}/commits${branch ? "/" + branch : ""}.atom`
@@ -59,7 +59,7 @@
         ]
     },
     "smzdm.com": {
-        _name: "What's worth buying",
+        _name: "SMZDM",
         ".": [
             {
                 title: "Special Offers",
