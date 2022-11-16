@@ -1235,6 +1235,8 @@
     "学生工作处": "Student Work Office",
     "研究生院学科建设处": "Graduate School Division of Discipline Development",
     "nyaa": "nyaa",
+    "nyaa 的搜索结果、指定用户、指定用户的搜索结果": "Search results for nyaa, specified users, specified users",
+    "sukebei 的搜索结果、指定用户、指定用户的搜索结果": "Search results for sukebei, specific users, specific users",
     "纽约时报": "New York Times",
     "新闻简报": "Newsletters",
     "畅销书排行榜": "Bestseller List",
@@ -1985,7 +1987,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "nyaa 的搜索结果、指定用户、指定用户的搜索结果": "Search results for nyaa, specified users, specified users",
-    "sukebei 的搜索结果、指定用户、指定用户的搜索结果": "Search results for sukebei, specific users, specific users"
+    "资讯专区": "Information Zone"
 }
