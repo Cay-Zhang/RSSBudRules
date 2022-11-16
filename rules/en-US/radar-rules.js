@@ -6842,38 +6842,42 @@
         source:[ "/" ],
         target:"/nuist/jwc/:path+" } ] },
   "nyaa.si":{ _name:"nyaa",
-    ".":[ { title:"Search Results",
-        docs:"https://docs.rsshub.app/multimedia.html#nyaa-sou-suo-jie-guo",
-        source:"/",
+    ".":[ { title:"Search results for nyaa, specified users, specified users",
+        docs:"https://docs.rsshub.app/multimedia.html#nyaa",
+        source:[ "/",
+          "/user/:username" ],
         target:(params, url) => {
                     url = new URL(url);
-                    if (url.hostname.split('.')[0] === 'nyaa') {
-                        const searchParams = url.searchParams;
-                        const query = searchParams.has('q') ? searchParams.get('q') : '';
-                        return `/nyaa/search/${query}`;
+                    const username = params.username;
+                    const query = url.searchParams.get('q');
+
+                    let currentURL = '/nyaa';
+                    if (username !== undefined) {
+                        currentURL = `${currentURL}/user/${username}`;
                     }
-                } },
-      { title:"User",
-        docs:"https://docs.rsshub.app/multimedia.html#nyaa-yong-hu",
-        source:"/user/:username",
-        target:(params, url) => {
-                    url = new URL(url);
-                    if (url.hostname.split('.')[0] === 'nyaa') {
-                        return `/nyaa/user/${params.username}`;
+                    if (query !== null) {
+                        currentURL = `${currentURL}/search/${query}`;
                     }
+                    return currentURL;
                 } } ],
-    sukebei:[ { title:"sukebei Search results",
-        docs:"https://docs.rsshub.app/multimedia.html#nyaa-sukebei-sou-suo-jie-guo",
-        source:"/",
+    sukebei:[ { title:"Search results for sukebei, specific users, specific users",
+        docs:"https://docs.rsshub.app/multimedia.html#nyaa",
+        source:[ "/",
+          "/user/:username" ],
         target:(params, url) => {
-                    const searchParams = new URL(url).searchParams;
-                    const query = searchParams.has('q') ? searchParams.get('q') : '';
-                    return `/nyaa/sukebei/search/${query}`;
-                } },
-      { title:"sukebei users",
-        docs:"https://docs.rsshub.app/multimedia.html#nyaa-sukebei-yong-hu",
-        source:"/user/:username",
-        target:(params) => `/nyaa/sukebei/user/${params.username}` } ] },
+                    url = new URL(url);
+                    const username = params.username;
+                    const query = url.searchParams.get('q');
+
+                    let currentURL = '/nyaa/sukebei';
+                    if (username !== undefined) {
+                        currentURL = `${currentURL}/user/${username}`;
+                    }
+                    if (query !== null) {
+                        currentURL = `${currentURL}/search/${query}`;
+                    }
+                    return currentURL;
+                } } ] },
   "nytimes.com":{ _name:"New York Times",
     ".":[ { title:"Newsletters",
         docs:"https://docs.rsshub.app/traditional-media.html#niu-yue-shi-bao",
