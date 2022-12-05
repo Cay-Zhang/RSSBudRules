@@ -81,9 +81,6 @@
     "AcFun": "AcFun",
     "用户投稿": "User Contributions",
     "文章": "Articles",
-    "ACM-ECNU": "ACM-ECNU",
-    "所有比赛列表": "List of all competitions",
-    "仅公开比赛列表": "Open competition list only",
     "American Chemistry Society": "American Chemistry Society",
     "Journal": "Journal",
     "AGE动漫": "AGE Animation",
@@ -503,6 +500,8 @@
     "原创": "Original",
     "东方财富": "Oriental Wealth",
     "天天基金用户动态": "Daily Fund user dynamics",
+    "所有比赛列表": "List of all competitions",
+    "仅公开比赛列表": "Open competition list only",
     "The Economist": "The Economist",
     "Espresso": "Espresso",
     "GRE Vocabulary": "GRE Vocabulary",
@@ -2002,5 +2001,6 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "华东师范大学": "East China Normal University"
 }
