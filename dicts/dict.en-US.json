@@ -90,6 +90,7 @@
     "分類": "Classification",
     "精選主題列表": "Featured Topic List",
     "精选主题": "Featured Topics",
+    "GitHub": "GitHub",
     "GitLab": "GitLab",
     "零博客": "Zero Blog",
     "安徽建筑大学": "Anhui University of Architecture",
@@ -319,7 +320,6 @@
     "观点与实践": "Perspectives and Practices",
     "投中网": "Invest in the network",
     "中国收入分配研究院": "China Institute of Income Distribution",
-    "GitHub": "GitHub",
     "Issues / Pull Requests 评论": "Issues / Pull Requests Comments",
     "用户仓库": "User Repos",
     "用户 Followers": "Users Followers",
@@ -2012,5 +2012,6 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "共和報": "Republican Newspaper"
 }
