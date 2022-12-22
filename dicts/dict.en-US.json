@@ -339,7 +339,6 @@
     "首页-资讯": "Home-Information",
     "CNBC": "CNBC",
     "全文 RSS": "Full Text RSS",
-    "cnBeta": "cnBeta",
     "主题": "Topics",
     "CNCF": "CNCF",
     "Announcements": "Announcements",
@@ -2039,5 +2038,7 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "cnBeta.COM": "cnBeta.COM",
+    "头条资讯": "Headline Information"
 }
