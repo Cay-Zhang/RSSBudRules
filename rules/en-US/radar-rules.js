@@ -7658,7 +7658,7 @@
         target:"/qipamaijia/:cate" } ] },
   "qlu.edu.cn":{ _name:"Qilu University of Technology",
     ".":[ { title:"Notice",
-        docs:"https://docs.rsshub.app/anime.html#qi-lu-gong-ye-da-xue",
+        docs:"https://docs.rsshub.app/university.html#qi-lu-gong-ye-da-xue",
         source:[ "/tzggsh/list1.htm" ],
         target:"/qlu/notice" } ] },
   "qm120.com":{ _name:"All Health Network",
