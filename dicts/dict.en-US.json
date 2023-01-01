@@ -1088,6 +1088,7 @@
     "洛谷": "Luo Gu",
     "日报": "Daily News",
     "比赛列表": "Competition List",
+    "用户博客": "User Blog",
     "LVV2": "LVV2",
     "得分": "Score",
     "24小时榜": "24-hour list",
@@ -1313,7 +1314,6 @@
     "原作搜索": "Original work search",
     "开源中国": "Open Source China",
     "问答主题": "Question and Answer Topics",
-    "用户博客": "User Blog",
     "数字型账号用户博客": "Digital Account User Blog",
     "Oxford University Press": "Oxford University Press",
     "Outage.Report": "Outage.Report",
@@ -2055,5 +2055,7 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "新语丝": "New Language",
+    "新到资料": "New Arrival Information"
 }
