@@ -346,6 +346,11 @@
     "cnBeta.COM": "cnBeta.COM",
     "头条资讯": "Headline Information",
     "主题": "Topics",
+    "博客园": "Blog Garden",
+    "10天推荐排行榜": "10-day recommendation list",
+    "48小时阅读排行": "48 hours reading ranking",
+    "编辑推荐": "Editor's Pick",
+    "精华区": "Essence area",
     "CNCF": "CNCF",
     "Announcements": "Announcements",
     "Reports": "Reports",
@@ -2057,10 +2062,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "博客园": "Blog Garden",
-    "10天推荐排行榜": "10-day recommendation list",
-    "48小时阅读排行": "48 hours reading ranking",
-    "编辑推荐": "Editor's Pick",
-    "精华区": "Essence area"
+    "资讯专区": "Information Zone"
 }
