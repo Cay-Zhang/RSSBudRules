@@ -808,6 +808,8 @@
     "Section": "Section",
     "Hacker Talk 黑客说": "Hacker Talk hacker talk",
     "最新的帖子": "Latest Posts",
+    "HackMD": "HackMD",
+    "Profile": "Profile",
     "河南财政金融学院": "Henan College of Finance and Economics",
     "河南财政金融学院 - 通知公告": "Henan University of Finance and Economics - Notice",
     "客家電視台": "Hakka TV Station",
@@ -2077,7 +2079,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "HackMD": "HackMD",
-    "Profile": "Profile"
+    "资讯专区": "Information Zone"
 }
