@@ -844,6 +844,27 @@
         docs:"https://docs.rsshub.app/bbs.html#yin-pin-ying-yong",
         source:[ "/all.php" ],
         target:"/audiobar/latest" } ] },
+  "baai.ac.cn":{ _name:"Beijing Zhiyuan Institute of Artificial Intelligence",
+    hub:[ { title:"Jiwon Community",
+        docs:"https://docs.rsshub.app/programming.html#bei-jing-zhi-yuan-ren-gong-zhi-neng-yan-jiu-yuan",
+        source:[ "/" ],
+        target:(params, url) => {
+                    const searchParams = new URL(url).searchParams;
+                    const tagId = searchParams.get('tag_id');
+                    const sort = searchParams.get('sort');
+                    const range = searchParams.get('time_range');
+                    return `/baai/hub${tagId ? `/${tagId}` : ''}${sort ? `/${sort}` : ''}${range ? `/${range}` : ''}`;
+                } },
+      { title:"Events - Jiwon Community",
+        docs:"https://docs.rsshub.app/programming.html#bei-jing-zhi-yuan-ren-gong-zhi-neng-yan-jiu-yuan",
+        source:[ "/events",
+          "/" ],
+        target:"/baai/hub/events" },
+      { title:"Comments - Jiwon Community",
+        docs:"https://docs.rsshub.app/programming.html#bei-jing-zhi-yuan-ren-gong-zhi-neng-yan-jiu-yuan",
+        source:[ "/comments",
+          "/" ],
+        target:"/baai/hub/comments" } ] },
   "baidu.com":{ _name:"Baidu",
     gushitong:[ { title:"Home Index",
         docs:"https://docs.rsshub.app/finance.html#bai-du-gu-shi-tong",
