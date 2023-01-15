@@ -1069,6 +1069,8 @@
     "报道": "Reports",
     "lativ": "lativ",
     "订阅商品价格": "Subscribe to product prices",
+    "Layoffs": "Layoffs",
+    "Data Tracker Feed": "Data Tracker Feed",
     "Learn Ku 社区": "Learn Ku Community",
     "分区": "Zoning",
     "LeetCode": "LeetCode",
@@ -2112,7 +2114,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "Layoffs": "Layoffs",
-    "Data Tracker Feed": "Data Tracker Feed"
+    "资讯专区": "Information Zone"
 }
