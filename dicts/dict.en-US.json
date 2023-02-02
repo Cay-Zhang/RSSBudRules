@@ -1107,6 +1107,7 @@
     "订阅商品价格": "Subscribe to product prices",
     "Layoffs": "Layoffs",
     "Data Tracker Feed": "Data Tracker Feed",
+    "全部文章": "All articles",
     "Learn Ku 社区": "Learn Ku Community",
     "分区": "Zoning",
     "LeetCode": "LeetCode",
@@ -1932,7 +1933,6 @@
     "正在": "is",
     "一财号": "Ichiban",
     "月幕 Galgame": "Moon Screen Galgame",
-    "全部文章": "All articles",
     "本月新作": "New work this month",
     "Yoasobi Official": "Yoasobi Official",
     "Biography": "Biography",
@@ -2192,5 +2192,7 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "登链社区": "Login Chain Community",
+    "分类文章": "Category Articles"
 }
