@@ -2066,6 +2066,11 @@
                         return '/cqwu/news/academiceve';
                     }
                 } } ] },
+  "crac.org.cn":{ _name:"China Radio Association Amateur Radio Branch",
+    www:[ { title:"Latest News",
+        docs:"https://docs.rsshub.app/government.html#zhong-guo-wu-xian-dian-xie-hui-ye-yu-wu-xian-dian-fen-hui",
+        source:"/News/List",
+        target:(params, url) => `/crac/${new URL(url).searchParams.get('type') || ''}` } ] },
   "creative-comic.tw":{ _name:"CCC Creative Writing Collection",
     ".":[ { title:"Comics",
         docs:"https://docs.rsshub.app/anime.html#ccc-chuang-zuo-ji",
