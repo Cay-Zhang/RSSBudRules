@@ -246,6 +246,7 @@
     "绿色新闻网": "Green News Network",
     "北京天文馆": "Beijing Planetarium",
     "每日一图": "Picture of the Day",
+    "最新资讯": "Latest News",
     "北极星电力网": "Polaris Power Network",
     "光伏 - 分类": "Photovoltaics - Categories",
     "环保要闻": "Environmental News",
@@ -409,7 +410,6 @@
     "通知": "Notification",
     "学术活动": "Academic Activities",
     "中国无线电协会业余无线电分会": "China Radio Association Amateur Radio Branch",
-    "最新资讯": "Latest News",
     "CCC 創作集": "CCC Creative Writing Collection",
     "漫畫": "Comics",
     "国家留学网": "National Study Abroad Network",
@@ -2202,5 +2202,6 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "北京无线电协会": "Beijing Radio Association"
 }
