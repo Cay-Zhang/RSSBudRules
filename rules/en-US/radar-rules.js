@@ -10033,6 +10033,15 @@
                         return `/u3c3/search/${keyword}`;
                     }
                 } } ] },
+  "u9a9.com":{ _name:"U9A9",
+    ".":[ { title:"Home",
+        docs:"https://docs.rsshub.app/multimedia.html#u9a9",
+        source:[ "/" ],
+        target:"/u9a9" },
+      { title:"Search",
+        docs:"https://docs.rsshub.app/multimedia.html#u9a9",
+        source:[ "/" ],
+        target:(_, url) => `/u9a9/search/${new URL(url).searchParams.get('search')}` } ] },
   "uber.com":{ _name:"Uber Blog",
     www:[ { title:"Engineering",
         docs:"https://docs.rsshub.app/blog.html#you-bu",
