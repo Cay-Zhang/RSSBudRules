@@ -81,6 +81,7 @@
     "AcFun": "AcFun",
     "用户投稿": "User Contributions",
     "文章": "Articles",
+    "全部文章": "All articles",
     "American Chemistry Society": "American Chemistry Society",
     "Journal": "Journal",
     "AGE动漫": "AGE Animation",
@@ -568,7 +569,6 @@
     "电鸭社区": "Electric Duck Community",
     "工作机会": "Job Opportunities",
     "分类文章": "Category Articles",
-    "全部文章": "All articles",
     "ScienceDirect": "ScienceDirect",
     "中国驻外使领馆": "Chinese Embassies and Consulates abroad",
     "重要通知 - 加拿大大使馆": "Important Notice - Canadian Embassy",
@@ -2206,5 +2206,6 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "ACG17": "ACG17"
 }
