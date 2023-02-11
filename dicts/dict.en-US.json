@@ -297,6 +297,11 @@
     "台海新闻": "Taiwan News",
     "国际新闻": "International News",
     "動漫狂": "Anime Mania",
+    "中国科学院": "Chinese Academy of Sciences",
+    "成果转化": "Result Translation",
+    "上海微系统与信息技术研究所 - 科技进展": "Shanghai Institute of Microsystems and Information Technology - Science and Technology Progress",
+    "电工研究所 科研动态": "Institute of Electrical Engineering Scientific Research News",
+    "信息工程研究所 第二研究室 处理架构组 知识库": "Institute of Information Engineering, Research Division II, Processing Architecture Group Knowledge Base",
     "中国科学技术协会": "China Association for Science and Technology",
     "中国银行保险监督管理委员会": "China Banking and Insurance Regulatory Commission",
     "第一财经杂志": "First Financial Magazine",
@@ -2216,10 +2221,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "中国科学院": "Chinese Academy of Sciences",
-    "成果转化": "Result Translation",
-    "上海微系统与信息技术研究所 - 科技进展": "Shanghai Institute of Microsystems and Information Technology - Science and Technology Progress",
-    "电工研究所 科研动态": "Institute of Electrical Engineering Scientific Research News",
-    "信息工程研究所 第二研究室 处理架构组 知识库": "Institute of Information Engineering, Research Division II, Processing Architecture Group Knowledge Base"
+    "资讯专区": "Information Zone"
 }
