@@ -1,4 +1,12 @@
-({ "2047.name":{ _name:"2047",
+({ "591.com.tw":{ _name:"591 Rent.com",
+    rent:[ { title:"All objects",
+        docs:"https://docs.rsshub.app/other.html#_591-zu-wu-wang",
+        source:[ "/" ],
+        target:(params, url) => {
+                    const searchParams = new URL(url).searchParams;
+                    return `/591/tw/rent/${searchParams.toString()}`;
+                } } ] },
+  "2047.name":{ _name:"2047",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/bbs.html#2047-fen-lei",
         source:[ "/" ],
