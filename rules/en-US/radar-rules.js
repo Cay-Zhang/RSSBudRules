@@ -1,4 +1,50 @@
-({ "591.com.tw":{ _name:"591 Rent.com",
+({ "163.com":{ _name:"NetEase",
+    music:[ { title:"Cloud Music - User Song List",
+        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
+        source:"/",
+        target:(params, url) => {
+                    const id = new URL(url).hash.match(/home\?id=(.*)/)[1];
+                    return id ? `/ncm/user/playlist/${id}` : '';
+                } },
+      { title:"Cloud Music - Song List Songs",
+        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
+        source:"/",
+        target:(params, url) => {
+                    const id = new URL(url).hash.match(/playlist\?id=(.*)/)[1];
+                    return id ? `/ncm/playlist/${id}` : '';
+                } },
+      { title:"Cloud Music - Singer Albums",
+        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
+        source:"/",
+        target:(params, url) => {
+                    const id = new URL(url).hash.match(/album\?id=(.*)/)[1];
+                    return id ? `/ncm/artist/${id}` : '';
+                } },
+      { title:"Cloud Music - Radio Programs",
+        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
+        source:"/",
+        target:(params, url) => {
+                    const id = new URL(url).hash.match(/djradio\?id=(.*)/)[1];
+                    return id ? `/ncm/djradio/${id}` : '';
+                } } ],
+    "y.music":[ { title:"Cloud Music - User Song List",
+        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
+        source:"/m/user",
+        target:(params, url) => `/ncm/playlist/${new URL(url).searchParams.get('id')}` },
+      { title:"Cloud Music - Song List Songs",
+        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
+        source:"/m/playlist",
+        target:(params, url) => `/ncm/playlist/${new URL(url).searchParams.get('id')}` },
+      { title:"Cloud Music - Singer Albums",
+        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
+        source:"/m/album",
+        target:(params, url) => `/ncm/playlist/${new URL(url).searchParams.get('id')}` },
+      { title:"Cloud Music - Playlist Sound",
+        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
+        source:[ "/m/radio",
+          "/m/djradio" ],
+        target:(params, url) => `/ncm/playlist/${new URL(url).searchParams.get('id')}` } ] },
+  "591.com.tw":{ _name:"591 Rent.com",
     rent:[ { title:"All objects",
         docs:"https://docs.rsshub.app/other.html#_591-zu-wu-wang",
         source:[ "/" ],
@@ -7011,64 +7057,6 @@
         source:[ "/index.php",
           "/" ],
         target:"/neatdownloadmanager/download/:os?" } ] },
-  "163.com":{ _name:"NetEase",
-    ds:[ { title:"The Great Spirit",
-        docs:"https://docs.rsshub.app/game.html#wang-yi-da-shen",
-        source:"/user/:id",
-        target:"/netease/ds/:id" } ],
-    open:[ { title:"Public Classes - Boutique Courses",
-        docs:"https://docs.rsshub.app/study.html#wang-yi-gong-kai-ke",
-        source:"/",
-        target:"/open163/vip" },
-      { title:"Open Classes - Latest Courses",
-        docs:"https://docs.rsshub.app/study.html#wang-yi-gong-kai-ke",
-        source:"/",
-        target:"/open163/latest" } ],
-    music:[ { title:"Cloud Music - User Song List",
-        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
-        source:"/",
-        target:(params, url) => {
-                    const id = new URL(url).hash.match(/home\?id=(.*)/)[1];
-                    return id ? `/ncm/user/playlist/${id}` : '';
-                } },
-      { title:"Cloud Music - Song List Songs",
-        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
-        source:"/",
-        target:(params, url) => {
-                    const id = new URL(url).hash.match(/playlist\?id=(.*)/)[1];
-                    return id ? `/ncm/playlist/${id}` : '';
-                } },
-      { title:"Cloud Music - Singer Albums",
-        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
-        source:"/",
-        target:(params, url) => {
-                    const id = new URL(url).hash.match(/album\?id=(.*)/)[1];
-                    return id ? `/ncm/artist/${id}` : '';
-                } },
-      { title:"Cloud Music - Radio Programs",
-        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
-        source:"/",
-        target:(params, url) => {
-                    const id = new URL(url).hash.match(/djradio\?id=(.*)/)[1];
-                    return id ? `/ncm/djradio/${id}` : '';
-                } } ],
-    "y.music":[ { title:"Cloud Music - User Song List",
-        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
-        source:"/m/user",
-        target:(params, url) => `/ncm/playlist/${new URL(url).searchParams.get('id')}` },
-      { title:"Cloud Music - Song List Songs",
-        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
-        source:"/m/playlist",
-        target:(params, url) => `/ncm/playlist/${new URL(url).searchParams.get('id')}` },
-      { title:"Cloud Music - Singer Albums",
-        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
-        source:"/m/album",
-        target:(params, url) => `/ncm/playlist/${new URL(url).searchParams.get('id')}` },
-      { title:"Cloud Music - Playlist Sound",
-        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
-        source:[ "/m/radio",
-          "/m/djradio" ],
-        target:(params, url) => `/ncm/playlist/${new URL(url).searchParams.get('id')}` } ] },
   "neu.edu.cn":{ _name:"Tohoku University",
     neunews:[ { title:"News",
         docs:"https://docs.rsshub.app/university.html#dong-bei-da-xue",
