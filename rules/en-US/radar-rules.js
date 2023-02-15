@@ -439,6 +439,17 @@
                         return '/423down/os/winpe';
                     }
                 } } ] },
+  "500px.com.cn":{ _name:"500px Photography Community",
+    ".":[ { title:"Tribal Photo Gallery",
+        docs:"https://docs.rsshub.app/picture.html#_500px-she-ying-she-qu",
+        source:[ "/page/tribe/detail" ],
+        target:(_, url) => `/500px/tribe/set/${url.searchParams.get('tribeId')}` },
+      { title:"Photographer's work",
+        docs:"https://docs.rsshub.app/picture.html#_500px-she-ying-she-qu",
+        source:[ "/:id",
+          "/community/user-details/:id",
+          "/community/user-details/:id/*" ],
+        target:"/500px/user/works/:id" } ] },
   "50forum.org.cn":{ _name:"Economic 50 Forum",
     ".":[ { title:"Expert Articles",
         docs:"https://docs.rsshub.app/new-media.html#jing-ji-50-ren-lun-tan",
