@@ -2425,22 +2425,22 @@
         docs:"https://docs.rsshub.app/new-media.html#dcfever",
         source:[ "/news/index.php",
           "/" ],
-        params:(_, url) => {
+        target:(_, url) => {
                     const searchParams = new URL(url).searchParams;
                     return `/dcfever/news${searchParams.has('type') ? `/${new URL(url).searchParams.get('type')}` : ''}`;
                 } },
       { title:"Test Report",
         docs:"https://docs.rsshub.app/new-media.html#dcfever",
         source:[ "/:type/reviews.php" ],
-        params:"/dcfever/reviews/:type" },
+        target:"/dcfever/reviews/:type" },
       { title:"Second-hand marketplace",
         docs:"https://docs.rsshub.app/new-media.html#dcfever",
         source:[ "/trading/listing.php" ],
-        params:(_, url) => `/dcfever/trading/${new URL(url).searchParams.get('id')}` },
+        target:(_, url) => `/dcfever/trading/${new URL(url).searchParams.get('id')}` },
       { title:"Used Bazaar - Item Search",
         docs:"https://docs.rsshub.app/new-media.html#dcfever",
         source:[ "/trading/search.php" ],
-        params:(_, url) => {
+        target:(_, url) => {
                     const searchParams = new URL(url).searchParams;
                     return `/dcfever/trading/search/${searchParams.get('keyword')}${searchParams.has('main_cat') ? `/${searchParams.get('main_cat')}` : ''}`;
                 } } ] },
