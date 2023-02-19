@@ -47,6 +47,13 @@
                     const id = new URL(url).hash.match(/album\?id=(.*)/)[1];
                     return id ? `/163/music/artist/${id}` : '';
                 } },
+      { title:"Cloud Music - Singer Songs",
+        docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
+        source:"/",
+        target:(_params, url) => {
+                    const id = new URL(url).hash.match(/artist\?id=(.*)/)[1];
+                    return id ? `/163/music/artist/songs/${id}` : '';
+                } },
       { title:"Cloud Music - Radio Programs",
         docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
         source:"/",
@@ -80,7 +87,7 @@
     "y.music":[ { title:"Cloud Music - User Song List",
         docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
         source:"/m/user",
-        target:(params, url) => `/163/music/playlist/${new URL(url).searchParams.get('id')}` },
+        target:(params, url) => `/163/music/user/playlist/${new URL(url).searchParams.get('id')}` },
       { title:"Cloud Music - Song List Songs",
         docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
         source:"/m/playlist",
@@ -88,12 +95,12 @@
       { title:"Cloud Music - Singer Albums",
         docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
         source:"/m/album",
-        target:(params, url) => `/163/music/playlist/${new URL(url).searchParams.get('id')}` },
-      { title:"Cloud Music - Playlist Sound",
+        target:(params, url) => `/163/music/artist/${new URL(url).searchParams.get('id')}` },
+      { title:"Cloud Music - Radio Programs",
         docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue",
         source:[ "/m/radio",
           "/m/djradio" ],
-        target:(params, url) => `/163/music/playlist/${new URL(url).searchParams.get('id')}` },
+        target:(params, url) => `/163/music/djradio/${new URL(url).searchParams.get('id')}` },
       { title:"User dynamics",
         docs:"https://docs.rsshub.app/multimedia.html#wang-yi-yun-yin-yue-yong-hu-dong-tai" } ] },
   "591.com.tw":{ _name:"591 Rent.com",
