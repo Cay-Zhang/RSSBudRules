@@ -4643,7 +4643,7 @@
     jwzx:[ { title:"Academic Affairs Office",
         docs:"https://docs.rsshub.app/university.html#ha-er-bin-li-gong-da-xue",
         source:"/homepage/*",
-        target:(params, url) => `/hrbust/jwzx/${url.match(/(?<=columnId=)\d+/)}` } ] },
+        target:(params, url) => `/hrbust/jwzx/${new URL(url).searchParams.get('columnId')}` } ] },
   "huangz.me":{ _name:"Jianhong Huang Blog",
     blog:[ { title:"Articles",
         docs:"https://docs.rsshub.app/blog.html#huang-jian-hong-bo-ke",
