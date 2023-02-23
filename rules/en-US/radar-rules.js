@@ -4979,6 +4979,15 @@
                     const limit = origin.searchParams.get('n');
                     return `/inoreader/html_clip/${params.user}/${params.tag}` + (limit ? `?limit=${limit}` : '');
                 } } ] },
+  "instagram.com":{ _name:"Instagram",
+    www:[ { title:"User",
+        docs:"https://docs.rsshub.app/social-media.html#instagram",
+        source:[ "/:id" ],
+        target:"/instagram/user/:id" },
+      { title:"Tags",
+        docs:"https://docs.rsshub.app/social-media.html#instagram",
+        source:[ "/explore/tags/:key" ],
+        target:"/instagram/tags/:key" } ] },
   "iq.com":{ _name:"Akiyo",
     ".":[ { title:"Episodes",
         docs:"https://docs.rsshub.app/multimedia.html#ai-qi-yi",
@@ -12286,15 +12295,6 @@
         docs:"https://docs.rsshub.app/new-media.html#matataki",
         source:"/user/:uid/favlist/:fid",
         target:(params) => `/matataki/users/${params.uid}/favorites/${params.fid}/posts` } ] },
-  "instagram.com":{ _name:"Instagram",
-    www:[ { title:"User",
-        docs:"https://docs.rsshub.app/social-media.html#instagram",
-        source:"/:id",
-        target:(params) => {
-                    if (params.id !== 'explore' && params.id !== 'developer') {
-                        return '/instagram/user/:id';
-                    }
-                } } ] },
   "huya.com":{ _name:"Tiger Live",
     ".":[ { title:"Live broadcast start",
         docs:"https://docs.rsshub.app/live.html#hu-ya-zhi-bo-zhi-bo-jian-kai-bo",
