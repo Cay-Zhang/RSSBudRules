@@ -128,6 +128,8 @@
     "热点 & 深度": "Hot & In-depth",
     "Asian Innovation and Entrepreneurship Association": "Asian Innovation and Entrepreneurship Association",
     "Seminar Series": "Seminar Series",
+    "用户": "User",
+    "专栏": "Column",
     "中国国际航空公司": "Air China",
     "服务公告": "Service Announcement",
     "阿基米德FM": "Archimedes FM",
@@ -368,7 +370,6 @@
     "外汇牌价 - 历史记录": "Foreign Exchange Rates - History",
     "链捕手 ChainCatcher": "ChainCatcher",
     "唱吧": "Sing it",
-    "用户": "User",
     "超星": "Superstar",
     "期刊": "Periodicals",
     "差评": "Poor Reviews",
@@ -678,7 +679,6 @@
     "Focus Taiwan": "Focus Taiwan",
     "Category": "Category",
     "Foresight News": "Foresight News",
-    "专栏": "Column",
     "十年之约": "Ten-Year Engagement",
     "专题展示": "Thematic Showcase",
     "财富中文网": "Fortune Chinese",
@@ -1885,6 +1885,8 @@
     "Uptime Robot": "Uptime Robot",
     "RSS": "RSS",
     "裏垢女子まとめ": "Rikugo woman Matome",
+    "Urban Dictionary": "Urban Dictionary",
+    "Random words": "Random words",
     "USENIX": "USENIX",
     "Security Symposia": "Security Symposia",
     "Panda": "Panda",
@@ -2280,6 +2282,5 @@
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
     "资讯专区": "Information Zone",
-    "Urban Dictionary": "Urban Dictionary",
-    "Random words": "Random words"
+    "极术社区": "Extreme Art Community"
 }
