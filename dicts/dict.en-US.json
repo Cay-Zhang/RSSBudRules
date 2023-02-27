@@ -337,10 +337,6 @@
     "第一财经杂志": "First Financial Magazine",
     "澳门廉政公署": "Macau Independent Commission Against Corruption",
     "最新消息": "News",
-    "计算机视觉专委会": "Computer Vision Special Committee",
-    "学术动态 - 学术前沿": "Academic News - Academic Frontiers",
-    "学术动态 - 热点征文": "Academic News - Hot Papers",
-    "学术动态 - 学术会议": "Academic News - Academic Conferences",
     "消费者报道": "Consumer Reports",
     "要闻": "Important News",
     "CCTV": "CCTV",
@@ -2276,5 +2272,12 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "中国人工智能学会": "Chinese Society for Artificial Intelligence",
+    "学会动态": "Society News",
+    "中国计算机学会": "China Computer Society",
+    "计算机视觉专委会 - 学术动态 - 学术前沿": "Computer Vision Special Committee - Academic News - Academic Frontiers",
+    "计算机视觉专委会 - 学术动态 - 热点征文": "Computer Vision Special Committee - Academic News - Hot Papers",
+    "计算机视觉专委会 - 学术动态 - 学术会议": "Computer Vision Special Committee - Academic News - Academic Conference",
+    "大数据专家委员会": "Big Data Expert Committee"
 }
