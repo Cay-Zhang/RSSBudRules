@@ -511,7 +511,7 @@
         target:"/500px/user/works/:id" } ] },
   "50forum.org.cn":{ _name:"Economic 50 Forum",
     ".":[ { title:"Expert Articles",
-        docs:"https://docs.rsshub.app/new-media.html#jing-ji-50-ren-lun-tan",
+        docs:"https://docs.rsshub.app/study.html#jing-ji-50-ren-lun-tan",
         source:[ "/home/article/index/category/zhuanjia.html",
           "/" ],
         target:"/50forum" } ] },
