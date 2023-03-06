@@ -7530,11 +7530,48 @@
                         return `/nifd/research/${categoryGuid}`;
                     }
                 } } ] },
-  "nikkei.com":{ _name:"Japan Economic News",
+  "nikkei.com":{ _name:"Nihon Keizai Shimbun",
+    asia:[ { title:"Latest News",
+        docs:"https://docs.rsshub.app/traditional-media.html#ri-ben-jing-ji-xin-wen",
+        source:"/",
+        target:"/nikkei/asia" } ],
+    cn:[ { title:"Chinese News",
+        docs:"https://docs.rsshub.app/traditional-media.html#ri-ben-jing-ji-xin-wen-zhong-wen-ban-xin-wen",
+        source:[ "/:category/:type",
+          "/:category",
+          "/" ],
+        target:(params) => {
+                    if (params.category && params.type) {
+                        return `/nikkei/cn/cn/${params.category}/${params.type.replace('.html', '')}`;
+                    } else if (params.category && !params.type) {
+                        return `/nikkei/cn/cn/${params.category.replace('.html', '')}`;
+                    } else {
+                        return `/nikkei/cn/cn`;
+                    }
+                } } ],
     www:[ { title:"Home page",
         docs:"https://docs.rsshub.app/traditional-media.html#ri-ben-jing-ji-xin-wen",
         source:"/",
-        target:"/nikkei/index" } ] },
+        target:"/nikkei/index" },
+      { title:"News",
+        docs:"https://docs.rsshub.app/traditional-media.html#ri-ben-jing-ji-xin-wen",
+        source:[ "/:category/archive",
+          "/:category" ],
+        target:"/nikkei/:category" } ],
+    "zh.cn":[ { title:"Chinese News",
+        docs:"https://docs.rsshub.app/traditional-media.html#ri-ben-jing-ji-xin-wen-zhong-wen-ban-xin-wen",
+        source:[ "/:category/:type",
+          "/:category",
+          "/" ],
+        target:(params) => {
+                    if (params.category && params.type) {
+                        return `/nikkei/cn/zh/${params.category}/${params.type.replace('.html', '')}`;
+                    } else if (params.category && !params.type) {
+                        return `/nikkei/cn/zh/${params.category.replace('.html', '')}`;
+                    } else {
+                        return `/nikkei/cn/zh`;
+                    }
+                } } ] },
   "nintendo.com":{ _name:"Nintendo",
     ".":[ { title:"Direct meeting",
         docs:"https://docs.rsshub.app/game.html#nintendo",

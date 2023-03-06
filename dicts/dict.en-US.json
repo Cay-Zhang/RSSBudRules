@@ -1366,7 +1366,6 @@
     "课题报告": "Project Report",
     "研究评论": "Research Reviews",
     "其他报告": "Other Reports",
-    "日本経済新聞": "Japan Economic News",
     "ホームページ": "Home page",
     "Nintendo": "Nintendo",
     "直面会": "Direct meeting",
@@ -2299,5 +2298,8 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "日本经济新闻": "Nihon Keizai Shimbun",
+    "中文版新闻": "Chinese News",
+    "中文版新聞": "Chinese News"
 }
