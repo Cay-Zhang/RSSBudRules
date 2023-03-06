@@ -150,6 +150,8 @@
     "推荐": "Recommend",
     "艾莱资讯": "Elle Information",
     "世界轨道交通资讯网": "World Rail Information Network",
+    "Amazon": "Amazon",
+    "Kindle 软件更新": "Kindle Software Updates",
     "Android Developers": "Android Developers",
     "SDK Platform Tools release notes": "SDK Platform Tools release notes",
     "Annual Reviews": "Annual Reviews",
@@ -2304,7 +2306,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "Amazon": "Amazon",
-    "Kindle 软件更新": "Kindle Software Updates"
+    "资讯专区": "Information Zone"
 }
