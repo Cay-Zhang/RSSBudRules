@@ -11192,6 +11192,17 @@
         source:[ "/:id",
           "/" ],
         target:"/xmnn/epaper/:id" } ] },
+  "xsijishe.com":{ _name:"Driver's Club",
+    ".":[ { title:"Forum",
+        docs:"https://docs.rsshub.app/bbs.html#si-ji-she",
+        source:[ "/*" ],
+        target:(_, url) => {
+                    const re = /forum-(\d+)-/;
+                    const res = re.exec(url);
+                    if (res) {
+                        return `/xsijishe/forum/${res[1]}`;
+                    }
+                } } ] },
   "danjuanapp.com":{ _name:"Snowball",
     ".":[ { title:"Egg Roll Fund Net Worth Update",
         docs:"https://docs.rsshub.app/finance.html#xue-qiu",
