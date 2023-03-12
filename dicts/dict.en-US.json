@@ -1265,6 +1265,8 @@
     "LiSA Official": "LiSA Official",
     "Albums": "Albums",
     "Macfilos": "Macfilos",
+    "magazineLib": "magazineLib",
+    "Latest Magazine": "Latest Magazine",
     "MangaDex": "MangaDex",
     "漫画柜": "Comics Cabinet",
     "漫画柜个人订阅": "Cartoon Cabinet Personal Subscription",
@@ -2330,7 +2332,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "magazineLib": "magazineLib",
-    "Latest Magazine": "Latest Magazine"
+    "资讯专区": "Information Zone"
 }
