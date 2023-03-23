@@ -2032,6 +2032,14 @@
         docs:"https://docs.rsshub.app/new-media.html#cha-ping",
         source:[ "/newsflash" ],
         target:"/chaping/newsflash" } ] },
+  "chiculture.org.hk":{ _name:"General Studies - Modern China",
+    ".":[ { title:"Hot Topics",
+        docs:"https://docs.rsshub.app/new-media.html#tong-shi-・-xian-dai-zhong-guo",
+        source:[ "/tc/hot-topics" ],
+        target:(_, url) => {
+                    const searchParams = new URL(url).searchParams;
+                    return `/chiculture${searchParams.has('category') ? `/${searchParams.get('category')}` : ''}`;
+                } } ] },
   "china.com":{ _name:"China.com",
     military:[ { title:"Military News",
         docs:"https://docs.rsshub.app/new-media.html#zhong-hua-wang",
