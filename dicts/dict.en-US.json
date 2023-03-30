@@ -1236,7 +1236,6 @@
     "用户发帖": "User Posting",
     "连享会": "Clubs",
     "精彩资讯": "News",
-    "LINE Today": "LINE Today",
     "LinkedIn": "LinkedIn",
     "Job Listing": "Job Listing",
     "LinkedIn 领英中国": "LinkedIn Linking China",
@@ -2376,5 +2375,7 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "LINE": "LINE",
+    "Today - 频道": "Today - Channel"
 }
