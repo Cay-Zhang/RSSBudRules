@@ -895,6 +895,7 @@
     "上海市药品监督管理局": "Shanghai Drug Administration",
     "陕西省人民政府": "Shaanxi Provincial People's Government",
     "陕西省科学技术厅": "Science and Technology Department of Shaanxi Province",
+    "中国政府网": "China Government Network",
     "国家统计局": "National Bureau of Statistics",
     "统计数据 > 最新发布": "Statistics > Latest Release",
     "深圳政府在线移动门户": "Shenzhen Government Online Mobile Portal",
@@ -907,7 +908,6 @@
     "突发性天气提示": "Sudden Weather Tips",
     "广东省内城市预警信号": "Warning signals for cities in Guangdong Province",
     "信宜市人民政府": "Xinyi Municipal People's Government",
-    "中国政府网": "China Government Network",
     "最新政策": "Latest Policies",
     "最新文件": "Latest Documents",
     "信息稿件": "Information articles",
@@ -2401,5 +2401,10 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "政府新闻 - 政策文件": "Government News - Policy Documents",
+    "政府新闻 - 政务部门": "Government News - Government Departments",
+    "政府新闻 - 滚动新闻": "Government News - Rolling News",
+    "政府新闻 - 新闻要闻": "Government News - News Highlights",
+    "政府新闻 - 国务院新闻": "Government News - State Council News"
 }
