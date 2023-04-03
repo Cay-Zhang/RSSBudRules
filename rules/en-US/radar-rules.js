@@ -4173,6 +4173,12 @@
                         return '/gov/huizhou/zwgk/xqyw';
                     }
                 } } ] },
+  "jinan.gov.cn":{ _name:"Jinan City Health and Wellness Committee",
+    jnmhc:[ { title:"Get notice of the national physician licensing exam",
+        docs:"https://docs.rsshub.app/government.html#ji-nan-shi-wei-sheng-jian-kang-wei-yuan-hui",
+        source:[ "",
+          "/*" ],
+        target:"/gov/jinan/healthcommission/medical_exam_notice" } ] },
   "maoming.gov.cn":{ _name:"Maoming Municipal People's Government Portal",
     ".":[ { title:"Maoming Municipal People's Government",
         docs:"https://docs.rsshub.app/government.html#mao-ming-shi-ren-min-zheng-fu-mao-ming-shi-ren-min-zheng-fu-men-hu-wang-zhan",
