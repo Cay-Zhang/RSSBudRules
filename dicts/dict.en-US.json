@@ -248,6 +248,8 @@
     "Bellroy": "Bellroy",
     "本地宝": "Local Treasure",
     "焦点资讯": "Focus Information",
+    "番组放送": "Group Release",
+    "开播提醒": "Start of broadcast reminder",
     "BigQuant": "BigQuant",
     "专题报告": "Special Reports",
     "bilibili": "bilibili",
@@ -2411,7 +2413,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "番组放送": "Group Release",
-    "开播提醒": "Start of broadcast reminder"
+    "资讯专区": "Information Zone"
 }
