@@ -4102,7 +4102,7 @@
     ".":[ { title:"Deyang Government Public Information",
         docs:"https://docs.rsshub.app/government.html#de-yang-shi-fu-ren-min-zheng-zheng-fu",
         source:[ "/*" ],
-        target:"/sichuan/deyang/govpulicinfo/:countyName" } ] },
+        target:"/sichuan/deyang/govpublicinfo/:countyName" } ] },
   "dianbai.gov.cn":{ _name:"People's Government of Dianbai District, Maoming City",
     www:[ { title:"People's Government of Dianbai District, Maoming City",
         docs:"https://docs.rsshub.app/government.html#mao-ming-shi-ren-min-zheng-fu-mao-ming-shi-dian-bai-qu-ren-min-zheng-fu",
