@@ -30,10 +30,14 @@
     "文庫": "Literature",
     "19 楼": "19 floors",
     "头条": "Headlines",
+    "一亩三分地": "one acre, three cents",
     "博客": "Blog",
     "帖子": "Posts",
     "分区": "Zoning",
     "标签": "Tags",
+    "用户主题帖": "User Topic Post",
+    "用户回帖": "User replies",
+    "录取结果": "Admissions Results",
     "二次元虫洞": "Binary Wormhole",
     "板块": "Board",
     "35PHOTO": "35PHOTO",
@@ -2424,9 +2428,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "一亩三分地": "one acre, three cents",
-    "用户主题帖": "User Topic Post",
-    "用户回帖": "User replies",
-    "录取结果": "Admissions Results"
+    "资讯专区": "Information Zone"
 }
