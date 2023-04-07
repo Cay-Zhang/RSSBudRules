@@ -3559,6 +3559,28 @@
         docs:"https://docs.rsshub.app/program-update.html#fosshub-software-update",
         source:[ "/" ],
         target:(params, url) => `/fosshub/${new URL(url).match(/\/(.*?)\.html$/)[1]}` } ] },
+  "freecomputerbooks.com":{ _name:"Free Computer Books",
+    ".":[ { title:"Selected New Books",
+        docs:"https://docs.rsshub.app/en/reading.html#free-computer-books",
+        source:[ "/",
+          "/index.html" ],
+        target:"/freecomputerbooks" },
+      { title:"Current Book List",
+        docs:"https://docs.rsshub.app/en/reading.html#free-computer-books",
+        source:[ "/:category" ],
+        target:(params, _, document) => {
+                    const categoryId = params.category.replace('.html', '');
+
+                    if (categoryId === 'index') {
+                        return; // only matching the "Selected New Books" rule above
+                    }
+
+                    if (!document.querySelector('ul[id^=newBooks]')) {
+                        return; // not a proper book list page
+                    }
+
+                    return '/freecomputerbooks/' + categoryId;
+                } } ] },
   "freewechat.com":{ _name:"自由微信",
     ".":[ { title:"公众号",
         docs:"https://docs.rsshub.app/new-media.html#zi-you-wei-xin",
@@ -10126,6 +10148,9 @@
         docs:"https://docs.rsshub.app/finance.html#zheng-quan-shi-bao-wang-lan-mu",
         source:[ "/" ],
         target:(params, url) => `/stcn/${new URL(url).toString().match(/article\/list\/(.*)\.html/)[1]}` } ] },
+  "stdaily.com":{ _name:"中国科技网",
+    digitalpaper:[ { title:"科技日报",
+        docs:"https://docs.rsshub.app/traditional-media.html#zhong-guo-ke-ji-wang" } ] },
   "stheadline.com":{ _name:"星島日報",
     std:[ { title:"即時",
         docs:"https://docs.rsshub.app/traditional-media.html#xing-dao-ri-bao",
