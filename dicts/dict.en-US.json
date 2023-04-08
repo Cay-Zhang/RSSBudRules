@@ -83,9 +83,13 @@
     "52hrtt 华人头条": "52hrtt Chinese Headlines",
     "新闻": "News",
     "专题": "Topics",
+    "留园网": "Liuyuan.com",
     "分站": "Sub-site",
     "精华区": "Essence area",
     "搜索关键字": "Search keywords",
+    "新闻栏目": "News section",
+    "头条精选": "Headlines",
+    "新闻搜索": "News Search",
     "6v电影": "6v movie",
     "最新电影": "Latest Movies",
     "最新电视剧": "Latest TV Series",
@@ -2081,6 +2085,7 @@
     "公众号（feeddd 来源）": "Public (feeddd source)",
     "公众平台系统公告栏目": "Public platform system announcement section",
     "公众号（wechat-feeds 来源）": "Public (wechat-feeds source)",
+    "公众号（搜狗来源）": "Public (Sogou source)",
     "公众号（wxnmh.com 来源）": "Public (wxnmh.com source)",
     "公众号（wechat2rss 来源）": "Public number (wechat2rss source)",
     "新假期周刊": "New Holiday Weekly",
@@ -2436,10 +2441,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "留园网": "Liuyuan.com",
-    "新闻栏目": "News section",
-    "头条精选": "Headlines",
-    "新闻搜索": "News Search",
-    "公众号（搜狗来源）": "Public (Sogou source)"
+    "资讯专区": "Information Zone"
 }
