@@ -3594,6 +3594,14 @@
         docs:"https://docs.rsshub.app/blog.html#shi-nian-zhi-yue",
         source:[ "/feeds.html" ],
         target:"/foreverblog/feeds" } ] },
+  "fortnite.com":{ _name:"Fortnite",
+    ".":[ { title:"News",
+        docs:"https://docs.rsshub.app/game.html#fortnite",
+        source:[ "/news" ],
+        target:(_, url) => {
+                    const lang = url.match(/\?(lang=\w*)/);
+                    return lang ? `/fortnite/news/${lang[1]}` : `/fortnite/news`;
+                } } ] },
   "fortunechina.com":{ _name:"Fortune Chinese",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/new-media.html#cai-fu-zhong-wen-wang-fen-lei",
