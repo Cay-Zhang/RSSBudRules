@@ -255,6 +255,7 @@
     "订阅漫画": "Subscribe to Comics",
     "巴伦周刊中文版": "Barron's China",
     "栏目": "Column",
+    "通用": "General",
     "BBC News Labs": "BBC News Labs",
     "哔嘀影视": "Beep Video",
     "Behance": "Behance",
@@ -307,7 +308,6 @@
     "北京天文馆": "Beijing Planetarium",
     "每日一图": "Picture of the Day",
     "北京社科网": "Beijing Social Science Network",
-    "通用": "General",
     "北京无线电协会": "Beijing Radio Association",
     "最新资讯": "Latest News",
     "北极星电力网": "Polaris Power Network",
@@ -2451,5 +2451,7 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "北京市科学技术协会": "Beijing Science and Technology Association",
+    "中国技术经济学会": "China Society for Technology Economics"
 }
