@@ -255,6 +255,7 @@
     "订阅漫画": "Subscribe to Comics",
     "巴伦周刊中文版": "Barron's China",
     "栏目": "Column",
+    "北京市科学技术协会": "Beijing Science and Technology Association",
     "通用": "General",
     "BBC News Labs": "BBC News Labs",
     "哔嘀影视": "Beep Video",
@@ -350,6 +351,7 @@
     "用户博客": "User Blog",
     "财新数据通": "Caixin Data Access",
     "财新一线": "Caixin First Line",
+    "中国技术经济学会": "China Society for Technology Economics",
     "参考消息": "Reference News",
     "動漫狂": "Anime Mania",
     "中国科学院": "Chinese Academy of Sciences",
@@ -2451,7 +2453,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "北京市科学技术协会": "Beijing Science and Technology Association",
-    "中国技术经济学会": "China Society for Technology Economics"
+    "资讯专区": "Information Zone"
 }
