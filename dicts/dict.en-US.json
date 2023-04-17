@@ -658,8 +658,7 @@
     "Espresso": "Espresso",
     "GRE Vocabulary": "GRE Vocabulary",
     "商论": "Business Talk",
-    "华东理工继续教育学院": "College of Continuing Education of East China University of Science and Technology",
-    "新闻公告": "Press Releases",
+    "研究生院通知公告": "Graduate School Notice",
     "Elastic 中文社区": "Elastic Chinese Community",
     "发现": "Discover",
     "电鸭社区": "Electric Duck Community",
@@ -2178,7 +2177,6 @@
     "西安交通大学": "Xi'an Jiaotong University",
     "第二附属医院新闻": "Second Affiliated Hospital News",
     "电气学院": "School of Electricity",
-    "研究生院通知公告": "Graduate School Notice",
     "国际处通知": "International Office Notice",
     "科技在线": "Technology Online",
     "第一附属医院新闻": "News of the First Affiliated Hospital",
@@ -2479,5 +2477,7 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "华东理工大学": "East China University of Science and Technology",
+    "继续教育学院 - 学院公告": "College of Continuing Education - College Announcement"
 }
