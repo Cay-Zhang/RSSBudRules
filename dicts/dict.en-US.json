@@ -206,6 +206,8 @@
     "限免应用": "Restricted Applications",
     "GoFans": "GoFans",
     "最新限免": "Latest Restrictions",
+    "Aqara": "Aqara",
+    "Community": "Community",
     "Arcteryx": "Arcteryx",
     "新发布": "New Releases",
     "Outlet": "Outlet",
@@ -1610,7 +1612,6 @@
     "User profile": "User profile",
     "Picuki": "Picuki",
     "Pikabu": "Pikabu",
-    "Community": "Community",
     "品葱": "Pinned Onion",
     "精选": "Featured",
     "品玩": "Pinning and playing",
@@ -2479,6 +2480,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "Aqara": "Aqara"
+    "资讯专区": "Information Zone"
 }
