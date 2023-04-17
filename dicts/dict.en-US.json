@@ -568,6 +568,7 @@
     "DLsite": "DLsite",
     "当前日期发售的新产品": "New products on sale on current date",
     "产品打折信息": "Product Discount Information",
+    "Ci-en 创作者文章": "Ci-en creator articles",
     "动漫之家": "Anime House",
     "宅新闻": "House News",
     "漫画情报": "Manga Information",
@@ -1277,6 +1278,8 @@
     "报道": "Reports",
     "lativ": "lativ",
     "订阅商品价格": "Subscribe to product prices",
+    "Layer3": "Layer3",
+    "Quests": "Quests",
     "Layoffs": "Layoffs",
     "Data Tracker Feed": "Data Tracker Feed",
     "登链社区": "Login Chain Community",
@@ -2476,8 +2479,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "Ci-en 创作者文章": "Ci-en creator articles",
-    "Layer3": "Layer3",
-    "Quests": "Quests"
+    "资讯专区": "Information Zone"
 }
