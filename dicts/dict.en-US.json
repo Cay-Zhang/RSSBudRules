@@ -287,6 +287,7 @@
     "UP 主频道的视频列表": "List of videos on UP main channel",
     "UP 主专栏": "UP Main Column",
     "UP 主默认收藏夹": "UP Main Default Favorites",
+    "UP 主非默认收藏夹": "UP main non-default favorites",
     "UP 主投币视频": "UP Master Coin Video",
     "UP 主粉丝": "UP Master Fans",
     "UP 主关注用户": "UP Master Followers",
@@ -2480,6 +2481,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "UP 主非默认收藏夹": "UP main non-default favorites"
+    "资讯专区": "Information Zone"
 }
