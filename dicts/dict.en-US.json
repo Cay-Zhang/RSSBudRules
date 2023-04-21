@@ -524,6 +524,8 @@
     "录取公告": "Admission Announcement",
     "中国留学网": "China Study Abroad Network",
     "CSDN": "CSDN",
+    "中国社会科学网": "China Social Science Network",
+    "中国法学网": "China Jurisprudence Network",
     "中南大学": "Central South University",
     "就业信息网招聘信息": "Employment Information Network Job Information",
     "校长信箱": "Principal's Mailbox",
@@ -2528,7 +2530,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "中国社会科学网": "China Social Science Network",
-    "中国法学网": "China Jurisprudence Network"
+    "资讯专区": "Information Zone"
 }
