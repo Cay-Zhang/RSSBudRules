@@ -7974,7 +7974,7 @@
       { title:"Designated episodes",
         docs:"https://docs.rsshub.app/multimedia.html#new-zi-mu-zu",
         source:[ "/view/:id" ],
-        target:(params) => `/newzmz/view/${params.id.replace('.html', '')}` } ] },
+        target:(params) => `/newzmz/${params.id.replace('.html', '')}` } ] },
   "nextapple.com":{ _name:"One Apple News",
     tw:[ { title:"Latest News",
         docs:"https://docs.rsshub.app/new-media.html#yi-ping-xin-wen-wang",
