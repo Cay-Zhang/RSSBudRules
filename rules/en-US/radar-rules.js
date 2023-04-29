@@ -10006,6 +10006,12 @@
                     }
                     return `/sdu/sc/${type}`;
                 } } ] },
+  "sdust.edu.cn":{ _name:"Shandong University of Science and Technology",
+    ".":[ { title:"Graduate Student Admissions Network",
+        docs:"https://docs.rsshub.app/university.html#shan-dong-ke-ji-da-xue-yan-jiu-sheng-zhao-sheng-wang",
+        source:[ "/zhaosheng",
+          "/" ],
+        target:(params, url) => `/sdust/yjsy/zhaosheng/${new URL(url).href.match(/zhaosheng\/(.*)\.htm/)[1]}` } ] },
   "secrss.com":{ _name:"Security Insider",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/programming.html#an-quan-nei-can",
