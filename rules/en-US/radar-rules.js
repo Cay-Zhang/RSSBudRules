@@ -7390,7 +7390,11 @@
     genshin:[ { title:"Hara-Kami - News",
         docs:"https://docs.rsshub.app/game.html##mi-ha-you",
         source:"/:location/news",
-        target:"/mihoyo/ys/:location" } ] },
+        target:"/mihoyo/ys/:location" } ],
+    hsr:[ { title:"Wipeout: Star Dome Railroad - News",
+        docs:"https://docs.rsshub.app/game.html##mi-ha-you",
+        source:"/:location/news",
+        target:"/mihoyo/sr/:location" } ] },
   "mihoyo.com":{ _name:"Miha Tour",
     bbs:[ { title:"MiYusha - Official Announcement",
         docs:"https://docs.rsshub.app/game.html#mi-ha-you-mi-you-she-guan-fang-gong-gao",
@@ -7419,6 +7423,10 @@
                     const last_id = '';
                     return `/mihoyo/bbs/official/${gids}/${type}/${page_size}/${last_id}`;
                 } } ],
+    sr:[ { title:"Wipeout: Star Dome Railroad - News",
+        docs:"https://docs.rsshub.app/game.html##mi-ha-you",
+        source:"/news",
+        target:"/mihoyo/sr" } ],
     ys:[ { title:"Hara-Kami - News",
         docs:"https://docs.rsshub.app/game.html##mi-ha-you",
         source:"/:location/news/:category",
