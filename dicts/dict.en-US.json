@@ -477,6 +477,9 @@
     "CNCF": "CNCF",
     "Announcements": "Announcements",
     "Reports": "Reports",
+    "中国国家应急广播": "China National Emergency Broadcasting",
+    "应急新闻": "Emergency News",
+    "预警信息": "Early Warning Information",
     "CnGal": "CnGal",
     "每周速报": "Weekly Quick Facts",
     "制作者/游戏新闻": "Producer / Game News",
@@ -862,6 +865,7 @@
     "北京卫生健康委员会": "Beijing Health and Wellness Commission",
     "北京保障房中心有限公司": "Beijing Security Housing Center Co.",
     "北京市共有产权住房租赁服务平台": "Beijing Shared Ownership Housing Leasing Service Platform",
+    "中央网信办": "Central Internet Information Office",
     "中央纪委国家监委": "Central Commission for Discipline Inspection and State Supervision Commission",
     "湖南省人民政府": "Hunan Provincial People's Government",
     "市长信箱": "Mayor's Mailbox",
@@ -2548,9 +2552,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "中国国家应急广播": "China National Emergency Broadcasting",
-    "应急新闻": "Emergency News",
-    "预警信息": "Early Warning Information",
-    "中央网信办": "Central Internet Information Office"
+    "资讯专区": "Information Zone"
 }
