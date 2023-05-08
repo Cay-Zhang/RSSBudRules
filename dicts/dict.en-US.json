@@ -55,6 +55,8 @@
     "专题文章": "Feature Articles",
     "搜索文章": "Search Articles",
     "搜索快讯": "Search Newsletters",
+    "新闻中心": "News",
+    "游戏资讯": "Game Information",
     "423down": "423down",
     "首页": "Home",
     "安卓软件": "Android Software",
@@ -599,7 +601,6 @@
     "动漫周边": "Anime peripherals",
     "声优情报": "Voice Actor Information",
     "音乐资讯": "Music Information",
-    "游戏资讯": "Game Information",
     "美图欣赏": "Beautiful pictures",
     "漫展情报": "Comic Con Information",
     "大杂烩": "Hodgepodge",
@@ -882,7 +883,6 @@
     "专题报道": "Feature Story",
     "科普教育": "Science Education",
     "中国互联网络信息中心": "China Internet Network Information Center",
-    "新闻中心": "News",
     "重庆市人民政府": "Chongqing Municipal People's Government",
     "重庆人事考试通知公告": "Chongqing Personnel Examination Notice",
     "中国证券监督管理委员会": "China Securities Regulatory Commission",
@@ -2553,5 +2553,6 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "3DMGame": "3DMGame"
 }
