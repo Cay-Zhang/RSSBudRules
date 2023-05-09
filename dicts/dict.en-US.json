@@ -1415,6 +1415,11 @@
     "Mclaren Racing": "Mclaren Racing",
     "迈凯伦赛车": "McLaren Racing",
     "MDPI": "MDPI",
+    "Medium": "Medium",
+    "个性推荐 - For You": "Personalized Recommendations - For You",
+    "个性推荐 - Following": "Personalized Recommendations - Following",
+    "个性推荐 - Tag": "Personalized Recommendations - Tag",
+    "List": "List",
     "梅斯医学": "Mace Medical",
     "妹图社": "Sister picture agency",
     "Meteor": "Meteor",
@@ -2556,10 +2561,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "Medium": "Medium",
-    "个性推荐 - For You": "Personalized Recommendations - For You",
-    "个性推荐 - Following": "Personalized Recommendations - Following",
-    "个性推荐 - Tag": "Personalized Recommendations - Tag",
-    "List": "List"
+    "资讯专区": "Information Zone"
 }
