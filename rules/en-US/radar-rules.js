@@ -897,6 +897,12 @@
                     const id = new URL(url).searchParams.get('id');
                     return `/ajmide/${id}`;
                 } } ] },
+  "aliresearch.com":{ _name:"Ali Research Institute",
+    ".":[ { title:"Information",
+        docs:"https://docs.rsshub.app/new-media.html#a-li-yan-jiu-yuan",
+        source:[ "/cn/information",
+          "/" ],
+        target:"/aliresearch/information" } ] },
   "aliyun.com":{ _name:"Ali cloud",
     developer:[ { title:"Developer Community - Topics",
         docs:"https://docs.rsshub.app/programming.html#a-li-yun",
