@@ -156,6 +156,7 @@
     "专栏": "Column",
     "中国国际航空公司": "Air China",
     "服务公告": "Service Announcement",
+    "栏目": "Column",
     "阿基米德FM": "Archimedes FM",
     "播客": "Podcast",
     "阿里研究院": "Ali Research Institute",
@@ -266,7 +267,6 @@
     "包子漫画": "Baozi Cartoon",
     "订阅漫画": "Subscribe to Comics",
     "巴伦周刊中文版": "Barron's China",
-    "栏目": "Column",
     "北京市科学技术协会": "Beijing Science and Technology Association",
     "通用": "General",
     "BBC News Labs": "BBC News Labs",
@@ -2588,5 +2588,8 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "爱思想": "Love Thought",
+    "排行": "Ranking",
+    "思想库（专栏）": "Thought Bank (Column)"
 }

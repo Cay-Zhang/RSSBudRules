@@ -895,6 +895,26 @@
         docs:"https://docs.rsshub.app/travel.html#zhong-guo-guo-ji-hang-kong-gong-si",
         source:"/",
         target:"/airchina/announcement" } ] },
+  "aisixiang.com":{ _name:"Love Thought",
+    ".":[ { title:"Column",
+        docs:"https://docs.rsshub.app/reading.html#ai-si-xiang",
+        source:[ "/data/search",
+          "/" ],
+        target:(params, url) => `/aisixiang/column/${new URL(url).searchParams.get('column')}` },
+      { title:"Ranking",
+        docs:"https://docs.rsshub.app/reading.html#ai-si-xiang",
+        source:[ "/toplist",
+          "/" ],
+        target:(params, url) => {
+                    const id = new URL(url).searchParams.get('id');
+                    const period = new URL(url).searchParams.get('period');
+                    return `/aisixiang/toplist${id ? `/${id}${(id === '1' || !id) && period ? `/${period}` : ''}` : ''}`;
+                } },
+      { title:"Thought Bank (Column)",
+        docs:"https://docs.rsshub.app/reading.html#ai-si-xiang",
+        source:[ "/thinktank",
+          "/" ],
+        target:(params, url) => `/aisixiang/thinktank/${new URL(url).href.match(/thinktank\/(.*)\.html/)[1]}` } ] },
   "ajmide.com":{ _name:"Archimedes FM",
     m:[ { title:"Podcast",
         docs:"https://docs.rsshub.app/multimedia.html#a-ji-mi-de-fm-bo-ke",
