@@ -1587,6 +1587,8 @@
     "点播": "On Demand",
     "Node.js": "Node.js",
     "乃木坂46": "Nogizaka 46",
+    "Notion": "Notion",
+    "Database": "Database",
     "Now 新聞": "Now News",
     "牛客网": "Cowcatcher.com",
     "面经": "Interviews",
@@ -2080,6 +2082,7 @@
     "杭州市": "Hangzhou",
     "南京市": "Nanjing",
     "长沙市": "Changsha",
+    "深圳市": "Shenzhen",
     "武汉市": "Wuhan",
     "萧山区": "Xiaoshan District",
     "阳江市": "Yangjiang City",
@@ -2593,8 +2596,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "Notion": "Notion",
-    "Database": "Database",
-    "深圳市": "Shenzhen"
+    "资讯专区": "Information Zone"
 }
