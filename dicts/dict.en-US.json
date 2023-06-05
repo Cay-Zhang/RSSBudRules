@@ -1600,6 +1600,8 @@
     "点播": "On Demand",
     "Node.js": "Node.js",
     "乃木坂46": "Nogizaka 46",
+    "Not a Tesla App": "Not a Tesla App",
+    "特斯拉系统更新": "Tesla System Update",
     "Notefolio": "Notefolio",
     "Search": "Search",
     "Notion": "Notion",
@@ -2644,7 +2646,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "Not a Tesla App": "Not a Tesla App",
-    "特斯拉系统更新": "Tesla System Update"
+    "资讯专区": "Information Zone"
 }
