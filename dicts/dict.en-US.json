@@ -136,7 +136,7 @@
     "Journal": "Journal",
     "American Economic Association": "American Economic Association",
     "AEON": "AEON",
-    "Essays": "Essays",
+    "Category": "Category",
     "AGE动漫": "AGE Animation",
     "最近更新": "Recent Updates",
     "番剧详情": "Details of the foreign drama",
@@ -371,6 +371,7 @@
     "caa.reviews": "caa.reviews",
     "Book Reviews": "Book Reviews",
     "Exhibition Reviews": "Exhibition Reviews",
+    "Essays": "Essays",
     "全国港澳研究会": "National Association for the Study of Hong Kong and Macau",
     "财经网": "Financial Network",
     "财新网": "Caixin.com",
@@ -783,7 +784,6 @@
     "优惠信息": "Offer Information",
     "信用卡": "Credit Card",
     "Focus Taiwan": "Focus Taiwan",
-    "Category": "Category",
     "Followin": "Followin",
     "KOL": "KOL",
     "Foresight News": "Foresight News",
@@ -2646,5 +2646,7 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "Types (Essays, Videos, or Audio)": "Types (Essays, Videos, or Audio)",
+    "研究生信息": "Graduate Student Information"
 }
