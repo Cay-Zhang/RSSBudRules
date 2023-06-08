@@ -1505,6 +1505,8 @@
     "圖片": "Pictures",
     "MyGoPen": "MyGoPen",
     "MySQL": "MySQL",
+    "National Geographic": "National Geographic",
+    "Latest Stories": "Latest Stories",
     "国家地理": "National Geographic",
     "Nature": "Nature",
     "最新成果": "Latest Results",
@@ -2657,7 +2659,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "National Geographic": "National Geographic",
-    "Latest Stories": "Latest Stories"
+    "资讯专区": "Information Zone"
 }
