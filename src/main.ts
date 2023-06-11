@@ -109,7 +109,11 @@ async function translateRuleFiles(ruleNames: string[], dict: Map<string, string>
         }
         const delimiter = string.charAt(offset - 1)
         if (string.charAt(offset + match.length) === delimiter && [`"`, `'`, `\``].includes(delimiter)) {
-            return dict.get(match) ?? match
+            const value = dict.get(match) ?? match
+            return value.replace(/\\/g, '\\\\')
+                .replace(/"/g, '\\"')
+                .replace(/'/g, "\\'")
+                .replace(/`/g, '\\`')
         } else {
             return match
         }
