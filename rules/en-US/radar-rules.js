@@ -10358,6 +10358,16 @@
         source:[ "/zhaosheng",
           "/" ],
         target:(params, url) => `/sdust/yjsy/zhaosheng/${new URL(url).href.match(/zhaosheng\/(.*)\.htm/)[1]}` } ] },
+  "sdzk.cn":{ _name:"Shandong Education and Admissions Examination Institute",
+    ".":[ { title:"News",
+        docs:"https://docs.rsshub.app/study.html#shan-dong-sheng-jiao-yu-zhao-sheng-kao-shi-yuan-xin-wen",
+        source:[ "/NewsList.aspx",
+          "/" ],
+        target:(params, url) => {
+                    const bcid = new URL(url).searchParams.get('BCID');
+                    const cid = new URL(url).searchParams.get('CID');
+                    return `/sdzk${bcid ? `/${bcid}${cid ? `/${cid}` : ''}` : ''}`;
+                } } ] },
   "secrss.com":{ _name:"Security Insider",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/programming.html#an-quan-nei-can",
