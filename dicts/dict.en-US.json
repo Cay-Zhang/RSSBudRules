@@ -1092,6 +1092,8 @@
     "月刊": "Monthly Newsletter",
     "Hex-Rays": "Hex-Rays",
     "Hex-Rays News": "Hex-Rays News",
+    "公式ブログ": "Formula Brogue",
+    "ニュース": "News",
     "哈尔滨工业大学": "Harbin Institute of Technology",
     "哈尔滨工业大学教务处通知公告": "Harbin Institute of Technology Academic Affairs Office Notice",
     "今日哈工大": "HUST Today",
@@ -1842,8 +1844,6 @@
     "中国人民大学": "Renmin University of China",
     "Rust语言中文社区": "Rust Language Chinese Community",
     "櫻坂46": "Sakurazaka46",
-    "公式ブログ": "Formula Brogue",
-    "ニュース": "News",
     "Samsung": "Samsung",
     "Research Blog": "Research Blog",
     "Saraba1st": "Saraba1st",
@@ -2672,5 +2672,6 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "日向坂46": "Hyugazaka46"
 }
