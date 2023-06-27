@@ -2124,6 +2124,14 @@
         source:[ "/yjsjy/zs/sszs",
           "/" ],
         target:"/cas/ia/yjs" } ],
+    "www.is":[ { title:"Software Research Institute",
+        docs:"https://docs.rsshub.app/university.html#zhong-guo-ke-xue-yuan",
+        source:[ "/" ],
+        target:(params, url, document) => {
+                    if (document.querySelector('.list-news')) {
+                        return `/cas/is/${url.split('/').slice(3, -1).join('/')}`;
+                    }
+                } } ],
     "www.sim":[ { title:"Shanghai Institute of Microsystems and Information Technology - Science and Technology Progress",
         docs:"https://docs.rsshub.app/university.html#zhong-guo-ke-xue-yuan",
         source:[ "/xwzx2016/kyjz",
@@ -4161,7 +4169,11 @@
       { title:"Podcasts - Categories",
         docs:"https://docs.rsshub.app/new-media.html#ji-he-wang-bo-ke",
         source:[ "/categories/:category" ],
-        target:"/gcores/radios/:category" } ] },
+        target:"/gcores/radios/:category" },
+      { title:"Topics",
+        docs:"https://docs.rsshub.app/new-media.html#ji-he-wang-zhuan-ti",
+        source:[ "/collections/:collection" ],
+        target:"/gcores/collections/:collection" } ] },
   "gdut.edu.cn":{ _name:"Guangdong University of Technology",
     oas:[ { title:"Notice official document network",
         docs:"https://docs.rsshub.app/university.html#guang-dong-gong-ye-da-xue-tong-zhi-gong-wen-wang",
