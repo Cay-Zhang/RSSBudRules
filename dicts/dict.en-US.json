@@ -2687,5 +2687,10 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "Mastodon": "Mastodon",
+    "用户公共时间线": "User Public Timeline",
+    "实例公共时间线（本站）": "Instance public timeline (this site)",
+    "实例公共时间线（跨站）": "Instance public timeline (cross-site)",
+    "用户公共时间线（备用）": "User public timeline (alternate)"
 }
