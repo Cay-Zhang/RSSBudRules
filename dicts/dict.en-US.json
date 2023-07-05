@@ -1447,6 +1447,11 @@
     "漫画柜": "Comics Cabinet",
     "漫画柜个人订阅": "Cartoon Cabinet Personal Subscription",
     "漫画柜镜像站": "Manga Cabinet Mirror Station",
+    "Mastodon": "Mastodon",
+    "用户公共时间线": "User Public Timeline",
+    "实例公共时间线（本站）": "Instance public timeline (this site)",
+    "实例公共时间线（跨站）": "Instance public timeline (cross-site)",
+    "用户公共时间线（备用）": "User public timeline (alternate)",
     "MCA Chicago": "MCA Chicago",
     "McKinsey Greater China": "McKinsey Greater China",
     "汽车 | 洞见": "Automotive | Insight",
@@ -2687,10 +2692,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "Mastodon": "Mastodon",
-    "用户公共时间线": "User Public Timeline",
-    "实例公共时间线（本站）": "Instance public timeline (this site)",
-    "实例公共时间线（跨站）": "Instance public timeline (cross-site)",
-    "用户公共时间线（备用）": "User public timeline (alternate)"
+    "资讯专区": "Information Zone"
 }
