@@ -1,4 +1,14 @@
-({ "163.com":{ _name:"NetEase",
+({ "81.cn":{ _name:"China Military Network",
+    "81rc":[ { title:"Army Talent Network",
+        docs:"https://docs.rsshub.app/government.html#zhon-guo-jun-wang-jun-dui-ren-cai-wang",
+        source:[ "/" ],
+        target:(params, url) => {
+                    url = new URL(url);
+                    const path = url.href.match(/81rc\.81\.cn(.*?)/).replace(/\/index\.html$/, '');
+
+                    return `/81/81rc${path === '/' ? '' : path}`;
+                } } ] },
+  "163.com":{ _name:"NetEase",
     ".":[ { title:"NetEase number (universal)",
         docs:"https://docs.rsshub.app/new-media.html#wang-yi-hao",
         source:[ "/dy/media/:id",
