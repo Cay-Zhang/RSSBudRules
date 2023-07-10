@@ -1444,6 +1444,8 @@
     "Macfilos": "Macfilos",
     "MacMenuBar": "MacMenuBar",
     "Recently Added": "Recently Added",
+    "MacUpdate": "MacUpdate",
+    "更新": "Update",
     "magazineLib": "magazineLib",
     "Latest Magazine": "Latest Magazine",
     "MangaDex": "MangaDex",
@@ -2703,7 +2705,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "MacUpdate": "MacUpdate",
-    "更新": "Update"
+    "资讯专区": "Information Zone"
 }
