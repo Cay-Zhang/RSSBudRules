@@ -10521,6 +10521,9 @@
                     const cid = new URL(url).searchParams.get('CID');
                     return `/sdzk${bcid ? `/${bcid}${cid ? `/${cid}` : ''}` : ''}`;
                 } } ] },
+  "sec-in.com":{ _name:"SecIN Information Security Technology Community",
+    ".":[ { title:"Latest Articles",
+        docs:"https://docs.rsshub.app/bbs.html#secin-xin-xi-an-quan-ji-shu-she-qu" } ] },
   "secrss.com":{ _name:"Security Insider",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/programming.html#an-quan-nei-can",
