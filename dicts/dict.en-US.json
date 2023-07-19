@@ -612,6 +612,7 @@
     "官方博客": "Official Blog",
     "东莞教研网": "Dongguan Education and Research Network",
     "东华大学": "Tung Wah University",
+    "研究生院通知": "Graduate School Notice",
     "学术信息": "Academic Information",
     "最新信息公开": "Latest Information Disclosure",
     "研究生信息": "Graduate Student Information",
@@ -2639,7 +2640,6 @@
     "教务处学籍科通知": "Notice from the Academic Records Section, Academic Affairs Office",
     "教务处教学研究科通知": "Notice from the Teaching and Research Section of the Academic Affairs Office",
     "教务处实践科学科通知": "Notice from the Practical Science Section of the Academic Affairs Office",
-    "研究生院通知": "Graduate School Notice",
     "工学网": "Engineering Network",
     "时讯": "Newsletters",
     "日本郵便": "Japan Post",
@@ -2717,5 +2717,6 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone"
+    "资讯专区": "Information Zone",
+    "NPR": "NPR"
 }
