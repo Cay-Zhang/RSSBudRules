@@ -2180,6 +2180,16 @@
         source:[ "/col/col41740/index.html",
           "/" ],
         target:"/cau/yjs" } ] },
+  "cbaigui.com":{ _name:"transvestite",
+    ".":[ { title:"General",
+        docs:"https://docs.rsshub.app/new-media.html#ji-yao-tong-yong",
+        source:[ "/" ],
+        target:(params, url) => {
+                    url = new URL(url);
+                    const path = url.href.match(/\.com(.*?)/)[1];
+
+                    return `/cbaigui${path}`;
+                } } ] },
   "cbirc.gov.cn":{ _name:"China Banking and Insurance Regulatory Commission",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/government.html#zhong-guo-yin-xing-bao-xian-jian-du-guan-li-wei-yuan-hui",
