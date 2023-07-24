@@ -1294,6 +1294,7 @@
     "演員": "Actor",
     "系列": "Series",
     "片商": "Film Dealers",
+    "清单": "list of items",
     "JAVLibrary": "JAVLibrary",
     "最近讨论的影片": "Recently discussed films",
     "新发行的影片": "New Release Films",
@@ -2722,6 +2723,5 @@
     "海淘专区": "Amoy Zone",
     "社区文章": "Community Articles",
     "发现频道": "Discovery Channel",
-    "资讯专区": "Information Zone",
-    "清单": "list of items"
+    "资讯专区": "Information Zone"
 }
