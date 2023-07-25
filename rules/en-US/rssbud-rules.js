@@ -33,17 +33,6 @@
                     url.pathname += ".rss";
                     return url;
                 }
-            },
-            {
-                title: "Current page (trashhalo/reddit-rss)",
-                docs: "https://github.com/trashhalo/reddit-rss",
-                targetType: "url",
-                target: (params, url) => {
-                    url = new URL(url);
-                    url.pathname += ".json";
-                    url.domain = "reddit.0qz.fun";
-                    return url;
-                }
             }
         ]
     },
