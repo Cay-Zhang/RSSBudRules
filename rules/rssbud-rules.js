@@ -81,5 +81,26 @@
                 target: "http://news.smzdm.com/feed"
             }
         ]
+    },
+    "deviantart.com": {
+        _name: "DeviantArt",
+        ".": [
+            {
+                title: "当前搜索",
+                docs: "https://www.deviantart.com/developers/rss",
+                source: "/search",
+                targetType: "url",
+                target: (params, url) => {
+                    url = new URL(url);
+                    url.host = "backend.deviantart.com";
+                    url.pathname = "/rss.xml";
+                    const searchParams = new URLSearchParams();
+                    searchParams.set("type", "deviation");
+                    searchParams.set("q", url.searchParams.get("q"));
+                    url.search = searchParams.toString();
+                    return url;
+                }
+            }
+        ]
     }
 })
