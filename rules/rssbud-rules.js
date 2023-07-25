@@ -19,6 +19,12 @@
                 source: "/:user",
                 targetType: "pathForOriginal",
                 target: "/:user.atom"
+            },
+            {
+                title: "仓库讨论",
+                source: "/:user/:repo/discussions",
+                targetType: "pathForOriginal",
+                target: "/:user/:repo/discussions.atom"
             }
         ]
     },
@@ -100,6 +106,87 @@
                     url.search = searchParams.toString();
                     return url;
                 }
+            }
+        ]
+    },
+    "csdn.net": {
+        _name: "CSDN",
+        "blog": [
+            {
+                title: "博客",
+                source: "/:user",
+                targetType: "pathForOriginal",
+                target: "/:user/rss/list"
+            }
+        ]
+    },
+    "douban.com": {
+        _name: "豆瓣",
+        ".": [
+            {
+                title: "用户的日记",
+                source: "/people/:user",
+                targetType: "pathForOriginal",
+                target: "/feed/people/:user/notes"
+            }
+        ],
+        "music": [
+            {
+                title: "乐评",
+                source: "/subject/:id",
+                targetType: "url",
+                target: (params, url) => {
+                    url = new URL(url);
+                    url.host = "www.douban.com";
+                    url.pathname = "/feed/subject/" + params.id + "/reviews";
+                    return url;
+                }
+            }
+        ],
+        "movie": [
+            {
+                title: "影评",
+                source: "/subject/:id",
+                targetType: "url",
+                target: (params, url) => {
+                    url = new URL(url);
+                    url.host = "www.douban.com";
+                    url.pathname = "/feed/subject/" + params.id + "/reviews";
+                    return url;
+                }
+            }
+        ]
+    },
+    "readhub.cn": {
+        _name: "Readhub",
+        ".": [
+            {
+                title: "fengchang/readhub-rss",
+                docs: "https://github.com/fengchang/readhub-rss",
+                targetType: "url",
+                target: "http://readhub.bayes.cafe/rss?channel=all"
+            }
+        ]
+    },
+    "v2ex.com": {
+        _name: "V2EX",
+        ".": [
+            {
+                title: "节点",
+                source: "/go/:name",
+                targetType: "pathForOriginal",
+                target: (params) => `/feed/${params.name}.xml`
+            }
+        ]
+    },
+    "ximalaya.com": {
+        _name: "喜马拉雅",
+        ".": [
+            {
+                title: "专辑",
+                source: "/album/:id",
+                targetType: "url",
+                target: (params, url) => url + ".xml"
             }
         ]
     }
