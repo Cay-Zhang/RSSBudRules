@@ -21,7 +21,7 @@
                 target: "/:user.atom"
             },
             {
-                title: "Warehouse discussions",
+                title: "Repo Discussions",
                 source: "/:user/:repo/discussions",
                 targetType: "pathForOriginal",
                 target: "/:user/:repo/discussions.atom"
@@ -132,7 +132,7 @@
         ],
         "music": [
             {
-                title: "music criticism",
+                title: "Music Reviews",
                 source: "/subject/:id",
                 targetType: "url",
                 target: (params, url) => {
@@ -145,7 +145,7 @@
         ],
         "movie": [
             {
-                title: "movie review",
+                title: "Movie Reviews",
                 source: "/subject/:id",
                 targetType: "url",
                 target: (params, url) => {
@@ -172,7 +172,7 @@
         _name: "V2EX",
         ".": [
             {
-                title: "nodal",
+                title: "Node",
                 source: "/go/:name",
                 targetType: "pathForOriginal",
                 target: (params) => `/feed/${params.name}.xml`
