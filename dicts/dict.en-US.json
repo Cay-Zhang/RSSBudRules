@@ -472,6 +472,7 @@
     "Discussions": "Discussions",
     "仓库 Branches": "Repo Branches",
     "Issues / Pull Requests 评论": "Issues / Pull Requests Comments",
+    "Issue & Pull Request comments": "Issue & Pull Request comments",
     "仓库 Contributors": "Repo Contributors",
     "文件 Commits": "File Commits",
     "仓库 Issue": "Repo Issues",
@@ -2733,6 +2734,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "Issue & Pull Request comments": "Issue & Pull Request comments"
+    "节点": "Node"
 }
