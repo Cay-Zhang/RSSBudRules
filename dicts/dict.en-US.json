@@ -1866,6 +1866,8 @@
     "Home": "Home",
     "رتبها - Rattibha": "رتبها - Rattibha",
     "User Threads": "User Threads",
+    "Rawkuma": "Rawkuma",
+    "Manga": "Manga",
     "Readhub": "Readhub",
     "RemNote": "RemNote",
     "ResearchGate": "ResearchGate",
@@ -2740,7 +2742,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "Rawkuma": "Rawkuma",
-    "Manga": "Manga"
+    "节点": "Node"
 }
