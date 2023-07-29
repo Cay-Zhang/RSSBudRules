@@ -300,6 +300,8 @@
     "视频评论": "Video Comments",
     "视频弹幕": "Video pop-ups",
     "当前在线": "Current Online",
+    "热搜": "popular search",
+    "频道排行榜": "Channel Ranking",
     "UP 主动态": "UP Master Dynamic",
     "UP 主投稿": "UP Master Pitch",
     "UP 主所有视频": "UP Master all videos",
@@ -2738,7 +2740,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "热搜": "popular search",
-    "频道排行榜": "Channel Ranking"
+    "节点": "Node"
 }
