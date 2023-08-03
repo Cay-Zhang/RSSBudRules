@@ -1946,6 +1946,7 @@
     "软件学院通知": "School of Software Notice",
     "山东科技大学": "Shandong University of Science and Technology",
     "山东省教育招生考试院": "Shandong Education and Admissions Examination Institute",
+    "动态": "Dynamic",
     "SecIN信息安全技术社区": "SecIN Information Security Technology Community",
     "SecWiki-安全维基": "SecWiki - Security Wiki",
     "最新周刊": "Latest Weekly",
@@ -2055,7 +2056,6 @@
     "研究生招生网招考信息": "Graduate Student Admissions Network Recruitment Information",
     "Sky Sports": "Sky Sports",
     "慢雾科技 SLOWMIST": "SLOWMIST",
-    "动态": "Dynamic",
     "什么值得买": "SMZDM",
     "好文": "Good article",
     "好文分类": "Good Article Categories",
@@ -2746,5 +2746,8 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node"
+    "节点": "Node",
+    "Altervista": "Altervista",
+    "hyp3rlinx blog": "hyp3rlinx blog",
+    "每日安全": "Daily security"
 }
