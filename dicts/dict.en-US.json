@@ -188,6 +188,8 @@
     "推荐": "Recommend",
     "艾莱资讯": "Elle Information",
     "世界轨道交通资讯网": "World Rail Information Network",
+    "Altervista": "Altervista",
+    "hyp3rlinx blog": "hyp3rlinx blog",
     "Amazon": "Amazon",
     "Kindle 软件更新": "Kindle Software Updates",
     "AWS blogs": "AWS blogs",
@@ -1946,6 +1948,7 @@
     "软件学院通知": "School of Software Notice",
     "山东科技大学": "Shandong University of Science and Technology",
     "山东省教育招生考试院": "Shandong Education and Admissions Examination Institute",
+    "每日安全": "Daily security",
     "动态": "Dynamic",
     "SecIN信息安全技术社区": "SecIN Information Security Technology Community",
     "SecWiki-安全维基": "SecWiki - Security Wiki",
@@ -2746,8 +2749,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "Altervista": "Altervista",
-    "hyp3rlinx blog": "hyp3rlinx blog",
-    "每日安全": "Daily security"
+    "节点": "Node"
 }
