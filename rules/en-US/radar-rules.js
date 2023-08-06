@@ -3652,6 +3652,22 @@
         source:[ "/12753/list.htm",
           "/" ],
         target:"/ecust/yjs" } ] },
+  "eet-china.com":{ _name:"Electronic Engineering Album",
+    ".":[ { title:"whispers",
+        docs:"https://docs.rsshub.app/new-media.html#dian-zi-gong-cheng-zhuan-ji-xin-yu",
+        source:[ "/mp",
+          "/" ],
+        target:(params, url) => {
+                    url = new URL(url);
+                    const path = url.href.match(/\.com\/mp(.*?)/)[1];
+
+                    return `/eet-china/mp${path ? `/${path}` : ''}`;
+                } },
+      { title:"Core Language - Labeling",
+        docs:"https://docs.rsshub.app/new-media.html#dian-zi-gong-cheng-zhuan-ji-xin-yu-biao-qian",
+        source:[ "/mp/tags/:id",
+          "/" ],
+        target:"/eet-china/mp/tags/:id" } ] },
   "elasticsearch.cn":{ _name:"Elastic Chinese Community",
     ".":[ { title:"Discover",
         docs:"https://docs.rsshub.app/bbs.html#elastic-zhong-wen-she-qu-fa-xian",
