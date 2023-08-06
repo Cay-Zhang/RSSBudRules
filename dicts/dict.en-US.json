@@ -737,6 +737,9 @@
     "华东理工大学": "East China University of Science and Technology",
     "继续教育学院 - 学院公告": "College of Continuing Education - College Announcement",
     "研究生院通知公告": "Graduate School Notice",
+    "电子工程专辑": "Electronic Engineering Album",
+    "芯语": "whispers",
+    "芯语 - 标签": "Core Language - Labeling",
     "Elastic 中文社区": "Elastic Chinese Community",
     "发现": "Discover",
     "电鸭社区": "Electric Duck Community",
@@ -2749,8 +2752,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "电子工程专辑": "Electronic Engineering Album",
-    "芯语": "whispers",
-    "芯语 - 标签": "Core Language - Labeling"
+    "节点": "Node"
 }
