@@ -13315,6 +13315,15 @@
         docs:"https://docs.rsshub.app/university.html#xi-an-dian-zi-ke-ji-da-xue",
         source:[ "/:category" ],
         target:(params) => `/xidian/jwc${params.category ? `/${params.category}` : ''}` } ] },
+  "ximalaya.com":{ _name:"Himalaya",
+    ".":[ { title:"Album",
+        docs:"https://docs.rsshub.app/multimedia.html#xi-ma-la-ya",
+        source:"/:type/:id",
+        target:(params) => {
+                    if (parseInt(params.id) + '' === params.id) {
+                        return '/ximalaya/:type/:id';
+                    }
+                } } ] },
   "xjtu.edu.cn":{ _name:"Xi\'an Jiaotong University",
     "2yuan":[ { title:"Second Affiliated Hospital News",
         docs:"https://docs.rsshub.app/university.html#xi-an-jiao-tong-da-xue-di-er-fu-shu-yi-yuan-xin-wen",
@@ -14119,15 +14128,6 @@
         target:(params, url) => {
                     const matches = new URL(url).href.match(/type=(\w+)/);
                     return `/zyw/hot${matches ? `/${matches[1]}` : ''}`;
-                } } ] },
-  "ximalaya.com":{ _name:"Himalaya",
-    ".":[ { title:"Album",
-        docs:"https://docs.rsshub.app/multimedia.html#xi-ma-la-ya",
-        source:"/:type/:id",
-        target:(params) => {
-                    if (parseInt(params.id) + '' === params.id) {
-                        return '/ximalaya/:type/:id/';
-                    }
                 } } ] },
   "algocasts.io":{ _name:"AlgoCasts",
     ".":[ { title:"Video Updates",
