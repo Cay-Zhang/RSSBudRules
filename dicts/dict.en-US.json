@@ -650,6 +650,7 @@
     "美图欣赏": "Beautiful pictures",
     "漫展情报": "Comic Con Information",
     "大杂烩": "Hodgepodge",
+    "DNA India": "DNA India",
     "Topic": "Topic",
     "Docker Hub": "Docker Hub",
     "镜像有新 Build": "Mirror with new Build",
@@ -2752,6 +2753,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "DNA India": "DNA India"
+    "节点": "Node"
 }
