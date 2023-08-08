@@ -650,6 +650,7 @@
     "美图欣赏": "Beautiful pictures",
     "漫展情报": "Comic Con Information",
     "大杂烩": "Hodgepodge",
+    "Topic": "Topic",
     "Docker Hub": "Docker Hub",
     "镜像有新 Build": "Mirror with new Build",
     "镜像有新 Tag": "Mirror has new Tag",
@@ -1093,7 +1094,6 @@
     "hashnode": "hashnode",
     "Hashnode Blog": "Hashnode Blog",
     "Harvard Business Review": "Harvard Business Review",
-    "Topic": "Topic",
     "杭州电子科技大学": "Hangzhou University of Electronic Science and Technology",
     "计算机学院 - 通知公告": "School of Computer Science - Notice",
     "杭电计算机-研究生通知": "Hang Electric Computer-Graduate Student Notice",
@@ -2752,5 +2752,6 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node"
+    "节点": "Node",
+    "DNA India": "DNA India"
 }
