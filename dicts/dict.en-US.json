@@ -2112,6 +2112,8 @@
     "中国科技网": "China Science and Technology Network",
     "科技日报": "Science and Technology Daily",
     "星島日報": "Sing Tao Daily",
+    "Stock Edge": "Stock Edge",
+    "Daily Updates News": "Daily Updates News",
     "風傳媒": "Wind Media",
     "故事FM": "Story FM",
     "Go 语言中文网": "Go Language Chinese Website",
@@ -2753,7 +2755,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "Stock Edge": "Stock Edge",
-    "Daily Updates News": "Daily Updates News"
+    "节点": "Node"
 }
