@@ -174,6 +174,8 @@
     "阿基米德FM": "Archimedes FM",
     "播客": "Podcast",
     "阿里研究院": "Ali Research Institute",
+    "Articles": "Articles",
+    "Topics": "Topics",
     "阿里云": "Ali cloud",
     "开发者社区 - 主题": "Developer Community - Topics",
     "公告": "Announcement",
@@ -483,7 +485,6 @@
     "用户仓库": "User Repos",
     "仓库 Stars": "Repo Stars",
     "用户 Starred Repositories": "User's Starred Repos",
-    "Topics": "Topics",
     "Trending": "Trending",
     "用户 Followers": "Users Followers",
     "Wiki 历史": "Wiki History",
@@ -1525,7 +1526,6 @@
     "明报": "Ming Pao Daily News",
     "每日明报": "Daily Mingle",
     "Stratechery by Ben Thompson": "Stratechery by Ben Thompson",
-    "Articles": "Articles",
     "Mirror": "Mirror",
     "Misskey": "Misskey",
     "Featured Notes": "Featured Notes",
@@ -2757,5 +2757,6 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node"
+    "节点": "Node",
+    "A List Apart": "A List Apart"
 }
