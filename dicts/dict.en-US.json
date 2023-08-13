@@ -394,6 +394,7 @@
     "用户博客": "User Blog",
     "财新数据通": "Caixin Data Access",
     "财新一线": "Caixin First Line",
+    "财新周刊": "Caixin Weekly (financial magazine)",
     "中国技术经济学会": "China Society for Technology Economics",
     "参考消息": "Reference News",
     "動漫狂": "Anime Mania",
@@ -2769,6 +2770,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "财新周刊": "Caixin Weekly (financial magazine)"
+    "节点": "Node"
 }
