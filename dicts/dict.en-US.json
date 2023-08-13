@@ -1054,6 +1054,9 @@
     "User scripts": "User scripts",
     "Feedback": "Feedback",
     "Version history": "Version history",
+    "Grist": "Grist",
+    "Featured": "Featured",
+    "Series": "Series",
     "观察者网": "Observer",
     "观学院": "View Academy",
     "个人主页文章": "Personal Home Articles",
@@ -2766,8 +2769,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "Grist": "Grist",
-    "Featured": "Featured",
-    "Series": "Series"
+    "节点": "Node"
 }
