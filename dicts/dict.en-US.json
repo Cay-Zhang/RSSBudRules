@@ -805,6 +805,10 @@
     "风之动漫": "Wind Animation",
     "在线漫画": "Online Comics",
     "深焦": "Deep Focus",
+    "Finology Insider": "Finology Insider",
+    "Bullets": "Bullets",
+    "Most Viewed": "Most Viewed",
+    "Trending Topic": "Trending Topic",
     "finviz": "finviz",
     "US Stock News": "US Stock News",
     "Infuse": "Infuse",
@@ -1912,6 +1916,7 @@
     "Science Magazine": "Science Magazine",
     "本期刊物": "Current Issue",
     "在线发表": "Publish Online",
+    "Science Blogs": "Science Blogs",
     "科学网": "Science.com",
     "精选博客": "Featured Blog",
     "scitation": "scitation",
@@ -2770,10 +2775,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "Finology Insider": "Finology Insider",
-    "Bullets": "Bullets",
-    "Most Viewed": "Most Viewed",
-    "Trending Topic": "Trending Topic",
-    "Science Blogs": "Science Blogs"
+    "节点": "Node"
 }
