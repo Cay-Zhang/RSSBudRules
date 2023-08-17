@@ -401,9 +401,9 @@
     "中国科学院": "Chinese Academy of Sciences",
     "成果转化": "Result Translation",
     "自动化所": "Automation Institute",
+    "电工研究所 科研动态": "Institute of Electrical Engineering Scientific Research News",
     "软件研究所": "Software Research Institute",
     "上海微系统与信息技术研究所 - 科技进展": "Shanghai Institute of Microsystems and Information Technology - Science and Technology Progress",
-    "电工研究所 科研动态": "Institute of Electrical Engineering Scientific Research News",
     "信息工程研究所 第二研究室 处理架构组 知识库": "Institute of Information Engineering, Research Division II, Processing Architecture Group Knowledge Base",
     "中国科学技术协会": "China Association for Science and Technology",
     "中国农业大学": "China Agricultural University",
@@ -2774,5 +2774,6 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node"
+    "节点": "Node",
+    "遗传与生物学研究所 - 学术活动": "Institute of Genetics and Biology - Academic Activities"
 }
