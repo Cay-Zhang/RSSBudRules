@@ -1709,6 +1709,8 @@
     "环科院": "Academy of Environmental Sciences",
     "学生工作处": "Student Work Office",
     "研究生院学科建设处": "Graduate School Division of Discipline Development",
+    "西北农林科技大学": "North West Agriculture and Forestry University",
+    "校园要闻": "Campus News",
     "nyaa": "nyaa",
     "nyaa 的搜索结果、指定用户、指定用户的搜索结果": "Search results for nyaa, specified users, specified users",
     "sukebei 的搜索结果、指定用户、指定用户的搜索结果": "Search results for sukebei, specific users, specific users",
@@ -2463,6 +2465,8 @@
     "小米有品": "Xiaomi Youpin",
     "小米有品众筹": "Xiaomi Youpin Crowdfunding",
     "小米有品每日上新": "Xiaomi Youpin Daily New Arrival",
+    "小特社区": "Kotte community",
+    "首页帖子": "Home Posts",
     "小宇宙": "Small Universe",
     "小专栏": "Small Columns",
     "西安电子科技大学": "Xidian University",
@@ -2775,9 +2779,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "西北农林科技大学": "North West Agriculture and Forestry University",
-    "校园要闻": "Campus News",
-    "小特社区": "Kotte community",
-    "首页帖子": "Home Posts"
+    "节点": "Node"
 }
