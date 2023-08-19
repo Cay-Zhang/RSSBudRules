@@ -1921,9 +1921,6 @@
     "在线发表": "Publish Online",
     "科学网": "Science.com",
     "精选博客": "Featured Blog",
-    "scitation": "scitation",
-    "journal": "journal",
-    "section": "section",
     "South China Morning Post": "South China Morning Post",
     "华南师范大学": "South China Normal University",
     "计算机学院竞赛通知": "School of Computer Science Competition Notice",
@@ -2779,5 +2776,7 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node"
+    "节点": "Node",
+    "American Institute of Physics": "American Institute of Physics",
+    "xhu - 话题": "xhu - Topic"
 }
