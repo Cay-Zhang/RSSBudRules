@@ -641,6 +641,7 @@
     "Change Log": "Change Log",
     "Distill": "Distill",
     "Latest": "Latest",
+    "Topic": "Topic",
     "DLsite": "DLsite",
     "当前日期发售的新产品": "New products on sale on current date",
     "产品打折信息": "Product Discount Information",
@@ -656,7 +657,6 @@
     "漫展情报": "Comic Con Information",
     "大杂烩": "Hodgepodge",
     "DNA India": "DNA India",
-    "Topic": "Topic",
     "Docker Hub": "Docker Hub",
     "镜像有新 Build": "Mirror with new Build",
     "镜像有新 Tag": "Mirror has new Tag",
@@ -2290,7 +2290,10 @@
     "新书": "New Books",
     "想法-24 小时新闻汇总": "Ideas - 24 hour news roundup",
     "书店-周刊": "Bookstore-Weekly",
+    "xhu - 收藏夹": "xhu - Favorites",
+    "xhu - 问题": "xhu - questions",
     "xhu - 话题": "xhu - Topic",
+    "xhu - 专栏": "xhu - Columns",
     "Tribal Football": "Tribal Football",
     "The Ring of Wonder": "The Ring of Wonder",
     "首页更新": "Home page update",
@@ -2779,7 +2782,6 @@
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
     "节点": "Node",
-    "xhu - 收藏夹": "xhu - Favorites",
-    "xhu - 问题": "xhu - questions",
-    "xhu - 专栏": "xhu - Columns"
+    "DL NEWS": "DL NEWS",
+    "All Articles": "All Articles"
 }
