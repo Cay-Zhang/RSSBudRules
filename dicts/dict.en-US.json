@@ -641,6 +641,8 @@
     "Change Log": "Change Log",
     "Distill": "Distill",
     "Latest": "Latest",
+    "DL NEWS": "DL NEWS",
+    "All Articles": "All Articles",
     "Topic": "Topic",
     "DLsite": "DLsite",
     "当前日期发售的新产品": "New products on sale on current date",
@@ -2781,7 +2783,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "DL NEWS": "DL NEWS",
-    "All Articles": "All Articles"
+    "节点": "Node"
 }
