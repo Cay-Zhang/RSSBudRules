@@ -7414,7 +7414,12 @@
     ".":[ { title:"Reports",
         docs:"https://docs.rsshub.app/routes/new-media#wan-dian-latepost-bao-dao",
         source:"/",
-        target:(params, url) => `/latepost/${new URL(url).searchParams.get('proma')}` } ] },
+        target:(params, url) => {
+                    url = new URL(url);
+                    const proma = url.searchParams.get('proma');
+
+                    return `/latepost${proma ? `/${proma}` : ''}`;
+                } } ] },
   "lativ.com.tw":{ _name:"lativ",
     www:[ { title:"Subscribe to product prices",
         docs:"https://docs.rsshub.app/routes/shopping#lativ",
@@ -12425,6 +12430,11 @@
         source:[ "/zsxw/ggtz.htm",
           "/" ],
         target:"/tongji/yjs" } ] },
+  "tophub.today":{ _name:"Today\'s Hot List",
+    ".":[ { title:"List",
+        docs:"https://docs.rsshub.app/routes/new-media#jin-ri-re-bang-bang-dan",
+        source:[ "/n/:id" ],
+        target:"/tophub/:id" } ] },
   "topys.cn":{ _name:"TOPYS",
     ".":[ { title:"Keyword",
         docs:"https://docs.rsshub.app/routes/new-media#topys-guan-jian-zi",
