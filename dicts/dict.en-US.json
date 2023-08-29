@@ -586,6 +586,7 @@
     "最新上線": "New Online",
     "主頻道": "Main Channel",
     "子頻道": "Subchannel",
+    "创业邦": "VentureBond (company name)",
     "新蓝网": "New Blue Network",
     "浙江新闻联播": "Zhejiang News Feed",
     "浙江新闻联播-每日合集": "Zhejiang News Feed - Daily Collection",
@@ -2784,6 +2785,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "V2EX": "V2EX",
-    "节点": "Node",
-    "创业邦": "VentureBond (company name)"
+    "节点": "Node"
 }
