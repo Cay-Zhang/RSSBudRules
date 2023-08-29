@@ -13005,6 +13005,29 @@
         docs:"https://docs.rsshub.app/routes/blog#v1tx",
         source:[ "/" ],
         target:"/v1tx" } ] },
+  "v2ex.com":{ _name:"V2EX",
+    ".":[ { title:"Hottest / Latest Topics",
+        docs:"https://docs.rsshub.app/routes/v2ex",
+        source:[ "/" ],
+        target:(_, url) => {
+                    const { searchParams } = new URL(url);
+                    if (searchParams.get('tab') === 'all' || searchParams.get('tab') === 'hot') {
+                        return `/v2ex/topics/${searchParams.get('tab')?.replace('all', 'latest')}`;
+                    }
+                } },
+      { title:"Posts",
+        docs:"https://docs.rsshub.app/routes/v2ex",
+        source:[ "/t/:postid" ],
+        target:"/v2ex/post/:postid" },
+      { title:"Tags",
+        docs:"https://docs.rsshub.app/routes/v2ex",
+        source:[ "/" ],
+        target:(_, url) => {
+                    const { searchParams } = new URL(url);
+                    if (searchParams.get('tab') && searchParams.get('tab') !== 'all' && searchParams.get('tab') !== 'hot') {
+                        return `/v2ex/tab/${searchParams.get('tab')}`;
+                    }
+                } } ] },
   "v2rayshare.com":{ _name:"V2rayShare",
     ".":[ { title:"Free Node",
         docs:"https://docs.rsshub.app/routes/other#v2rayshare",
