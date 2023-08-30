@@ -366,6 +366,8 @@
     "党委学生工作部": "Student Work Department of the Party Committee",
     "党委学生工作部辅导员发展中心": "Counselor Development Center, Student Work Department of the Party Committee",
     "图书馆通知": "Library Notices",
+    "中国银行": "Bank of China (BoC)",
+    "外汇牌价": "foreign exchange rate",
     "书伴": "Book Companion",
     "Brave": "Brave",
     "Release Notes": "Release Notes",
@@ -1212,6 +1214,7 @@
     "ラジオ": "Lajio",
     "香港廉政公署": "Hong Kong Independent Commission Against Corruption",
     "新闻公布": "Press Releases",
+    "中国工商银行": "Industrial and Commercial Bank of China (ICBC)",
     "偶像荣耀": "Idol Glory",
     "IEEE": "IEEE",
     "Recent": "Recent",
@@ -2788,7 +2791,5 @@
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
     "节点": "Node",
-    "中国银行": "Bank of China (BoC)",
-    "外汇牌价": "foreign exchange rate",
-    "中国工商银行": "Industrial and Commercial Bank of China (ICBC)"
+    "中央通訊社": "Central News Agency"
 }
