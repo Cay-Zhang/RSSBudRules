@@ -7639,25 +7639,45 @@
           "/" ],
         target:"/literotica/category/:category" } ] },
   "liulinblog.com":{ _name:"Mumu Blog",
-    ".":[ { title:"Sixty seconds a day (60 seconds) to read the world",
-        docs:"https://docs.rsshub.app/routes/new-media#mu-mu-bo-ke",
-        source:[ "/kuaixun" ],
-        target:"/liulinblog/kuaixun" },
-      { title:"Internet Morning News",
-        docs:"https://docs.rsshub.app/routes/new-media#mu-mu-bo-ke",
-        source:[ "/itnews/:channel" ],
-        target:(params) => {
-                    if (params.channel === 'internet') {
-                        return '/liulinblog/itnews/:channel';
-                    }
+    ".":[ { title:"Channel",
+        docs:"https://docs.rsshub.app/new-media.html#mu-mu-bo-ke",
+        source:[ "/:channel",
+          "/" ],
+        target:(params, url) => {
+                    url = new URL(url);
+                    const path = url.href.match(/\.com(.*?)/)[1];
+
+                    return `/liulinblog${path === '/' ? '' : path}`;
                 } },
-      { title:"Webmaster Circle",
-        docs:"https://docs.rsshub.app/routes/new-media#mu-mu-bo-ke",
-        source:[ "/itnews/:channel" ],
-        target:(params) => {
-                    if (params.channel === 'seo') {
-                        return '/liulinblog/itnews/:channel';
-                    }
+      { title:"Tags",
+        docs:"https://docs.rsshub.app/new-media.html#mu-mu-bo-ke",
+        source:[ "/tag/:id",
+          "/" ],
+        target:"/liulinblog/tag/:id" },
+      { title:"Topics",
+        docs:"https://docs.rsshub.app/new-media.html#mu-mu-bo-ke",
+        source:[ "/series/:id",
+          "/" ],
+        target:"/liulinblog/series/:id" },
+      { title:"Search",
+        docs:"https://docs.rsshub.app/new-media.html#mu-mu-bo-ke",
+        source:[ "/search/:keyword",
+          "/" ],
+        target:"/liulinblog/search/:keyword" },
+      { title:"Read the world in 60 seconds",
+        docs:"https://docs.rsshub.app/new-media.html#mu-mu-bo-ke",
+        source:[ "/kuaixun",
+          "/" ],
+        target:"/liulinblog/kuaixun" },
+      { title:"network marketing",
+        docs:"https://docs.rsshub.app/new-media.html#mu-mu-bo-ke",
+        source:[ "/:channel",
+          "/" ],
+        target:(params, url) => {
+                    url = new URL(url);
+                    const path = url.href.match(/\.com(.*?)/)[1];
+
+                    return `/liulinblog${path === '/' ? '' : path}`;
                 } } ] },
   "lkong.com":{ _name:"Dragon Sky",
     ".":[ { title:"Zoning",
