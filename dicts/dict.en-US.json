@@ -625,6 +625,8 @@
     "视频": "Video",
     "用户主页": "User Home Page",
     "DeepMind": "DeepMind",
+    "Delta Lake": "Delta Lake",
+    "Blogs": "Blogs",
     "DevolverDigital": "DevolverDigital",
     "官方博客": "Official Blog",
     "东莞教研网": "Dongguan Education and Research Network",
@@ -2798,7 +2800,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "Delta Lake": "Delta Lake",
-    "Blogs": "Blogs"
+    "节点": "Node"
 }
