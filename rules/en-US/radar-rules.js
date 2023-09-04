@@ -7477,7 +7477,7 @@
   "latepost.com":{ _name:"Late Latepost",
     ".":[ { title:"Reports",
         docs:"https://docs.rsshub.app/routes/new-media#wan-dian-latepost-bao-dao",
-        source:"/",
+        source:"*",
         target:(params, url) => {
                     url = new URL(url);
                     const proma = url.searchParams.get('proma');
