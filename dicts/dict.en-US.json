@@ -2227,6 +2227,11 @@
     "云+社区专栏": "Cloud+ Community Column",
     "特斯拉中国": "Tesla China",
     "价格": "Price",
+    "台灣事實查核中心": "Taiwan Fact Check Center",
+    "專題": "Special Topics",
+    "最新相關資訊": "Latest Information",
+    "最新查核報告": "Latest Checking Report",
+    "重點專區": "Highlights",
     "The Atlantic": "The Atlantic",
     "貓奴日常": "Cat Slave Daily",
     "貓物分享｜流行小物、貓咪用品": "Cat stuff sharing｜Popular gadgets and cat stuff",
@@ -2806,10 +2811,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "台灣事實查核中心": "Taiwan Fact Check Center",
-    "專題": "Special Topics",
-    "最新相關資訊": "Latest Information",
-    "最新查核報告": "Latest Checking Report",
-    "重點專區": "Highlights"
+    "节点": "Node"
 }
