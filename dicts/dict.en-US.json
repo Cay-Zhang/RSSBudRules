@@ -129,6 +129,7 @@
     "首页最新新闻": "HomeLatest News",
     "频道": "Channel",
     "A姐分享": "Sister A shared",
+    "NSFW 存档列表": "NSFW Archives List",
     "存档列表": "Archive List",
     "AcFun": "AcFun",
     "番剧": "foreign drama",
@@ -2811,6 +2812,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "NSFW 存档列表": "NSFW Archives List"
+    "节点": "Node"
 }
