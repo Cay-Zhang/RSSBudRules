@@ -269,6 +269,7 @@
     "帖子动态": "Post dynamics",
     "只看楼主": "See only the owner",
     "用户帖子": "User Posts",
+    "贴吧搜索": "Internet search",
     "热搜榜单": "Hot List",
     "白鲸出海": "Beluga Whales at Sea",
     "Bandcamp": "Bandcamp",
@@ -2812,6 +2813,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "贴吧搜索": "Internet search"
+    "节点": "Node"
 }
