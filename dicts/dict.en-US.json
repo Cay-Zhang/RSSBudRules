@@ -697,6 +697,9 @@
     "斗鱼": "Fighting Fish",
     "鱼吧帖子": "Fish bar posts",
     "鱼吧跟帖": "Fish bar follow up post",
+    "Dribbble": "Dribbble",
+    "Keyword": "Keyword",
+    "User (or team)": "User (or team)",
     "DT 财经": "DT Finance",
     "数据侠专栏": "Data Man Column",
     "数据洞察": "Data Insights",
@@ -2813,8 +2816,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "Dribbble": "Dribbble",
-    "Keyword": "Keyword",
-    "User (or team)": "User (or team)"
+    "节点": "Node"
 }
