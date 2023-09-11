@@ -549,6 +549,7 @@
     "文件 Commits": "File Commits",
     "仓库 Issue": "Repo Issues",
     "仓库 Pull Requests": "Repo Pull Requests",
+    "Pulse": "Pulse",
     "用户仓库": "User Repos",
     "仓库 Stars": "Repo Stars",
     "用户 Starred Repositories": "User's Starred Repos",
@@ -2914,6 +2915,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "Pulse": "Pulse"
+    "节点": "Node"
 }
