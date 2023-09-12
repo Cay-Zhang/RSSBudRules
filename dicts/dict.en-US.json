@@ -2573,6 +2573,8 @@
     "媒体中心": "Media Center",
     "总干事的讲话": "Message from the Director-General",
     "Whoscall": "Whoscall",
+    "武汉大学": "Wuhan University",
+    "计算机学院公告": "College of Computer Science Announcement",
     "维基新闻": "Wikinews",
     "winstall": "winstall",
     "Wise": "Wise",
@@ -2915,7 +2917,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "武汉大学": "Wuhan University",
-    "计算机学院公告": "College of Computer Science Announcement"
+    "节点": "Node"
 }
