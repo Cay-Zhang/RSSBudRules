@@ -8766,6 +8766,11 @@
                     const cat = url.match(/\?series=(.*)&category=(.*)/);
                     return `/lovelive-anime/schedules/${null !== cat && cat.length >= 2 ? cat[1] : ''}/${null !== cat && cat.length === 3 ? cat[2] : ''}`;
                 } } ] },
+  "lsnu.edu.cn":{ _name:"Leshan Normal University",
+    ".":[ { title:"Notices from the Department of Teaching and Learning",
+        docs:"https://docs.rsshub.app/university.html#le-shan-shi-fan-xue-yuan",
+        source:[ "/" ],
+        target:"/lsnu/jiaowc/tzgg" } ] },
   "luogu.com.cn":{ _name:"Luo Gu",
     ".":[ { title:"Daily News",
         docs:"https://docs.rsshub.app/routes/programming#luo-gu",
