@@ -1686,6 +1686,8 @@
     "最新 NEWS": "Latest News",
     "分类 Topics": "Category Topics",
     "Schedule": "Schedule",
+    "乐山师范学院": "Leshan Normal University",
+    "教学部通知公告": "Notices from the Department of Teaching and Learning",
     "洛谷": "Luo Gu",
     "日报": "Daily News",
     "比赛列表": "Competition List",
@@ -3024,7 +3026,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "乐山师范学院": "Leshan Normal University",
-    "教学部通知公告": "Notices from the Department of Teaching and Learning"
+    "节点": "Node"
 }
