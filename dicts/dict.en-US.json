@@ -251,6 +251,9 @@
     "推荐": "Recommend",
     "艾莱资讯": "Elle Information",
     "世界轨道交通资讯网": "World Rail Information Network",
+    "AlternativeTo": "AlternativeTo",
+    "Software Alternatives": "Software Alternatives",
+    "Platform Software": "Platform Software",
     "Altervista": "Altervista",
     "hyp3rlinx blog": "hyp3rlinx blog",
     "Amazon": "Amazon",
@@ -2171,6 +2174,7 @@
     "教务处学院通知": "Academic Affairs Office College Notice",
     "教务处新闻动态": "Academic Affairs News and Events",
     "电子与信息学院 - 新闻速递": "School of Electronics and Information Technology - News Flash",
+    "机械与汽车工程学院 - 通知公告": "School of Mechanical and Automotive Engineering - Notice",
     "四川职业技术学院": "Sichuan Vocational and Technical College",
     "学院公告": "College Announcement",
     "山东大学": "Shandong University",
@@ -2343,6 +2347,7 @@
     "Springer": "Springer",
     "latest": "latest",
     "俄罗斯卫星通讯社": "RIA Novosti",
+    "新乡医学院三全学院": "Sanquan College of Xinxiang Medical College",
     "上海证券交易所": "Shanghai Stock Exchange",
     "可转换公司债券公告": "Announcement of Convertible Corporate Bonds",
     "科创板项目动态": "Project News of Science and Technology Board",
@@ -3027,10 +3032,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "AlternativeTo": "AlternativeTo",
-    "Software Alternatives": "Software Alternatives",
-    "Platform Software": "Platform Software",
-    "机械与汽车工程学院 - 通知公告": "School of Mechanical and Automotive Engineering - Notice",
-    "新乡医学院三全学院": "Sanquan College of Xinxiang Medical College"
+    "节点": "Node"
 }
