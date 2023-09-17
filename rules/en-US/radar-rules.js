@@ -2533,6 +2533,11 @@
 
                     return `/cbaigui${path}`;
                 } } ] },
+  "cbc.ca":{ _name:"Canadian Broadcasting Corporation",
+    ".":[ { title:"News",
+        docs:"https://docs.rsshub.app/routes/traditional-media#canadian-broadcasting-corporation",
+        source:[ "/news" ],
+        target:"/cbc/topics" } ] },
   "cbirc.gov.cn":{ _name:"China Banking and Insurance Regulatory Commission",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/routes/government#zhong-guo-yin-xing-bao-xian-jian-du-guan-li-wei-yuan-hui",
