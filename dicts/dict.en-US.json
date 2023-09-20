@@ -1561,6 +1561,8 @@
     "jump app": "jump app",
     "折扣清单": "Discount List",
     "kakuyomu": "kakuyomu",
+    "仮面ライダ": "Masked Raider",
+    "最新情報": "Latest News",
     "Kantar Worldpanel": "Kantar Worldpanel",
     "News Centre China Eng - News": "News Centre China Eng - News",
     "News Centre China Eng - Retail Snapshot": "News Centre China Eng - Retail Snapshot",
@@ -2758,6 +2760,7 @@
     "小专栏": "Small Columns",
     "西安电子科技大学": "Xidian University",
     "喜马拉雅": "Himalaya",
+    "新片场": "new movie theater",
     "西安交通大学": "Xi'an Jiaotong University",
     "第二附属医院新闻": "Second Affiliated Hospital News",
     "电气学院": "School of Electricity",
@@ -3063,8 +3066,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "仮面ライダ": "Masked Raider",
-    "最新情報": "Latest News",
-    "新片场": "new movie theater"
+    "节点": "Node"
 }
