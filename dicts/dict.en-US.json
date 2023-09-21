@@ -224,6 +224,7 @@
     "极术社区": "Extreme Art Community",
     "用户": "User",
     "专栏": "Column",
+    "Latest News": "Latest News",
     "American Institute of Physics": "American Institute of Physics",
     "中国国际航空公司": "Air China",
     "服务公告": "Service Announcement",
@@ -1053,7 +1054,6 @@
     "熱門推薦": "Hot Recommendations",
     "Gamer Secret": "Gamer Secret",
     "最新資訊": "Latest News",
-    "Latest News": "Latest News",
     "卡卡洛普": "Kakarop",
     "宅宅新聞 - 分類": "Geek News - Categories",
     "宅宅新聞 - 標籤": "Geek News - Tags",
@@ -3066,5 +3066,7 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node"
+    "节点": "Node",
+    "AInvest": "AInvest",
+    "Latest Article": "Latest Article"
 }
