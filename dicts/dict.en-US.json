@@ -224,6 +224,8 @@
     "极术社区": "Extreme Art Community",
     "用户": "User",
     "专栏": "Column",
+    "AInvest": "AInvest",
+    "Latest Article": "Latest Article",
     "Latest News": "Latest News",
     "American Institute of Physics": "American Institute of Physics",
     "中国国际航空公司": "Air China",
@@ -3066,7 +3068,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "AInvest": "AInvest",
-    "Latest Article": "Latest Article"
+    "节点": "Node"
 }
