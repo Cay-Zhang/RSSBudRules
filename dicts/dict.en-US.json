@@ -1884,6 +1884,9 @@
     "NHK": "NHK",
     "News Web Easy": "News Web Easy",
     "WORLD-JAPAN - 新闻提要": "WORLD-JAPAN - News Feed",
+    "鸟哥笔记": "Bird's Notes",
+    "今日事": "today's events",
+    "分类目录": "categorized directory",
     "国家金融与发展实验室": "National Finance and Development Laboratory",
     "周报": "Weekly Report",
     "双周刊": "Biweekly",
@@ -3068,8 +3071,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "鸟哥笔记": "Bird's Notes",
-    "今日事": "today's events",
-    "分类目录": "categorized directory"
+    "节点": "Node"
 }
