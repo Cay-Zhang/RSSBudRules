@@ -1154,6 +1154,7 @@
     "中国互联网络信息中心": "China Internet Network Information Center",
     "重庆市人民政府": "Chongqing Municipal People's Government",
     "重庆人事考试通知公告": "Chongqing Personnel Examination Notice",
+    "重庆事业单位公开招聘": "Public Recruitment for Chongqing Institutions",
     "中国证券监督管理委员会": "China Securities Regulatory Commission",
     "申请事项进度": "Progress of application matters",
     "中华人民共和国海关总署": "General Administration of Customs of the People's Republic of China",
@@ -2372,6 +2373,8 @@
     "Sony": "Sony",
     "Software Downloads": "Software Downloads",
     "希望之声": "Voices of Hope",
+    "SourceForge": "SourceForge",
+    "Software": "Software",
     "南方网": "South China Network",
     "南方+": "South+",
     "Spotify": "Spotify",
@@ -3071,8 +3074,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "重庆事业单位公开招聘": "Public Recruitment for Chongqing Institutions",
-    "SourceForge": "SourceForge",
-    "Software": "Software"
+    "节点": "Node"
 }
