@@ -2019,6 +2019,8 @@
     "数字型账号用户博客": "Digital Account User Blog",
     "立创开源硬件平台": "Lite-On Open Source Hardware Platform",
     "开源广场": "Kaiyuan Plaza",
+    "osu!": "osu!",
+    "Beatmap Pack": "Beatmap Pack",
     "中国海洋大学": "Ocean University of China",
     "信息科学与工程学院": "School of Information Science and Engineering",
     "信息科学与工程学院研究生招生通知公告": "School of Information Science and Engineering Graduate Admission Notice Announcement",
@@ -3088,7 +3090,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "osu!": "osu!",
-    "Beatmap Pack": "Beatmap Pack"
+    "节点": "Node"
 }
