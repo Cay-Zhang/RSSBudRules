@@ -10812,6 +10812,11 @@
                     const sortType = new URL(url).searchParams.get('projectSort');
                     return sortType ? `/oshwhub/${sortType}` : '';
                 } } ] },
+  "ppy.sh":{ _name:"osu!",
+    osu:[ { title:"Beatmap Pack",
+        docs:"https://docs.rsshub.app/routes/game#osu-beatmap-packs",
+        source:"/beatmaps/packs",
+        target:(params, url) => `https://osu.ppy.sh/beatmaps/packs?type=${new URL(url).searchParams.get('type') ?? 'standard'}` } ] },
   "ouc.edu.cn":{ _name:"Ocean University of China",
     it:[ { title:"School of Information Science and Engineering",
         docs:"https://docs.rsshub.app/routes/university#zhong-guo-hai-yang-da-xue",
