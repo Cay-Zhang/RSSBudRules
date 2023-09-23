@@ -1279,6 +1279,7 @@
     "科学人": "Science People",
     "广西民族大学": "Guangxi University for Nationalities",
     "人工智能学院通知公告": "Announcement of the School of Artificial Intelligence",
+    "图书馆最新消息": "Library News",
     "研究生院招生公告": "Graduate School Admissions Bulletin",
     "广州市融媒体中心": "Guangzhou Integrated Media Center",
     "广州日报": "Guangzhou Daily",
@@ -3087,6 +3088,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "图书馆最新消息": "Library News"
+    "节点": "Node"
 }
