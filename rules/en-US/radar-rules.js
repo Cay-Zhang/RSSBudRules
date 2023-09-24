@@ -5727,7 +5727,15 @@
       { title:"Public Recruitment for Chongqing Institutions",
         docs:"https://docs.rsshub.app/routes/government#chong-qing-shi-ren-min-zheng-fu",
         source:[ "/" ],
-        target:"/gov/chongqing/sydwgkzp" } ] },
+        target:"/gov/chongqing/sydwgkzp" } ],
+    gzw:[ { title:"State-owned Assets Supervision and Administration Commission SASAC",
+        docs:"https://docs.rsshub.app/routes/government#chong-qing-shi-ren-min-zheng-fu-guo-you-zi-chan-jian-du-guan-li-wei-yuan-hui",
+        source:[ "/:category*" ],
+        target:(params) => {
+                    const category = params.category;
+
+                    return `/gov/chongqing/gzw${category ? `/${category}` : ''}`;
+                } } ] },
   "csrc.gov.cn":{ _name:"China Securities Regulatory Commission",
     neris:[ { title:"Progress of application matters",
         docs:"https://docs.rsshub.app/routes/government#zhong-guo-zheng-quan-jian-du-guan-li-wei-yuan-hui",
