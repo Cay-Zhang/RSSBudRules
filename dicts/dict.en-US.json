@@ -2914,7 +2914,6 @@
     "Newsletter": "Newsletter",
     "笔记": "Notes",
     "竹白": "Bamboo White",
-    "TOP 20": "TOP 20",
     "浙江省土地使用权网上交易系统": "Zhejiang Province Land Use Right Online Trading System",
     "全部更新": "All updates",
     "挂牌公告": "Listing Announcement",
@@ -3100,5 +3099,6 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node"
+    "节点": "Node",
+    "上周热门 TOP 20": "Last Week's Top 20"
 }
