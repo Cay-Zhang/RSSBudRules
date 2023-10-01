@@ -1837,6 +1837,8 @@
     "資料庫": "Database",
     "圖片": "Pictures",
     "MyGoPen": "MyGoPen",
+    "MyMusicSheet": "MyMusicSheet",
+    "User Sheets": "User Sheets",
     "MySQL": "MySQL",
     "NASA 每日天文图片": "NASA Astronomy Picture of the Day",
     "NASA": "NASA",
@@ -3100,7 +3102,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "MyMusicSheet": "MyMusicSheet",
-    "User Sheets": "User Sheets"
+    "节点": "Node"
 }
