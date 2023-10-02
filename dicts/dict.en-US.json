@@ -434,6 +434,8 @@
     "中国银行": "Bank of China (BoC)",
     "外汇牌价": "foreign exchange rate",
     "书伴": "Book Companion",
+    "Booru": "Booru",
+    "MMDArchive 标签查询": "MMDArchive Tag Query",
     "Brave": "Brave",
     "Release Notes": "Release Notes",
     "Brooklyn Museum": "Brooklyn Museum",
@@ -3102,7 +3104,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "Booru": "Booru",
-    "MMDArchive 标签查询": "MMDArchive Tag Query"
+    "节点": "Node"
 }
