@@ -1773,6 +1773,10 @@
     "List": "List",
     "梅斯医学": "Mace Medical",
     "妹图社": "Sister picture agency",
+    "Metacritic": "Metacritic",
+    "Games": "Games",
+    "Movies": "Movies",
+    "TV Shows": "TV Shows",
     "Meteor": "Meteor",
     "看板": "Kanban",
     "看板列表": "Kanban List",
@@ -3109,9 +3113,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "Metacritic": "Metacritic",
-    "Games": "Games",
-    "Movies": "Movies",
-    "TV Shows": "TV Shows"
+    "节点": "Node"
 }
