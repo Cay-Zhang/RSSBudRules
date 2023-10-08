@@ -2738,6 +2738,10 @@
                     return `/chiculture${searchParams.has('category') ? `/${searchParams.get('category')}` : ''}`;
                 } } ] },
   "china.com":{ _name:"China.com",
+    finance:[ { title:"financial news",
+        docs:"https://docs.rsshub.app/routes/new-media#zhong-hua-wang",
+        source:"/:category",
+        target:"/china/finance/:category?" } ],
     military:[ { title:"Military News",
         docs:"https://docs.rsshub.app/routes/new-media#zhong-hua-wang",
         source:"/news",
