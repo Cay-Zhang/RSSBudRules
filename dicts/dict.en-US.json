@@ -183,6 +183,8 @@
     "Google 分站": "Google Sites",
     "論盡媒體 AllAboutMacau Media": "AllAboutMacau Media",
     "话题": "Topics",
+    "ABC News": "ABC News",
+    "Channel & Topic": "Channel & Topic",
     "abmedia.io": "abmedia.io",
     "首页最新新闻": "HomeLatest News",
     "频道": "Channel",
@@ -3115,7 +3117,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "ABC News": "ABC News",
-    "Channel & Topic": "Channel & Topic"
+    "节点": "Node"
 }
