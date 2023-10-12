@@ -1985,6 +1985,7 @@
     "求职推荐": "Job search recommendation",
     "npm": "npm",
     "包": "Package",
+    "National Public Radio": "National Public Radio",
     "新唐人电视台": "New Tang Dynasty TV",
     "南京艺术学院": "Nanjing Art Institute",
     "官网信息": "Official website information",
@@ -2201,6 +2202,8 @@
     "分类/话题/作者": "Category/Thread/Author",
     "深度调查栏目": "In-depth investigation section",
     "自由亚洲电台": "Radio Free Asia",
+    "Radio France Internationale": "Radio France Internationale",
+    "Generic News": "Generic News",
     "恩山无线论坛": "Enshan Wireless Forum",
     "劳动新闻": "Labor News",
     "The Royal Society of Chemistry": "The Royal Society of Chemistry",
@@ -3159,8 +3162,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "National Public Radio": "National Public Radio",
-    "Radio France Internationale": "Radio France Internationale",
-    "Generic News": "Generic News"
+    "节点": "Node"
 }
