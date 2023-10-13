@@ -311,6 +311,7 @@
     "塞壬唱片": "Siren Records",
     "Ash Maurya's blog": "Ash Maurya's blog",
     "Asian to lick": "Asian to lick",
+    "Search": "Search",
     "Asus 华硕": "Asus Asus",
     "固件": "Firmware",
     "ASUS": "ASUS",
@@ -1973,7 +1974,6 @@
     "Not a Tesla App": "Not a Tesla App",
     "特斯拉系统更新": "Tesla System Update",
     "Notefolio": "Notefolio",
-    "Search": "Search",
     "Notion": "Notion",
     "Database": "Database",
     "Now 新聞": "Now News",
@@ -3162,5 +3162,8 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node"
+    "节点": "Node",
+    "Top rated": "Top rated",
+    "Page": "Page",
+    "Caixin Global": "Caixin Global"
 }
