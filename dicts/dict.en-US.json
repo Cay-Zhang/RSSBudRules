@@ -311,7 +311,9 @@
     "塞壬唱片": "Siren Records",
     "Ash Maurya's blog": "Ash Maurya's blog",
     "Asian to lick": "Asian to lick",
+    "Top rated": "Top rated",
     "Search": "Search",
+    "Page": "Page",
     "Asus 华硕": "Asus Asus",
     "固件": "Firmware",
     "ASUS": "ASUS",
@@ -468,6 +470,7 @@
     "财新数据通": "Caixin Data Access",
     "财新一线": "Caixin First Line",
     "财新周刊": "Caixin Weekly (financial magazine)",
+    "Caixin Global": "Caixin Global",
     "中国技术经济学会": "China Society for Technology Economics",
     "参考消息": "Reference News",
     "動漫狂": "Anime Mania",
@@ -3162,8 +3165,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "Top rated": "Top rated",
-    "Page": "Page",
-    "Caixin Global": "Caixin Global"
+    "节点": "Node"
 }
