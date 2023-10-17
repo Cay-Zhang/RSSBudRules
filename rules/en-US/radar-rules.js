@@ -16182,6 +16182,9 @@
                     }
                     return `/zju/grs/${type}`;
                 } } ] },
+  "zjuvag.org":{ _name:"Visual Analytics Group, Zhejiang University",
+    ".":[ { title:"Blog",
+        docs:"https://docs.rsshub.app/routes/blog#zhe-jiang-da-xue-ke-shi-fen-xi-xiao-zu" } ] },
   "zodgame.xyz":{ _name:"zodgame",
     ".":[ { title:"Forum section",
         docs:"https://docs.rsshub.app/routes/bbs#zodgame",
