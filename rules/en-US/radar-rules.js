@@ -2801,6 +2801,16 @@
         docs:"https://docs.rsshub.app/routes/other#you-ju-zui-xin-wen-zhang-lie-biao",
         source:[ "/" ],
         target:"/chinafactcheck" } ] },
+  "chinaisa.org.cn":{ _name:"China Association of the Iron and Steel Industry",
+    ".":[ { title:"Column",
+        docs:"https://docs.rsshub.app/routes/new-media#zhong-guo-gang-tie-gong-ye-xie-hui-lan-mu",
+        source:[ "/gxportal/xfgl/portal/list.html" ],
+        target:(params, url) => {
+                    url = new URL(url);
+                    const columnId = url.searchParams.get('columnId');
+
+                    return `/chinaisa${columnId ? `/${columnId}` : ''}`;
+                } } ] },
   "chinanews.com.cn":{ _name:"China News Network",
     ".":[ { title:"Latest",
         docs:"https://docs.rsshub.app/routes/traditional-media#zhong-xin-wang",
