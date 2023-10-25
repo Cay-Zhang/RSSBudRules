@@ -1023,6 +1023,8 @@
     "Infuse": "Infuse",
     "Mozilla": "Mozilla",
     "Firefox Monitor": "Firefox Monitor",
+    "Add-ons Update": "Add-ons Update",
+    "Firefox New Release": "Firefox New Release",
     "fisher spb": "fisher spb",
     "news": "news",
     "fish shell": "fish shell",
@@ -3196,7 +3198,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "Add-ons Update": "Add-ons Update",
-    "Firefox New Release": "Firefox New Release"
+    "节点": "Node"
 }
