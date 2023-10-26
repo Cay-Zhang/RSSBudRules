@@ -1208,6 +1208,8 @@
     "政策解读": "Policy Interpretation",
     "生态环境部": "Ministry of Ecology and Environment",
     "要闻动态": "News & Events",
+    "应急管理部": "Department of Emergency Management",
+    "事故及灾害查处": "Accident and disaster investigation and handling",
     "中华人民共和国外交部": "Ministry of Foreign Affairs of the People's Republic of China",
     "外交动态": "Diplomatic News",
     "广东茂名滨海新区政务网": "Guangdong Maoming Binhai New Area Governmental Affairs Website",
@@ -3198,7 +3200,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "应急管理部": "Department of Emergency Management",
-    "事故及灾害查处": "Accident and disaster investigation and handling"
+    "节点": "Node"
 }
