@@ -2940,6 +2940,8 @@
     "Biography": "Biography",
     "Media": "Media",
     "読売新聞": "Yomiuri News",
+    "日本語多読道場": "Japanese Doyo Dojo",
+    "等级": "hierarchy",
     "优酷": "Youku",
     "订阅作者": "Subscribe to Author",
     "YouTube": "YouTube",
@@ -3201,7 +3203,5 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
-    "日本語多読道場": "Japanese Doyo Dojo",
-    "等级": "hierarchy"
+    "节点": "Node"
 }
