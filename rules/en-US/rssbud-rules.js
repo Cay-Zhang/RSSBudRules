@@ -193,7 +193,7 @@
     "twitter.com": {
         _name: "Twitter",
         ".": [{
-            title: "Tweets",
+            title: "User Timeline (Nitter)",
             docs: "https://github.com/zedeus/nitter",
             source: "/:id",
             targetType: "url",
@@ -204,7 +204,7 @@
             }
         },
         {
-            title: "Tweets & Replies",
+            title: "User Timeline & reply (Nitter)",
             docs: "https://github.com/zedeus/nitter",
             source: "/:id",
             targetType: "url",
@@ -215,7 +215,7 @@
             }
         },
         {
-            title: "Media",
+            title: "Media (Nitter)",
             docs: "https://github.com/zedeus/nitter",
             source: "/:id",
             targetType: "url",
@@ -224,7 +224,6 @@
                     return 'https://twiiit.com/:id/media/rss';
                 }
             }
-        }
-        ]
+        }]
     },
 })
