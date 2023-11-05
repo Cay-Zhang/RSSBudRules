@@ -189,5 +189,42 @@
                 target: (params, url) => url + ".xml"
             }
         ]
-    }
+    },
+    "twitter.com": {
+        _name: "Twitter",
+        ".": [{
+            title: "用户时间线",
+            docs: "https://github.com/zedeus/nitter",
+            source: "/:id",
+            targetType: "url",
+            target: (params) => {
+                if (params.id !== 'home' && params.id !== 'explore' && params.id !== 'notifications' && params.id !== 'messages' && params.id !== 'explore' && params.id !== 'search') {
+                    return 'https://twiiit.com/:id/rss';
+                }
+            }
+        },
+        {
+            title: "用户时间线 & 回复",
+            docs: "https://github.com/zedeus/nitter",
+            source: "/:id",
+            targetType: "url",
+            target: (params) => {
+                if (!['home', 'explore', 'notifications', 'messages', 'explore', 'search'].includes(params.id)) {
+                    return 'https://twiiit.com/:id/with_replies/rss';
+                }
+            }
+        },
+        {
+            title: "媒体",
+            docs: "https://github.com/zedeus/nitter",
+            source: "/:id",
+            targetType: "url",
+            target: (params) => {
+                if (params.id !== 'home' && params.id !== 'explore' && params.id !== 'notifications' && params.id !== 'messages' && params.id !== 'explore' && params.id !== 'search') {
+                    return 'https://twiiit.com/:id/media/rss';
+                }
+            }
+        }
+        ]
+    },
 })
