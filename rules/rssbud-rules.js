@@ -193,7 +193,7 @@
     "twitter.com": {
         _name: "Twitter",
         ".": [{
-            title: "用户时间线",
+            title: "用户时间线 (Nitter)",
             docs: "https://github.com/zedeus/nitter",
             source: "/:id",
             targetType: "url",
@@ -204,7 +204,7 @@
             }
         },
         {
-            title: "用户时间线 & 回复",
+            title: "用户时间线 & 回复 (Nitter)",
             docs: "https://github.com/zedeus/nitter",
             source: "/:id",
             targetType: "url",
@@ -215,7 +215,7 @@
             }
         },
         {
-            title: "媒体",
+            title: "媒体 (Nitter)",
             docs: "https://github.com/zedeus/nitter",
             source: "/:id",
             targetType: "url",
