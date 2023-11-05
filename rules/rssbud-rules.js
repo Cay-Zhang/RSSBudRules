@@ -224,7 +224,6 @@
                     return 'https://twiiit.com/:id/media/rss';
                 }
             }
-        }
-        ]
+        }]
     },
 })
