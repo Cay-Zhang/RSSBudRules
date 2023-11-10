@@ -1395,6 +1395,8 @@
     "湖南大学": "Hunan University",
     "香港卫生署": "Hong Kong Department of Health",
     "新闻公报": "Press Releases",
+    "全球主机监控": "Global Host Monitoring",
+    "CloudFlareYes": "CloudFlareYes",
     "辛華社": "Xinhua Society",
     "hotukdeals": "hotukdeals",
     "highlights": "highlights",
@@ -3255,7 +3257,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "全球主机监控": "Global Host Monitoring",
-    "CloudFlareYes": "CloudFlareYes"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
