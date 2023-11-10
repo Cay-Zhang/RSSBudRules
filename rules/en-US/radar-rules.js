@@ -6771,6 +6771,15 @@
         docs:"https://docs.rsshub.app/routes/government#xiang-gang-wei-sheng-fang-hu-zhong-xin-fen-lei",
         source:[ "/" ],
         target:"/hongkong/chp/:category?/:language?" } ] },
+  "hostmonit.com":{ _name:"Global Host Monitoring",
+    stock:[ { title:"CloudFlareYes",
+        docs:"https://docs.rsshub.app/routes/other#quan-qiu-zhu-ji-jian-kong-cloudflareyes",
+        source:[ "/:type" ],
+        target:(params) => {
+                    const type = params.type;
+
+                    return `/hostmonit/${type}`;
+                } } ] },
   "hotchina.news":{ _name:"Xinhua Society",
     ".":[ { title:"Home",
         docs:"https://docs.rsshub.app/routes/new-media#xin-hua-she-shou-ye",
