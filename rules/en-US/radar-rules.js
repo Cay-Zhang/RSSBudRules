@@ -5395,9 +5395,21 @@
   "getitfree.cn":{ _name:"Genuine China",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/routes/shopping#zheng-ban-zhong-guo-fen-lei",
-        source:[ "/category/:category",
-          "/" ],
-        target:"/getitfree/:category?" } ] },
+        source:[ "/category/:id" ],
+        target:"/getitfree/category/:id" },
+      { title:"Tags",
+        docs:"https://docs.rsshub.app/routes/shopping#zheng-ban-zhong-guo-biao-qian",
+        source:[ "/tag/:id" ],
+        target:"/getitfree/tag/:id" },
+      { title:"Search",
+        docs:"https://docs.rsshub.app/routes/shopping#zheng-ban-zhong-guo-sou-suo",
+        source:[ "/" ],
+        target:(_, url) => {
+                    url = new URL(url);
+                    const keyword = url.searchParams.get('s');
+
+                    return `/getitfree/search${keyword ? `/${keyword}` : ''}`;
+                } } ] },
   "gettr.com":{ _name:"GETTR",
     ".":[ { title:"Personal Timeline",
         docs:"https://docs.rsshub.app/routes/social-media#gettr",
