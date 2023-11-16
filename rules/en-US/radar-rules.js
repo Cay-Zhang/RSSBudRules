@@ -3527,6 +3527,16 @@
         docs:"https://docs.rsshub.app/routes/finance#cai-lian-she",
         source:[ "/" ],
         target:"/cls/hot" } ] },
+  "cma.cn":{ _name:"China Meteorological Administration (CMA)",
+    weather:[ { title:"Weather Channel",
+        docs:"https://docs.rsshub.app/routes/forecast#zhong-guo-qi-xiang-ju-tian-qi-yu-bao-pin-dao",
+        source:[ "/web/*" ],
+        target:(_, url) => {
+                    url = new URL(url).href;
+                    const idMatches = url.match(/channel-(\d+)\.html/);
+
+                    return `/cma/channel${idMatches ? `/${idMatches[1]}` : ''}`;
+                } } ] },
   "cmde.org.cn":{ _name:"State Drug Administration Medical Device Technical Review Center",
     www:[ { title:"General",
         docs:"https://docs.rsshub.app/routes/government#guo-jia-yao-pin-jian-du-guan-li-ju-yi-liao-qi-xie-ji-shu-shen-ping-zhong-xin",
