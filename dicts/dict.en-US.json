@@ -687,6 +687,8 @@
     "电报": "Telegrams",
     "深度": "Depth",
     "热门文章排行榜": "Top Articles",
+    "中国气象局": "China Meteorological Administration (CMA)",
+    "天气预报频道": "Weather Channel",
     "国家药品监督管理局医疗器械技术审评中心": "State Drug Administration Medical Device Technical Review Center",
     "cmpxchg8b": "cmpxchg8b",
     "文章 articles": "articles",
@@ -3261,7 +3263,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "中国气象局": "China Meteorological Administration (CMA)",
-    "天气预报频道": "Weather Channel"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
