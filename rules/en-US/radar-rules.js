@@ -13068,6 +13068,24 @@
         docs:"https://docs.rsshub.app/routes/design#shopping-design",
         source:"/post",
         target:"/shoppingdesign/posts" } ] },
+  "showstart.com":{ _name:"XiuDong.com",
+    www:[ { title:"Show Updates",
+        docs:"https://docs.rsshub.app/routes/shopping#xiu-dong-wang-yan-chu-geng-xin",
+        source:[ "/event/list" ],
+        target:(_, url) => {
+                    const search = new URL(url).searchParams;
+                    const cityCode = search.get('cityCode') || 0;
+                    const showStyle = search.get('showStyle') || 0;
+                    return `/showstart/event/${cityCode}/${showStyle}`;
+                } },
+      { title:"Show Search",
+        docs:"https://docs.rsshub.app/routes/shopping#xiu-dong-wang-yan-chu-sou-suo",
+        source:[ "/event/list" ],
+        target:(_, url) => {
+                    const search = new URL(url).searchParams;
+                    const keyword = search.get('keyword') || '';
+                    return `/showstart/search/${keyword}`;
+                } } ] },
   "shu.edu.cn":{ _name:"Shanghai University",
     jwb:[ { title:"Academic Affairs Office Announcement",
         docs:"https://docs.rsshub.app/routes/university#shang-hai-da-xue",
