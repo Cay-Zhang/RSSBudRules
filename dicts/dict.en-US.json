@@ -2440,6 +2440,9 @@
     "ShopBack": "ShopBack",
     "Store": "Store",
     "Shopping Design": "Shopping Design",
+    "秀动网": "XiuDong.com",
+    "演出更新": "Show Updates",
+    "演出搜索": "Show Search",
     "上海大学": "Shanghai University",
     "水果派": "Fruit Pie",
     "招生就业": "Admissions and Employment",
@@ -3279,8 +3282,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "秀动网": "XiuDong.com",
-    "演出更新": "Show Updates",
-    "演出搜索": "Show Search"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
