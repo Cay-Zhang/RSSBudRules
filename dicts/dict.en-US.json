@@ -393,6 +393,7 @@
     "用户追番列表": "User chase list",
     "漫画更新": "Comic Updates",
     "直播开播": "Live broadcast start",
+    "会员购票务": "Membership Ticketing",
     "生物探索": "Biological exploration",
     "BioOne": "BioOne",
     "Featured articles": "Featured articles",
@@ -2782,6 +2783,7 @@
     "宏观研报": "Macro Research Report",
     "新股研报": "New Stock Research Report",
     "券商晨报": "Brokerage Morning Report",
+    "Uniqlo": "Uniqlo",
     "Unusual Whales": "Unusual Whales",
     "News Flow": "News Flow",
     "中国石油大学（华东）": "China University of Petroleum (East China)",
@@ -3283,7 +3285,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "会员购票务": "Membership Ticketing",
-    "Uniqlo": "Uniqlo"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
