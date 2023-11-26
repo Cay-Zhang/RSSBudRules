@@ -13198,8 +13198,16 @@
         target:(_, url) => {
                     const search = new URL(url).searchParams;
                     const keyword = search.get('keyword') || '';
-                    return `/showstart/search/${keyword}`;
-                } } ] },
+                    return `/showstart/search/event/${keyword}`;
+                } },
+      { title:"Musicians - Gig Updates",
+        docs:"https://docs.rsshub.app/routes/shopping#yin-yue-ren-yan-chu-geng-xin",
+        source:[ "/artist/:id" ],
+        target:"/showstart/artist/:id" },
+      { title:"Factory - Show Updates",
+        docs:"https://docs.rsshub.app/routes/shopping#chang-pai-yan-chu-geng-xin",
+        source:[ "/host/:id" ],
+        target:"/showstart/brand/:id" } ] },
   "shu.edu.cn":{ _name:"Shanghai University",
     jwb:[ { title:"Academic Affairs Office Announcement",
         docs:"https://docs.rsshub.app/routes/university#shang-hai-da-xue",
