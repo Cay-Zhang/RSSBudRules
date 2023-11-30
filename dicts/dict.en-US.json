@@ -356,6 +356,7 @@
     "条目的吐槽箱": "Entry Spitbox",
     "放送列表": "Release List",
     "成员关注动画榜": "Members' attention to the animation list",
+    "用户想看": "Users want to see",
     "包子漫画": "Baozi Cartoon",
     "订阅漫画": "Subscribe to Comics",
     "巴伦周刊中文版": "Barron's China",
@@ -3322,6 +3323,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "用户想看": "Users want to see"
+    "媒体 (Nitter)": "Media (Nitter)"
 }

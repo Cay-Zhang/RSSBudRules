@@ -14792,7 +14792,7 @@
     s:[ { title:"Hot List",
         docs:"https://docs.rsshub.app/routes/social-media#wei-bo",
         source:"/top/summary",
-        target:"/weibo/search/hot" } ] },
+        target:"/weibo/search/hot/:fulltext?" } ] },
   "zhihu.com":{ _name:"Knowing",
     www:[ { title:"Favorites",
         docs:"https://docs.rsshub.app/routes/social-media#zhi-hu",
