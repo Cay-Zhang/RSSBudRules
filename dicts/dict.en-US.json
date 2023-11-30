@@ -1916,6 +1916,8 @@
     "Mobilism": "Mobilism",
     "门户": "Portal",
     "电子书": "E-Books",
+    "墨天轮": "Ferris wheel",
+    "合辑": "compilation album",
     "ModelScope 魔搭社区": "ModelScope Magic Ride Community",
     "数据集": "Dataset",
     "模型库": "Model Library",
@@ -3323,7 +3325,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "墨天轮": "Ferris wheel",
-    "合辑": "compilation album"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
