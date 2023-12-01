@@ -453,6 +453,7 @@
     "Bluesky": "Bluesky",
     "关键词": "Keywords",
     "BT之家": "BT House",
+    "新闻网": "News",
     "北京邮电大学": "Beijing University of Posts and Telecommunications",
     "字节点击": "Byte Click",
     "ui.dev": "ui.dev",
@@ -906,7 +907,6 @@
     "樊登读书会": "FanDeng Reading Club",
     "福州运营中心": "Fuzhou Operation Center",
     "大连理工大学": "Dalian University of Technology",
-    "新闻网": "News",
     "人事处": "Personnel Office",
     "教务处": "Academic Affairs Office",
     "研究生院": "Graduate School",
@@ -3325,5 +3325,7 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "北京航空航天大学": "Beijing University of Aeronautics and Astronautics",
+    "集成电路科学与工程学院": "School of Integrated Circuit Science and Engineering"
 }
