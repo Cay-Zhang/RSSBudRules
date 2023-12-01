@@ -453,7 +453,9 @@
     "Bluesky": "Bluesky",
     "关键词": "Keywords",
     "BT之家": "BT House",
+    "北京航空航天大学": "Beijing University of Aeronautics and Astronautics",
     "新闻网": "News",
+    "集成电路科学与工程学院": "School of Integrated Circuit Science and Engineering",
     "北京邮电大学": "Beijing University of Posts and Telecommunications",
     "字节点击": "Byte Click",
     "ui.dev": "ui.dev",
@@ -3325,7 +3327,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "北京航空航天大学": "Beijing University of Aeronautics and Astronautics",
-    "集成电路科学与工程学院": "School of Integrated Circuit Science and Engineering"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
