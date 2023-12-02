@@ -702,6 +702,7 @@
     "健康界": "Health sector",
     "首页-资讯": "Home-Information",
     "中央通訊社": "Central News Agency",
+    "分类(网页爬虫方法)": "Category (Web Crawling Methods)",
     "CNBC": "CNBC",
     "全文 RSS": "Full Text RSS",
     "cnBeta.COM": "cnBeta.COM",
@@ -3327,6 +3328,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "分类(网页爬虫方法)": "Category (Web Crawling Methods)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
