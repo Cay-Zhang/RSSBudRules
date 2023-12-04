@@ -533,6 +533,8 @@
     "中国光大银行": "China Everbright Bank",
     "外汇牌价 - 牌价总览": "Foreign Exchange Rates - Rates Overview",
     "外汇牌价 - 历史记录": "Foreign Exchange Rates - History",
+    "中国期货业协会": "China Futures Association",
+    "分析师园地": "Analyst Corner",
     "中国环球电视网 CGTN": "China Global Television Network CGTN",
     "链捕手 ChainCatcher": "ChainCatcher",
     "唱吧": "Sing it",
@@ -1483,7 +1485,6 @@
     "人工智能和自动化学院新闻": "News from the School of Artificial Intelligence and Automation",
     "人工智能和自动化学院通知": "School of Artificial Intelligence and Automation Notice",
     "虎嗅": "Tiger Sniff",
-    "首页资讯": "Home Information",
     "24小时": "24 hours",
     "文集": "Anthology",
     "简报": "Briefing",
@@ -3328,7 +3329,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "中国期货业协会": "China Futures Association",
-    "分析师园地": "Analyst Corner"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
