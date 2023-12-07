@@ -3050,6 +3050,8 @@
     "新锐节目": "Emerging Programs",
     "新锐播客": "Emerging Podcast",
     "Yahoo": "Yahoo",
+    "分類新聞": "Category News",
+    "新聞來源": "News Source",
     "长江大学": "Cheung Kong University",
     "动物科学学院": "School of Animal Science",
     "妖火": "Demon Fire",
@@ -3332,7 +3334,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "分類新聞": "Category News",
-    "新聞來源": "News Source"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
