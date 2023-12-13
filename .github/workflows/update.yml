@@ -24,7 +24,7 @@ jobs:
       - name: Use Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 'latest'
+          node-version: '18.18.2'
       - name: Fetch radar rules
         run: |
           rules="$(curl 'https://rsshub.js.org/build/radar-rules.js' 2>/dev/null)"
