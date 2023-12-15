@@ -914,6 +914,7 @@
     "大连理工大学": "Dalian University of Technology",
     "国际合作与交流处（港澳台办）": "International Cooperation and Exchange Division (Hong Kong, Macao and Taiwan Office)",
     "开发区校区": "Development Zone Campus",
+    "公共基础学院": "Institute of Public Foundations",
     "研究生院": "Graduate School",
     "盘锦校区": "Panjin Campus",
     "人事处": "Personnel Office",
@@ -1078,6 +1079,11 @@
     "Regulation": "Regulation",
     "汇通网": "Huitong.com",
     "7x24 小时快讯": "7x24 Newsletter",
+    "纷享销客 CRM": "Fenxiangpin CRM",
+    "文章干货": "Article dry goods",
+    "CRM 知识": "CRM Knowledge",
+    "纷享动态": "Dynamic",
+    "签约喜报": "Signing Newspaper",
     "福州地铁": "Fuzhou Metro",
     "GameApps.hk 香港手机游戏网": "GameApps.hk Hong Kong mobile game website",
     "遊戲基地 Gamebase": "Game Base Gamebase",
@@ -3351,11 +3357,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "公共基础学院": "Institute of Public Foundations",
-    "纷享销客 CRM": "Fenxiangpin CRM",
-    "文章干货": "Article dry goods",
-    "CRM 知识": "CRM Knowledge",
-    "纷享动态": "Dynamic",
-    "签约喜报": "Signing Newspaper"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
