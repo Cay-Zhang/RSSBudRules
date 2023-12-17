@@ -822,6 +822,8 @@
     "人物故事": "People Stories",
     "视频": "Video",
     "用户主页": "User Home Page",
+    "deeplearning.ai": "deeplearning.ai",
+    "TheBatch 周报": "TheBatch Weekly",
     "DeepMind": "DeepMind",
     "Delta Lake": "Delta Lake",
     "Blogs": "Blogs",
@@ -3390,7 +3392,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "deeplearning.ai": "deeplearning.ai",
-    "TheBatch 周报": "TheBatch Weekly"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
