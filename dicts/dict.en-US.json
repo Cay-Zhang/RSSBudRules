@@ -306,6 +306,8 @@
     "游戏公告与新闻": "Game Announcements & News",
     "游戏内公告": "In-Game Announcements",
     "塞壬唱片": "Siren Records",
+    "ArtStation": "ArtStation",
+    "Artist Profolio": "Artist Profolio",
     "Ash Maurya's blog": "Ash Maurya's blog",
     "Asian to lick": "Asian to lick",
     "Top rated": "Top rated",
@@ -3340,7 +3342,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "ArtStation": "ArtStation",
-    "Artist Profolio": "Artist Profolio"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
