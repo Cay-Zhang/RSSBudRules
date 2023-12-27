@@ -1293,6 +1293,8 @@
     "专题: 政府债券管理": "Topic: Government Bond Management",
     "中华人民共和国商务部": "Ministry of Commerce of the People's Republic of China",
     "新闻发布": "Press Releases",
+    "中华人民共和国司法部": "Ministry of Justice of the People's Republic of China",
+    "立法意见征集": "Collection of legislative opinions",
     "台灣法務部廉政署": "Independent Commission Against Corruption, Ministry of Justice, Taiwan",
     "中华人民共和国交通运输部": "Ministry of Transport of the People's Republic of China",
     "时政要闻": "Current Affairs",
@@ -3465,7 +3467,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "中华人民共和国司法部": "Ministry of Justice of the People's Republic of China",
-    "立法意见征集": "Collection of legislative opinions"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
