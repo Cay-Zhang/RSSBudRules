@@ -421,6 +421,7 @@
     "北京证券交易所": "Beijing Stock Exchange",
     "Bluesky": "Bluesky",
     "关键词": "Keywords",
+    "Post": "Post",
     "BT之家": "BT House",
     "北京航空航天大学": "Beijing University of Aeronautics and Astronautics",
     "新闻网": "News",
@@ -3467,6 +3468,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Post": "Post"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
