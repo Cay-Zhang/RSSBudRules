@@ -2376,6 +2376,7 @@
     "Outage.Report": "Outage.Report",
     "Report": "Report",
     "PANews": "PANews",
+    "Cool Papers": "Cool Papers",
     "Paradigm": "Paradigm",
     "Writing": "Writing",
     "Patagonia": "Patagonia",
@@ -3468,6 +3469,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Cool Papers": "Cool Papers"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
