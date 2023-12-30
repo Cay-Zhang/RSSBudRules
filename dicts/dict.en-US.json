@@ -2673,6 +2673,7 @@
     "学习路上": "Learning on the Road",
     "组织部（老干部处、党校）": "Organization Department (Old Cadre Division, Party School)",
     "上海市教育考试院": "Shanghai Education Examination Authority",
+    "消息": "messages",
     "自学考试通知公告": "Self-study Examination Notice",
     "上海海事大学": "Shanghai Maritime University",
     "教务信息": "Academic Affairs Information",
@@ -3470,6 +3471,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "消息": "messages"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
