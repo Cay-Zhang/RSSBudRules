@@ -14030,12 +14030,15 @@
         source:[ "/:id/list.htm" ],
         target:"/shiep/zzb/:id" } ] },
   "shmeea.edu.cn":{ _name:"Shanghai Education Examination Authority",
-    www:[ { title:"News Express",
-        docs:"https://docs.rsshub.app/routes/other#shang-hai-shi-jiao-yu-kao-shi-yuan",
-        source:[ "/" ],
-        target:"/shmeea" },
+    www:[ { title:"messages",
+        docs:"https://docs.rsshub.app/routes/study#shang-hai-shi-jiao-yu-kao-shi-yuan",
+        source:[ "/page/:id?/index.html" ],
+        target:(params, url, document) => {
+                    const li = document.querySelector('#main .pageList li');
+                    return li ? '/shmeea/:id?' : '';
+                } },
       { title:"Self-study Examination Notice",
-        docs:"https://docs.rsshub.app/routes/other#shang-hai-shi-jiao-yu-kao-shi-yuan",
+        docs:"https://docs.rsshub.app/routes/study#shang-hai-shi-jiao-yu-kao-shi-yuan",
         source:[ "/page/04000/index.html",
           "/" ],
         target:"/shmeea/self-study" } ] },
