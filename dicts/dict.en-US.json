@@ -2407,6 +2407,10 @@
     "开源广场": "Kaiyuan Plaza",
     "osu!": "osu!",
     "Beatmap Pack": "Beatmap Pack",
+    "OTOBANANA": "OTOBANANA",
+    "Timeline タイムライン": "Timeline タイムライン",
+    "Cast 音声投稿": "Cast Sound Pitch",
+    "Livestream ライブ配信": "Livestream ライブ配信",
     "中国海洋大学": "Ocean University of China",
     "信息科学与工程学院": "School of Information Science and Engineering",
     "信息科学与工程学院研究生招生通知公告": "School of Information Science and Engineering Graduate Admission Notice Announcement",
@@ -3510,9 +3514,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "OTOBANANA": "OTOBANANA",
-    "Timeline タイムライン": "Timeline タイムライン",
-    "Cast 音声投稿": "Cast Sound Pitch",
-    "Livestream ライブ配信": "Livestream ライブ配信"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
