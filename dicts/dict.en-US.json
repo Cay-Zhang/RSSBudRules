@@ -1028,6 +1028,8 @@
     "公众号": "Public",
     "Financial Times": "Financial Times",
     "FT 中文网": "FT Chinese Network",
+    "myFT 个人 RSS": "myFT Personal RSS",
+    "myFT personal RSS": "myFT personal RSS",
     "福利吧": "Welfare Bar",
     "Furstar": "Furstar",
     "最新售卖角色列表": "Latest Sold Character List",
@@ -3542,7 +3544,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "myFT 个人 RSS": "myFT Personal RSS",
-    "myFT personal RSS": "myFT personal RSS"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
