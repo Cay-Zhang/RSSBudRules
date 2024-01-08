@@ -770,6 +770,8 @@
     "Most Discussed": "Most Discussed",
     "Most Upvoted": "Most Upvoted",
     "Popular": "Popular",
+    "大麦网": "Barclays.com",
+    "票务更新": "Ticket Updates",
     "喷嚏": "Sneeze",
     "图卦": "Diagrams",
     "Darwin Awards": "Darwin Awards",
@@ -3563,7 +3565,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "大麦网": "Barclays.com",
-    "票务更新": "Ticket Updates"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
