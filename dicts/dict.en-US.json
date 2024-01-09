@@ -2396,6 +2396,7 @@
     "评论": "Comments",
     "产经": "Production Economics",
     "產經": "Production",
+    "Onet": "Onet",
     "O&O Software": "O&O Software",
     "OpenAI": "OpenAI",
     "ChatGPT - Release Notes": "ChatGPT - Release Notes",
@@ -3565,6 +3566,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Onet": "Onet"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
