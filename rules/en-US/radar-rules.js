@@ -7695,6 +7695,21 @@
         source:[ "/lives/:id",
           "/" ],
         target:"/houxu/lives/:id" } ] },
+  "hoyolab.com":{ _name:"HoYoLAB",
+    ".":[ { title:"Event Announcement Information",
+        docs:"https://docs.rsshub.app/routes/game#hoyolab-news",
+        source:[ "/",
+          "/circles/:gid/:unknow/official" ],
+        target:(params, url) => {
+                    const typeMap = {
+                        notices: '1',
+                        events: '2',
+                        news: '3',
+                    };
+                    const query = new URL(url).searchParams;
+                    const type = typeMap[query.get('page_sort')] || '2';
+                    return `/hoyolab/news/zh-cn/${params?.gid || 2}/${type}`;
+                } } ] },
   "hpoi.net":{ _name:"Hpoi hand puppet wiki",
     www:[ { title:"information-gathering",
         docs:"https://docs.rsshub.app/routes/anime#hpoi-shou-ban-wei-ji",
