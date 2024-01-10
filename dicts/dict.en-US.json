@@ -3050,6 +3050,8 @@
     "xhu - 问题": "xhu - questions",
     "xhu - 话题": "xhu - Topic",
     "xhu - 专栏": "xhu - Columns",
+    "trendingpapers": "trendingpapers",
+    "Trending Papers on arXiv": "Trending Papers on arXiv",
     "Tribal Football": "Tribal Football",
     "The Ring of Wonder": "The Ring of Wonder",
     "首页更新": "Home page update",
@@ -3571,7 +3573,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "trendingpapers": "trendingpapers",
-    "Trending Papers on arXiv": "Trending Papers on arXiv"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
