@@ -937,6 +937,8 @@
     "研究生院通知公告": "Graduate School Notice",
     "本科教务处信息网": "Undergraduate Academic Affairs Information Network",
     "e 公司": "e Company",
+    "Ekantipur": "Ekantipur",
+    "Full Article RSS": "Full Article RSS",
     "Elastic 中文社区": "Elastic Chinese Community",
     "发现": "Discover",
     "电鸭社区": "Electric Duck Community",
@@ -1613,6 +1615,7 @@
     "环球网": "Global Network",
     "Hugging Face": "Hugging Face",
     "Daily Papers": "Daily Papers",
+    "中文博客": "Chinese Blog",
     "湖南人事考试网": "Hunan Personnel Examination Network",
     "湖南农业大学": "Hunan Agricultural University",
     "公共管理与法学学院": "Faculty of Public Administration and Law",
@@ -3566,8 +3569,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Ekantipur": "Ekantipur",
-    "Full Article RSS": "Full Article RSS",
-    "中文博客": "Chinese Blog"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
