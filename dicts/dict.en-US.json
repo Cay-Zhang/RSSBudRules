@@ -2505,6 +2505,9 @@
     "Postman": "Postman",
     "Product Hunt": "Product Hunt",
     "Today Popular": "Today Popular",
+    "PlayStation Store": "PlayStation Store",
+    "Monthly Games": "Monthly Games",
+    "User trophy": "User trophy",
     "公視新聞網 PNN": "PNN (Public Television News Network)",
     "即時新聞": "News",
     "專題策展": "Theme Curatorship",
@@ -3569,8 +3572,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "PlayStation Store": "PlayStation Store",
-    "Monthly Games": "Monthly Games",
-    "User trophy": "User trophy"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
