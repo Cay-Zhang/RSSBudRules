@@ -16047,17 +16047,27 @@
         target:"/zhihu/zhuanlan/:id" },
       { title:"xhu - User News",
         docs:"https://docs.rsshub.app/routes/social-media#zhi-hu",
-        source:"/people/:id",
+        source:[ "/people/:id",
+          "/org/:id" ],
         target:(params, url, document) => {
                     const hexId = /"id":"([0-9a-f]*?)","urlToken"/.exec(document.getElementById('js-initialData').innerHTML)[1];
                     return `/zhihu/xhu/people/activities/${hexId}`;
                 } },
       { title:"xhu - User Answer",
         docs:"https://docs.rsshub.app/routes/social-media#zhi-hu",
-        source:"/people/:id/answers",
+        source:[ "/people/:id/answers",
+          "/org/:id/answers" ],
         target:(params, url, document) => {
                     const hexId = /"id":"([0-9a-f]*?)","urlToken"/.exec(document.getElementById('js-initialData').innerHTML)[1];
                     return `/zhihu/xhu/people/answers/${hexId}`;
+                } },
+      { title:"xhu - User Articles",
+        docs:"https://docs.rsshub.app/routes/social-media#zhi-hu",
+        source:[ "/people/:id/posts",
+          "/org/:id/posts" ],
+        target:(params, url, document) => {
+                    const hexId = /"id":"([0-9a-f]*?)","urlToken"/.exec(document.getElementById('js-initialData').innerHTML)[1];
+                    return `/zhihu/xhu/people/posts/${hexId}`;
                 } },
       { title:"xhu - Favorites",
         docs:"https://docs.rsshub.app/routes/social-media#zhi-hu",
