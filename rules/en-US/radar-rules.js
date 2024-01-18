@@ -388,7 +388,7 @@
         docs:"https://docs.rsshub.app/routes/multimedia#141jav",
         source:"/",
         target:(params, url, document) => {
-                    const today = document.querySelector('div.card.mb-1.card-overview').getAttribute('data-date').replace(/-/g, '');
+                    const today = document.querySelector('div.card.mb-1.card-overview').dataset.date.replaceAll('-', '');
                     return `/141jav/day/${today}`;
                 } },
       { title:"Today\'s Cast",
@@ -407,7 +407,7 @@
                     const itype = params.morekey === undefined ? params.type : params.type === 'tag' ? 'tag' : 'day';
                     let ikey = `${itype === 'day' ? params.type : ''}${params.key || ''}${itype === 'tag' && params.morekey !== undefined ? '%2F' : ''}${params.morekey || ''}`;
                     if (ikey === '' && itype === 'tag') {
-                        ikey = document.querySelector('div.thumbnail.is-inline > a').getAttribute('href').replace('/tag/', '').replace(/\//g, '%2F');
+                        ikey = document.querySelector('div.thumbnail.is-inline > a').getAttribute('href').replace('/tag/', '').replaceAll('/', '%2F');
                     } else if (ikey === '' && itype === 'actress') {
                         ikey = document.querySelector('div.card > a').getAttribute('href').replace('/actress/', '');
                     }
@@ -418,7 +418,7 @@
         docs:"https://docs.rsshub.app/routes/multimedia#141ppv",
         source:"/",
         target:(params, url, document) => {
-                    const today = document.querySelector('div.card.mb-1.card-overview').getAttribute('data-date').replace(/-/g, '');
+                    const today = document.querySelector('div.card.mb-1.card-overview').dataset.date.replaceAll('-', '');
                     return `/141ppv/day/${today}`;
                 } },
       { title:"Today\'s Cast",
@@ -437,7 +437,7 @@
                     const itype = params.morekey === undefined ? params.type : params.type === 'tag' ? 'tag' : 'day';
                     let ikey = `${itype === 'day' ? params.type : ''}${params.key || ''}${itype === 'tag' && params.morekey !== undefined ? '%2F' : ''}${params.morekey || ''}`;
                     if (ikey === '' && itype === 'tag') {
-                        ikey = document.querySelector('div.thumbnail.is-inline > a').getAttribute('href').replace('/tag/', '').replace(/\//g, '%2F');
+                        ikey = document.querySelector('div.thumbnail.is-inline > a').getAttribute('href').replace('/tag/', '').replaceAll('/', '%2F');
                     } else if (ikey === '' && itype === 'actress') {
                         ikey = document.querySelector('div.card > a').getAttribute('href').replace('/actress/', '');
                     }
@@ -628,7 +628,7 @@
                     } else {
                         return false;
                     }
-                    return `/2cycd/${pid}/${sort ? sort : 'dateline'}`;
+                    return `/2cycd/${pid}/${sort ?? 'dateline'}`;
                 } } ] },
   "36kr.com":{ _name:"36 Krypton",
     ".":[ { title:"Information",
@@ -979,11 +979,11 @@
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/routes/multimedia#7mmtv-fen-lei",
         source:[ "/" ],
-        target:(params, url) => `/7mmtv/${new URL(url).toString().match(/\/(en|ja|ko|zh)\/([\w\d-]+\/){0,2}/)[1]}` },
+        target:(params, url) => `/7mmtv/${new URL(url).toString().match(/\/(en|ja|ko|zh)\/([\w-]+\/){0,2}/)[1]}` },
       { title:"Producer",
         docs:"https://docs.rsshub.app/routes/multimedia#7mmtv-zhi-zuo-shang",
         source:[ "/" ],
-        target:(params, url) => `/7mmtv/${new URL(url).toString().match(/\/(en|ja|ko|zh)\/([\w\d-]+\/){0,2}/)[1]}` } ] },
+        target:(params, url) => `/7mmtv/${new URL(url).toString().match(/\/(en|ja|ko|zh)\/([\w-]+\/){0,2}/)[1]}` } ] },
   "8kcosplay.com":{ _name:"8KCosplay",
     ".":[ { title:"Latest",
         docs:"https://docs.rsshub.app/routes/picture#8kcosplay",
@@ -1824,16 +1824,13 @@
           "/:user/:types",
           "/gallery/:galleryid/:galleryname" ],
         target:(params, url, document) => {
-                    let uid;
                     let type = '';
                     if (params.types && params.types.match('appreciated')) {
                         type = '/appreciated';
                     }
-                    if (url.match(/gallery\/\d+/)) {
-                        uid = document && document.querySelector('.e2e-project-avatar').childNodes[0].attributes[1].value.match(/behance.net\/(.*)/)[1];
-                    } else {
-                        uid = document && document.querySelector('html').innerHTML.match(/([^/]+)\/insights/)[1];
-                    }
+                    const uid = /gallery\/\d+/.test(url)
+                        ? document && document.querySelector('.e2e-project-avatar').childNodes[0].attributes[1].value.match(/behance.net\/(.*)/)[1]
+                        : document && document.querySelector('html').innerHTML.match(/([^/]+)\/insights/)[1];
 
                     return `/behance/${uid}${type}`;
                 } } ] },
@@ -1874,7 +1871,7 @@
         source:"/video/:aid",
         target:(params, url) => {
                     const pid = new URL(url).searchParams.get('p');
-                    return `/bilibili/video/danmaku/${params.aid.replace('av', '')}/${pid ? pid : 1}`;
+                    return `/bilibili/video/danmaku/${params.aid.replace('av', '')}/${pid ?? 1}`;
                 } },
       { title:"foreign drama",
         docs:"https://docs.rsshub.app/routes/social-media#bilibili",
@@ -3816,7 +3813,7 @@
         source:[ "/channel.html",
           "/index.html" ],
         target:(_, url) => {
-                    const id = parseInt(new URL(url).searchParams.get('recid'));
+                    const id = Number.parseInt(new URL(url).searchParams.get('recid'));
                     let type = 'recommend';
                     const TypeMap = {
                         recommend: {
@@ -3856,11 +3853,11 @@
                             id: 33,
                         },
                     };
-                    Object.entries(TypeMap).forEach(([key, value]) => {
+                    for (const [key, value] of Object.entries(TypeMap)) {
                         if (value.id === id) {
                             type = key;
                         }
-                    });
+                    }
                     return `/dahecube/${type}`;
                 } } ] },
   "daily.dev":{ _name:"Daily.dev",
@@ -4188,13 +4185,13 @@
         source:[ "/r/:owner/:image",
           "/r/:owner/:image/tags",
           "/_/:image" ],
-        target:(params) => `/dockerhub/build/${params.owner ? params.owner : 'library'}/${params.image}` },
+        target:(params) => `/dockerhub/build/${params.owner ?? 'library'}/${params.image}` },
       { title:"Mirror has new Tag",
         docs:"https://docs.rsshub.app/routes/program-update#docker-hub",
         source:[ "/r/:owner/:image",
           "/r/:owner/:image/tags",
           "/_/:image" ],
-        target:(params) => `/dockerhub/tag/${params.owner ? params.owner : 'library'}/${params.image}` } ] },
+        target:(params) => `/dockerhub/tag/${params.owner ?? 'library'}/${params.image}` } ] },
   docschina:{ _name:"Stamped Chinese",
     ".":[ { title:"Weekly Newsletter - JavaScript",
         docs:"https://docs.rsshub.app/routes/programming#yin-ji-zhong-wen-zhou-kan",
@@ -4202,6 +4199,31 @@
           "/weekly/js",
           "/" ],
         target:"/docschina/jsweekly" } ] },
+  "dol.go.th":{ _name:"กรมที่ดิน (Thaland Department of Lands)",
+    announce:[ { title:"ประกาศกรมที่ดิน",
+        docs:"https://docs.rsshub.app/routes/government#thailand-department-of-lands-e-landsannouncement",
+        source:"/index.php",
+        target:(params, url, document) => {
+                    const queryParams = new URL(url).searchParams;
+                    let rssPath = '/dol/announce';
+                    if (!queryParams.has('searchconcerned')) {
+                        return rssPath;
+                    }
+
+                    rssPath += `/${encodeURIComponent(queryParams.get('searchconcerned'))}`;
+
+                    const province = document && document.querySelector('#searchprovince').value !== '' ? document.querySelector(`#searchprovince option[value="${document.querySelector('#searchprovince').value}"]`).text() : '';
+
+                    const office = document && document.querySelector('#searchoffice').value !== '' ? document.querySelector(`#searchoffice option[value="${document.querySelector('#searchoffice').value}"]`).text() : '';
+
+                    if (!province || !office) {
+                        return rssPath;
+                    }
+
+                    rssPath += `/${encodeURIComponent(province)}/${encodeURIComponent(office)}`;
+
+                    return rssPath;
+                } } ] },
   "domp4.cc":{ _name:"domp4 movie",
     ".":[ { title:"Recent Updates",
         docs:"https://docs.rsshub.app/routes/multimedia#domp4-ying-shi",
@@ -4252,7 +4274,7 @@
         docs:"https://docs.rsshub.app/routes/social-media#dou-ban",
         source:"/people/:user/",
         target:(params, url, document) => {
-                    const uid = document && document.querySelector('html').innerHTML.match(/"id":"([0-9]+)"/)[1];
+                    const uid = document && document.querySelector('html').innerHTML.match(/"id":"(\d+)"/)[1];
                     return uid ? `/douban/people/${uid}/status` : '';
                 } },
       { title:"Panel - Latest",
@@ -4363,65 +4385,65 @@
     dutdice:[ { title:"International Cooperation and Exchange Division (Hong Kong, Macao and Taiwan Office)",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-guo-ji-he-zuo-yu-jiao-liu-chu-gang-ao-tai-ban",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     eda:[ { title:"Development Zone Campus",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-kai-fa-qu-xiao-qu",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     fldpj:[ { title:"Institute of Public Foundations",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-gong-gong-ji-chu-xue-yuan",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     gs:[ { title:"Graduate School",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-yan-jiu-sheng-yuan",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     news:[ { title:"News",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-xin-wen-wang",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     panjin:[ { title:"Panjin Campus",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-pan-jin-xiao-qu",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     perdep:[ { title:"Personnel Office",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-ren-shi-chu",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     pjteach:[ { title:"Panjin Campus Academic Affairs and Teaching Affairs Office",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-pan-jin-xiao-qu-jiao-wu-jiao-xue-shi-wu-ban-gong-shi",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     pjxqzwb:[ { title:"General Affairs Department of Panjin Campus",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-pan-jin-xiao-qu-zong-wu-bu",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     ssdut:[ { title:"School of Software",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-ruan-jian-xue-yuan",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     teach:[ { title:"Academic Affairs Office",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-jiao-wu-chu",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     tjpj:[ { title:"College of Sports and Health Panjim Branch",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-ti-yu-jian-kang-xue-yuan-pan-jin-fen-yuan",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     tycgzx:[ { title:"Sports Complex Center",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-ti-yu-chang-guan-zhong-xin",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ],
     xsgzb:[ { title:"Panjin Campus Student Affairs Office",
         docs:"https://docs.rsshub.app/routes/university#da-lian-li-gong-da-xue-pan-jin-xiao-qu-xue-sheng-shi-wu-ban-gong-shi",
         source:[ "/" ],
-        target:(params, url) => `/dut/${url.match(/:\/\/[\w\d]+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ] },
+        target:(params, url) => `/dut/${url.match(/:\/{2}\w+\./)[1]}/${url.match(/\.cn\/(.*)\.htm/)[1]}` } ] },
   "dx2025.com":{ _name:"East-West Think Tank",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/routes/multimedia#e-hentai-fen-lei",
         source:[ "/archives/category/:type/:category?",
           "/archives/category/:type" ],
-        target:(params) => `/dx2025/${params.type}/${params.category ? params.category : ''}` } ] },
+        target:(params) => `/dx2025/${params.type}/${params.category ?? ''}` } ] },
   "dxy.cn":{ _name:"Clove Garden",
     ".":[ { title:"Personal Posts",
         docs:"https://docs.rsshub.app/routes/bbs#ding-xiang-yuan",
@@ -4998,7 +5020,7 @@
     ".":[ { title:"Home",
         docs:"https://docs.rsshub.app/routes/finance#followin",
         source:[ "/:lang" ],
-        target:(params) => (params.lang !== 'news' ? '/followin/1/:lang' : '') },
+        target:(params) => (params.lang === 'news' ? '' : '/followin/1/:lang') },
       { title:"Quick News",
         docs:"https://docs.rsshub.app/routes/finance#followin",
         source:[ "/:lang?/news",
@@ -6098,14 +6120,14 @@
     www:[ { title:"People\'s Government of Dianbai District, Maoming City",
         docs:"https://docs.rsshub.app/routes/government#mao-ming-shi-ren-min-zheng-fu-mao-ming-shi-dian-bai-qu-ren-min-zheng-fu",
         source:[ "/*" ],
-        target:(params, url) => `/gov/dianbai/${new URL(url).host.split('.dianbai.gov.cn')[0] + new URL(url).pathname.replace(/(index.*$)/g, '')}` } ] },
+        target:(params, url) => `/gov/dianbai/${new URL(url).host.split('.dianbai.gov.cn')[0] + new URL(url).pathname.replaceAll(/(index.*$)/g, '')}` } ] },
   "forestry.gov.cn":{ _name:"State Forestry and Grassland Administration (SFGA)",
     ".":[ { title:"National Forestry and Grassland Science and Technology Lecture Hall",
         docs:"https://docs.rsshub.app/routes/government#guo-jia-lin-ye-he-cao-yuan-ju-guo-jia-lin-cao-ke-ji-da-jiang-tang",
         source:[ "gjlckjdjt.jhtml" ],
         target:(_, url) => {
                     url = new URL(url);
-                    const path = url.href.match(/\/([\w]+)\.jhtml/)[1];
+                    const path = url.href.match(/\/(\w+)\.jhtml/)[1];
 
                     return `/gov/forestry/gjlckjdjt${path ? `/${path}` : ''}`;
                 } },
@@ -6137,7 +6159,7 @@
     www:[ { title:"Gaozhou Municipal People\'s Government",
         docs:"https://docs.rsshub.app/routes/government#mao-ming-shi-ren-min-zheng-fu-gao-zhou-shi-ren-min-zheng-fu",
         source:[ "/*" ],
-        target:(params, url) => `/gov/gaozhou/${new URL(url).host.split('.gaozhou.gov.cn')[0] + new URL(url).pathname.replace(/(index.*$)/g, '')}` } ] },
+        target:(params, url) => `/gov/gaozhou/${new URL(url).host.split('.gaozhou.gov.cn')[0] + new URL(url).pathname.replaceAll(/(index.*$)/g, '')}` } ] },
   "gz.gov.cn":{ _name:"Guangzhou Municipal People\'s Government",
     www:[ { title:"News",
         docs:"https://docs.rsshub.app/routes/government#guang-zhou-shi-ren-min-zheng-fu",
@@ -6177,7 +6199,7 @@
     www:[ { title:"Huzhou Municipal People\'s Government",
         docs:"https://docs.rsshub.app/routes/government#mao-ming-shi-ren-min-zheng-fu-hua-zhou-shi-ren-min-zheng-fu",
         source:[ "/*" ],
-        target:(params, url) => `/gov/huazhou/${new URL(url).host.split('.huazhou.gov.cn')[0] + new URL(url).pathname.replace(/(index.*$)/g, '')}` } ] },
+        target:(params, url) => `/gov/huazhou/${new URL(url).host.split('.huazhou.gov.cn')[0] + new URL(url).pathname.replaceAll(/(index.*$)/g, '')}` } ] },
   "huizhou.gov.cn":{ _name:"Huizhou Municipal People\'s Government",
     www:[ { title:"Government Affairs - Government News",
         docs:"https://docs.rsshub.app/routes/government#guang-yan-an-dong-sheng-xing-xian-ren-min-zheng-zheng-fu-hui-zhou-shi-fu-ren-min-zheng-zheng-fu-zheng-zheng-wu-gong-kai",
@@ -6379,7 +6401,7 @@
     ".":[ { title:"Maoming Municipal People\'s Government",
         docs:"https://docs.rsshub.app/routes/government#mao-ming-shi-ren-min-zheng-fu-mao-ming-shi-ren-min-zheng-fu-men-hu-wang-zhan",
         source:[ "/*" ],
-        target:(params, url) => `/gov/maoming/${new URL(url).host.split('.maoming.gov.cn')[0] + new URL(url).pathname.replace(/(index.*$)/g, '')}` } ] },
+        target:(params, url) => `/gov/maoming/${new URL(url).host.split('.maoming.gov.cn')[0] + new URL(url).pathname.replaceAll(/(index.*$)/g, '')}` } ] },
   "maonan.gov.cn":{ _name:"Maoming City Maonan District People\'s Government",
     ".":[ { title:"Public Affairs",
         docs:"https://docs.rsshub.app/routes/government#mao-ming-shi-ren-min-zheng-fu-mao-ming-shi-mao-nan-qu-ren-min-zheng-fu",
@@ -6428,7 +6450,7 @@
     www:[ { title:"Guangdong Maoming Binhai New Area Governmental Affairs Website",
         docs:"https://docs.rsshub.app/routes/government#mao-ming-shi-ren-min-zheng-fu-guang-dong-mao-ming-bin-hai-xin-qu-zheng-wu-wang",
         source:[ "/*" ],
-        target:(params, url) => `/gov/mgs/${new URL(url).host.split('.mgs.gov.cn')[0] + new URL(url).pathname.replace(/(index.*$)/g, '')}` } ] },
+        target:(params, url) => `/gov/mgs/${new URL(url).host.split('.mgs.gov.cn')[0] + new URL(url).pathname.replaceAll(/(index.*$)/g, '')}` } ] },
   "miit.gov.cn":{ _name:"Ministry of Industry and Information Technology",
     ".":[ { title:"Department Document Release",
         docs:"https://docs.rsshub.app/routes/government#zhong-guo-gong-ye-he-xin-xi-hua-bu",
@@ -6442,7 +6464,7 @@
     www:[ { title:"Maoming High-tech Industrial Development Zone Governmental Affairs Website",
         docs:"https://docs.rsshub.app/routes/government#mao-ming-shi-ren-min-zheng-fu-guang-dong-mao-ming-gao-xin-ji-shu-chan-ye-kai-fa-qu",
         source:[ "/*" ],
-        target:(params, url) => `/gov/mmht/${new URL(url).host.split('.mmht.gov.cn')[0] + new URL(url).pathname.replace(/(index.*$)/g, '')}` } ] },
+        target:(params, url) => `/gov/mmht/${new URL(url).host.split('.mmht.gov.cn')[0] + new URL(url).pathname.replaceAll(/(index.*$)/g, '')}` } ] },
   "moa.gov.cn":{ _name:"Ministry of Agriculture and Rural Development of the People\'s Republic of China",
     ".":[ { title:"News",
         docs:"https://docs.rsshub.app/routes/government#zhong-hua-ren-min-gong-he-guo-jiao-yu-bu-xin-wen",
@@ -6456,9 +6478,7 @@
                         return '/gov/moa/zdscxx';
                     }
                     const selected = document.querySelectorAll('.colorRed');
-                    const categories = Array.from(selected)
-                        .map((s) => s.getAttribute('_key'))
-                        .join('/');
+                    const categories = [...selected].map((s) => s.getAttribute('_key')).join('/');
 
                     return `/gov/moa/zdscxx${categories ? `/${categories}` : ''}`;
                 } } ] },
@@ -6480,7 +6500,7 @@
           "/ztztz/guozaiguanli/" ],
         target:(params) => {
                     const category = params.category;
-                    return `/gov/mof/bond/${category ? category : ''}`;
+                    return `/gov/mof/bond/${category ?? ''}`;
                 } } ] },
   "mofcom.gov.cn":{ _name:"Ministry of Commerce of the People\'s Republic of China",
     ".":[ { title:"Press Releases",
@@ -7086,7 +7106,7 @@
     www:[ { title:"Guangdong Province Maoming Shuidongwan New City Construction Management Committee",
         docs:"https://docs.rsshub.app/routes/government#mao-ming-shi-ren-min-zheng-fu-guang-dong-sheng-mao-ming-shui-dong-wan-xin-cheng-jian-she-guan-li-wei-yuan-hui",
         source:[ "/*" ],
-        target:(params, url) => `/gov/sdb/${new URL(url).host.split('.sdb.gov.cn')[0] + new URL(url).pathname.replace(/(index.*$)/g, '')}` } ] },
+        target:(params, url) => `/gov/sdb/${new URL(url).host.split('.sdb.gov.cn')[0] + new URL(url).pathname.replaceAll(/(index.*$)/g, '')}` } ] },
   "sh.gov.cn":{ _name:"Shanghai Municipal People\'s Government",
     wsjkw:[ { title:"Shanghai Health Care Commission Epidemic notification",
         docs:"https://docs.rsshub.app/routes/other#xin-guan-fei-yan-yi-qing-xin-wen-dong-tai-yi-qing-tong-bao-shang-hai-wei-jian-wei",
@@ -7161,7 +7181,7 @@
     www:[ { title:"Xinyi Municipal People\'s Government",
         docs:"https://docs.rsshub.app/routes/government#mao-ming-shi-ren-min-zheng-fu-xin-yi-shi-ren-min-zheng-fu",
         source:[ "/*" ],
-        target:(params, url) => `/gov/xinyi/${new URL(url).host.split('.xinyi.gov.cn')[0] + new URL(url).pathname.replace(/(index.*$)/g, '')}` } ] },
+        target:(params, url) => `/gov/xinyi/${new URL(url).host.split('.xinyi.gov.cn')[0] + new URL(url).pathname.replaceAll(/(index.*$)/g, '')}` } ] },
   "www.gov.cn":{ _name:"China Government Network",
     ".":[ { title:"Government News - Government Departments",
         docs:"https://docs.rsshub.app/routes/government#zhong-guo-zheng-fu-wang",
@@ -7296,7 +7316,7 @@
         docs:"https://docs.rsshub.app/routes/shopping#guang-diu",
         source:[ "/",
           "/cate.php" ],
-        target:(param, url) => `/guangdiu/${url.indexOf('?') > -1 ? url.split('?')[1] : ''}` },
+        target:(param, url) => `/guangdiu/${url.includes('?') ? url.split('?')[1] : ''}` },
       { title:"One Hour Windy List",
         docs:"https://docs.rsshub.app/routes/shopping#guang-diu",
         source:[ "/rank" ],
@@ -7304,11 +7324,11 @@
       { title:"$9.90",
         docs:"https://docs.rsshub.app/routes/shopping#guang-diu",
         source:[ "/cheaps.php" ],
-        target:(param, url) => `/guangdiu/${url.indexOf('?') > -1 ? url.split('?')[1] : ''}` },
+        target:(param, url) => `/guangdiu/${url.includes('?') ? url.split('?')[1] : ''}` },
       { title:"Keyword Search",
         docs:"https://docs.rsshub.app/routes/shopping#guang-diu",
         source:[ "/search.php" ],
-        target:(param, url) => `/guangdiu/${url.indexOf('?') > -1 ? url.split('?')[1] : ''}` } ] },
+        target:(param, url) => `/guangdiu/${url.includes('?') ? url.split('?')[1] : ''}` } ] },
   "gzmtr.com":{ _name:"Guangzhou Metro",
     www:[ { title:"News",
         docs:"https://docs.rsshub.app/routes/travel#guang-zhou-di-tie" } ] },
@@ -8380,7 +8400,7 @@
         target:(params, url) => {
                     const reqCode = new URL(url).searchParams
                         .get('reqCodeNo1')
-                        .replace(/[^0-9a-zA-Z]/g, '')
+                        .replaceAll(/[^\dA-Za-z]/g, '')
                         .toUpperCase();
                     const locale = new URL(url).searchParams.get('locale').toLowerCase();
                     if ((reqCode.search(/^(?:\d{11,12}|[A-Z]{2}\d{9}[A-Z]{2})$/) === 0 && locale === 'ja') || locale === 'en') {
@@ -9724,7 +9744,7 @@
         docs:"https://docs.rsshub.app/routes/programming#jue-jin-fei-dian",
         source:[ "/pins/:type",
           "/pins/topic/:type" ],
-        target:(params) => (params.type !== 'recommended' ? '/juejin/pins/:type' : '/juejin/pins') },
+        target:(params) => (params.type === 'recommended' ? '/juejin/pins' : '/juejin/pins/:type') },
       { title:"User Column",
         docs:"https://docs.rsshub.app/routes/programming#jue-jin-zhuan-lan",
         source:[ "/user/:id",
@@ -10340,8 +10360,8 @@
                     const id = document
                         ?.querySelector('li.layui-this[id]')
                         ?.id?.replace(/_/g, ' ')
-                        .replace(/\b\w/g, (c) => c.toUpperCase())
-                        .replace(/\s/g, '');
+                        .replaceAll(/\b\w/g, (c) => c.toUpperCase())
+                        .replaceAll(/\s/g, '');
 
                     return `/logclub/lc_report${id ? `/${id}` : ''}`;
                 } },
@@ -10467,24 +10487,12 @@
         docs:"https://docs.rsshub.app/routes/new-media#lvv2",
         source:[ "/sort-score",
           "/sort-score/:sort" ],
-        target:(params) => {
-                    if (!params.sort) {
-                        return '/lvv2/news/sort-score';
-                    } else {
-                        return `/lvv2/news/sort-score/${params.sort}`;
-                    }
-                } },
+        target:(params) => (params.sort ? `/lvv2/news/sort-score/${params.sort}` : '/lvv2/news/sort-score') },
       { title:"24-hour list",
         docs:"https://docs.rsshub.app/routes/new-media#lvv2",
         source:[ "/sort-realtime",
           "/sort-realtime/:sort" ],
-        target:(params) => {
-                    if (!params.sort) {
-                        return '/lvv2/news/sort-realtime';
-                    } else {
-                        return `/lvv2/news/sort-realtime/${params.sort}`;
-                    }
-                } },
+        target:(params) => (params.sort ? `/lvv2/news/sort-realtime/${params.sort}` : '/lvv2/news/sort-realtime') },
       { title:"Popular 24 hours Top 10",
         docs:"https://docs.rsshub.app/routes/new-media#lvv2",
         source:[ "/",
@@ -10498,24 +10506,12 @@
         docs:"https://docs.rsshub.app/routes/new-media#lvv2",
         source:[ "/sort-score",
           "/sort-score/:sort" ],
-        target:(params) => {
-                    if (!params.sort) {
-                        return '/lvv2/top/sort-score';
-                    } else {
-                        return `/lvv2/top/sort-score/${params.sort}`;
-                    }
-                } },
+        target:(params) => (params.sort ? `/lvv2/top/sort-score/${params.sort}` : '/lvv2/top/sort-score') },
       { title:"24 Hour List 24 Hour Top 10",
         docs:"https://docs.rsshub.app/routes/new-media#lvv2",
         source:[ "/sort-realtime",
           "/sort-realtime/:sort" ],
-        target:(params) => {
-                    if (!params.sort) {
-                        return '/lvv2/top/sort-realtime';
-                    } else {
-                        return `/lvv2/top/sort-realtime/${params.sort}`;
-                    }
-                } } ] },
+        target:(params) => (params.sort ? `/lvv2/top/sort-realtime/${params.sort}` : '/lvv2/top/sort-realtime') } ] },
   "sonymusic.co.jp":{ _name:"Sony Music",
     www:[ { title:"LiSA News",
         docs:"https://docs.rsshub.app/routes/en/live#lisa",
@@ -12114,9 +12110,9 @@
         source:"/*/list.htm",
         target:(_params, url) => {
                     url = new URL(url);
-                    if (url.pathname.indexOf('/1594') !== -1) {
+                    if (url.pathname.includes('/1594')) {
                         return '/njupt/notice';
-                    } else if (url.pathname.indexOf('/1596') !== -1) {
+                    } else if (url.pathname.includes('/1596')) {
                         return '/njupt/news';
                     }
                 } } ] },
@@ -12187,7 +12183,9 @@
         source:[ "/:type/list.htm",
           "/:grade/:type/list.htm" ],
         target:(params) => {
-                    if (!params.grade) {
+                    if (params.grade) {
+                        return `/njust/eo/${params.grade}/${params.type}`;
+                    } else {
                         let type = '';
                         switch (params.type) {
                             case '6509':
@@ -12203,8 +12201,6 @@
                                 return;
                         }
                         return `/njust/dgxg/${type}`;
-                    } else {
-                        return `/njust/eo/${params.grade}/${params.type}`;
                     }
                 } } ] },
   "njxzc.edu.cn":{ _name:"Nanjing Xiaozhuang College",
@@ -12720,11 +12716,7 @@
                     if (param === 'new-arrivals') {
                         return '';
                     }
-                    if (param === 'kids-baby') {
-                        return '/patagonia/new-arrivals/kids';
-                    } else {
-                        return `/patagonia/new-arrivals/${param}`;
-                    }
+                    return param === 'kids-baby' ? '/patagonia/new-arrivals/kids' : `/patagonia/new-arrivals/${param}`;
                 } } ] },
   "paulgraham.com":{ _name:"Paul Graham",
     ".":[ { title:"Essays",
@@ -13167,7 +13159,7 @@
     ".":[ { title:"Knowledge Base/Information",
         docs:"https://docs.rsshub.app/routes/new-media#qian-pian-wang",
         source:[ "/*path" ],
-        target:(params) => (!params.path.endsWith('.html') ? `/qianp/news/${params.path}` : null) } ] },
+        target:(params) => (params.path.endsWith('.html') ? null : `/qianp/news/${params.path}`) } ] },
   "qianzhan.com":{ _name:"Forward-looking.com",
     ".":[ { title:"Article List",
         docs:"https://docs.rsshub.app/routes/finance#qian-zhan-wang",
@@ -13296,7 +13288,7 @@
     "mp.weixin":[ { title:"WeChat public section",
         docs:"https://docs.rsshub.app/routes/new-media#gong-zhong-hao-lan-mu-fei-tui-song-li-shi-xiao-xi",
         source:"/mp/homepage",
-        target:(params, url) => `/wechat/mp/homepage/${new URL(url).searchParams.get('__biz')}/${new URL(url).searchParams.get('hid')}/${new URL(url).searchParams.get('cid') ? new URL(url).searchParams.get('cid') : ''}` },
+        target:(params, url) => `/wechat/mp/homepage/${new URL(url).searchParams.get('__biz')}/${new URL(url).searchParams.get('hid')}/${new URL(url).searchParams.get('cid') ?? ''}` },
       { title:"WeChat Public Topics",
         docs:"https://docs.rsshub.app/routes/new-media#wei-xin-gong-zhong-hao-wen-zhang-hua-ti-tag",
         source:"/mp/appmsgalbum",
@@ -14805,7 +14797,7 @@
         docs:"https://docs.rsshub.app/routes/finance#shang-hai-zheng-quan-jiao-yi-suo",
         source:[ "/lawandrules/guide/*slug",
           "/" ],
-        target:(params) => `/sse/lawandrules/${params.slug.replace(/\//g, '-')}` } ] },
+        target:(params) => `/sse/lawandrules/${params.slug.replaceAll('/', '-')}` } ] },
   "ssm.gov.mo":{ _name:"Macau Health Bureau",
     www:[ { title:"News",
         docs:"https://docs.rsshub.app/routes/government#ao-men-wei-sheng-ju-zui-xin-xiao-xi",
@@ -16055,7 +16047,7 @@
         source:[ "/people/:id",
           "/org/:id" ],
         target:(params, url, document) => {
-                    const hexId = /"id":"([0-9a-f]*?)","urlToken"/.exec(document.getElementById('js-initialData').innerHTML)[1];
+                    const hexId = /"id":"([\da-f]*?)","urlToken"/.exec(document.querySelector('#js-initialData').innerHTML)[1];
                     return `/zhihu/xhu/people/activities/${hexId}`;
                 } },
       { title:"xhu - User Answer",
@@ -16063,7 +16055,7 @@
         source:[ "/people/:id/answers",
           "/org/:id/answers" ],
         target:(params, url, document) => {
-                    const hexId = /"id":"([0-9a-f]*?)","urlToken"/.exec(document.getElementById('js-initialData').innerHTML)[1];
+                    const hexId = /"id":"([\da-f]*?)","urlToken"/.exec(document.querySelector('#js-initialData').innerHTML)[1];
                     return `/zhihu/xhu/people/answers/${hexId}`;
                 } },
       { title:"xhu - User Articles",
@@ -16071,7 +16063,7 @@
         source:[ "/people/:id/posts",
           "/org/:id/posts" ],
         target:(params, url, document) => {
-                    const hexId = /"id":"([0-9a-f]*?)","urlToken"/.exec(document.getElementById('js-initialData').innerHTML)[1];
+                    const hexId = /"id":"([\da-f]*?)","urlToken"/.exec(document.querySelector('#js-initialData').innerHTML)[1];
                     return `/zhihu/xhu/people/posts/${hexId}`;
                 } },
       { title:"xhu - Favorites",
@@ -16219,7 +16211,7 @@
         target:(params, url) => {
                     const channel = new URL(url).searchParams.get('typeid');
 
-                    return `/txrjy/fornumtopic/${channel ? channel : ''}`;
+                    return `/txrjy/fornumtopic/${channel ?? ''}`;
                 } } ] },
   "tynu.edu.cn":{ _name:"Taiyuan Normal College",
     ".":[ { title:"Notice",
@@ -16597,7 +16589,7 @@
         docs:"https://docs.rsshub.app/routes/social-media#vimeo-yong-hu-ye-mian",
         source:"/:username/",
         target:(params, url, document) => {
-                    const uid = document && document.querySelector('html').innerHTML.match(/app.vimeo.com\/users\/([0-9]+)/)[1];
+                    const uid = document && document.querySelector('html').innerHTML.match(/app.vimeo.com\/users\/(\d+)/)[1];
                     return uid ? `/vimeo/user/${uid}` : '';
                 } },
       { title:"User Video Category",
@@ -17240,7 +17232,7 @@
         docs:"https://docs.rsshub.app/routes/multimedia#xi-ma-la-ya",
         source:"/:type/:id",
         target:(params) => {
-                    if (parseInt(params.id) + '' === params.id) {
+                    if (Number.parseInt(params.id) + '' === params.id) {
                         return '/ximalaya/:type/:id';
                     }
                 } } ] },
@@ -17693,7 +17685,7 @@
         source:[ "/charts/:category/:country/*",
           "/charts/:category/:country",
           "/charts/:category" ],
-        target:(params) => `/youtube/charts/${params.category}${params.country ? params.country : ''}` } ],
+        target:(params) => `/youtube/charts/${params.category}${params.country ?? ''}` } ],
     www:[ { title:"User",
         docs:"https://docs.rsshub.app/routes/social-media#youtube",
         source:"/user/:username",
@@ -18451,7 +18443,7 @@
         docs:"https://docs.rsshub.app/routes/multimedia#onejav",
         source:"/",
         target:(params, url, document) => {
-                    const today = document.querySelector('div.card.mb-1.card-overview').getAttribute('data-date').replace(/-/g, '');
+                    const today = document.querySelector('div.card.mb-1.card-overview').dataset.date.replaceAll('-', '');
                     return `/onejav/day/${today}`;
                 } },
       { title:"Today\'s Cast",
@@ -18491,7 +18483,7 @@
                     } else {
                         return false;
                     }
-                    return `/sexinsex/${pid}/${typeid ? typeid : ''}`;
+                    return `/sexinsex/${pid}/${typeid ?? ''}`;
                 } } ] },
   "t66y.com":{ _name:"Strawberry Community",
     www:[ { title:"Partition Posts",
@@ -18500,7 +18492,7 @@
         target:(params, url) => {
                     const id = new URL(url).searchParams.get('fid');
                     const type = new URL(url).searchParams.get('type');
-                    return `/t66y/${id}/${type ? type : ''}`;
+                    return `/t66y/${id}/${type ?? ''}`;
                 } } ] },
   "umass.edu":{ _name:"UMASS Amherst",
     ece:[ { title:"ECE News",
