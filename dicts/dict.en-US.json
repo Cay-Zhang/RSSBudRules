@@ -713,6 +713,8 @@
     "技术广角": "Technology",
     "价格行情": "price quote",
     "双焦运费": "Bifocal freight",
+    "理论网": "Theory Network",
+    "学习时报": "The Learning Times (newspaper)",
     "Codeforces": "Codeforces",
     "Recent Actions": "Recent Actions",
     "最新比赛": "Latest Contests",
@@ -3626,7 +3628,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "理论网": "Theory Network",
-    "学习时报": "The Learning Times (newspaper)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
