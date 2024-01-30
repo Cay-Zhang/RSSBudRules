@@ -296,7 +296,10 @@
     "AtCoder": "AtCoder",
     "Posts": "Posts",
     "Contests": "Contests",
+    "中国汽车工业协会统计信息网": "China Association of Automobile Manufacturers (CAAM) Statistical Information Network",
+    "信息快递": "Information Express",
     "工作动态": "Work News",
+    "专题分析": "Thematic analysis",
     "北京智源人工智能研究院": "Beijing Zhiyuan Institute of Artificial Intelligence",
     "智源社区": "Jiwon Community",
     "活动 - 智源社区": "Events - Jiwon Community",
@@ -3633,7 +3636,6 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "中国汽车工业协会统计信息网": "China Association of Automobile Manufacturers (CAAM) Statistical Information Network",
-    "信息快递": "Information Express",
-    "专题分析": "Thematic analysis"
+    "Modrinth": "Modrinth",
+    "Project versions": "Project versions"
 }
