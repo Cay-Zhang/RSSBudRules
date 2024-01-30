@@ -2207,6 +2207,8 @@
     "模型库": "Model Library",
     "创空间": "Creative Space",
     "DevPress 官方社区": "DevPress Official Community",
+    "Modrinth": "Modrinth",
+    "Project versions": "Project versions",
     "台灣衛生福利部": "Taiwan Ministry of Health and Welfare",
     "即時新聞澄清": "Instant News Clarification",
     "Mox.moe": "Mox.moe",
@@ -3635,7 +3637,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Modrinth": "Modrinth",
-    "Project versions": "Project versions"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
