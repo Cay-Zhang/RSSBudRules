@@ -1557,6 +1557,27 @@
                     `/atcoder/content/${new URL(url).searchParams.get('lang') ?? 'en'}/${new URL(url).searchParams.get('ratedType') ?? '0'}/${new URL(url).searchParams.get('category') ?? '0'}/${
                         new URL(url).searchParams.get('keyword') ?? ''
                     }` } ] },
+  "auto-stats.org.cn":{ _name:"China Association of Automobile Manufacturers (CAAM) Statistical Information Network",
+    ".":[ { title:"Classification",
+        docs:"https://docs.rsshub.app/routes/other#zhong-guo-qi-che-xie-hui-tong-ji-xin-xi-wang-fen-lei",
+        source:[ "/:category" ],
+        target:(params) => {
+                    const category = params.category;
+
+                    return `/auto-stats${category ? `/${category.replace(/\.asp$/, '')}` : ''}`;
+                } },
+      { title:"Information Express",
+        docs:"https://docs.rsshub.app/routes/other#zhong-guo-qi-che-xie-hui-tong-ji-xin-xi-wang-fen-lei",
+        source:[ "/xxkd.asp" ],
+        target:"/auto-stats/xxkd" },
+      { title:"Work News",
+        docs:"https://docs.rsshub.app/routes/other#zhong-guo-qi-che-xie-hui-tong-ji-xin-xi-wang-fen-lei",
+        source:[ "/gzdt.asp" ],
+        target:"/auto-stats/gzdt" },
+      { title:"Thematic analysis",
+        docs:"https://docs.rsshub.app/routes/other#zhong-guo-qi-che-xie-hui-tong-ji-xin-xi-wang-fen-lei",
+        source:[ "/ztfx.asp" ],
+        target:"/auto-stats/ztfx" } ] },
   "baai.ac.cn":{ _name:"Beijing Zhiyuan Institute of Artificial Intelligence",
     hub:[ { title:"Jiwon Community",
         docs:"https://docs.rsshub.app/routes/programming#bei-jing-zhi-yuan-ren-gong-zhi-neng-yan-jiu-yuan",
