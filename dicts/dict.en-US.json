@@ -3546,6 +3546,7 @@
     "热搜关键词聚合追踪": "Hot Keywords Aggregate Tracking",
     "微博": "Microblog",
     "超话": "super talk",
+    "最新关注时间线": "Latest attention to the timeline",
     "热搜榜": "Hot List",
     "知乎": "Knowing",
     "收藏夹": "Favorites",
@@ -4079,6 +4080,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "最新关注时间线": "Latest attention to the timeline"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
