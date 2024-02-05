@@ -18044,7 +18044,7 @@
           "/:id" ],
         target:(params, url, document) => {
                     let uid = document?.documentElement.innerHTML.match(/\$CONFIG\['oid']='(\d+)'/)?.[1];
-                    if (!uid && !isNaN(params.id)) {
+                    if (!uid && !Number.isNaN(params.id)) {
                         uid = params.id;
                     }
                     return uid ? `/weibo/user/${uid}` : '';
@@ -18054,7 +18054,11 @@
       { title:"super talk",
         docs:"https://docs.rsshub.app/routes/social-media#wei-bo",
         source:"/p/:id/super_index",
-        target:"/weibo/super_index/:id" } ],
+        target:"/weibo/super_index/:id" },
+      { title:"Latest attention to the timeline",
+        docs:"https://docs.rsshub.app/routes/social-media#wei-bo",
+        source:"/",
+        target:"/weibo/friends" } ],
     s:[ { title:"Hot List",
         docs:"https://docs.rsshub.app/routes/social-media#wei-bo",
         source:"/top/summary",
