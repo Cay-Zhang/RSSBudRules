@@ -12786,7 +12786,11 @@
         target:(params, url) => {
             const uid = new URL(url).searchParams.get('id');
             return `/mihoyo/bbs/user-post/${uid}`;
-        } } ],
+        } },
+      { title:"Miyuusha - Users\' attention to the dynamics",
+        docs:"https://docs.rsshub.app/routes/game#mi-ha-you",
+        source:"/:game/timeline",
+        target:"/mihoyo/bbs/timeline" } ],
     sr:[ { title:"Wipeout: Star Dome Railroad - News",
         docs:"https://docs.rsshub.app/routes/game##mi-ha-you",
         source:"/news",
@@ -12840,7 +12844,11 @@
         target:(params, url) => {
             const uid = new URL(url).searchParams.get('id');
             return `/mihoyo/bbs/user-post/${uid}`;
-        } } ] },
+        } },
+      { title:"Miyuusha - Users\' attention to the dynamics",
+        docs:"https://docs.rsshub.app/routes/game#mi-ha-you",
+        source:"/:game/timeline",
+        target:"/mihoyo/bbs/timeline" } ] },
   "mindmeister.com":{ _name:"MindMeister",
     ".":[ { title:"Classification",
         docs:"https://docs.rsshub.app/routes/study#mindmeister",
