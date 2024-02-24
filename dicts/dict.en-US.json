@@ -2115,6 +2115,8 @@
     "热点": "Hot Spot",
     "跟踪": "Tracking",
     "Live": "Live",
+    "Howtoforge Linux Tutorials": "Howtoforge Linux Tutorials",
+    "学习": "do",
     "HoYoLAB": "HoYoLAB",
     "活动公告资讯": "Event Announcement Information",
     "Hpoi手办维基": "Hpoi hand puppet wiki",
@@ -4210,7 +4212,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Howtoforge Linux Tutorials": "Howtoforge Linux Tutorials",
-    "学习": "do"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
