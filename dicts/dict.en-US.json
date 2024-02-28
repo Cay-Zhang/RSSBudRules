@@ -3269,6 +3269,7 @@
     "信息科学与工程学院学术活动": "College of Information Science and Engineering Academic Activities",
     "研究生院全部公告": "All Graduate School announcements",
     "研究生招生网通知公告": "Graduate Admissions Website Notices",
+    "SF 轻小说": "SF Light Novel",
     "上海文化广场": "Shanghai Culture Square",
     "节目列表": "Program List",
     "上海电力大学": "Shanghai Electric Power University",
@@ -3718,6 +3719,9 @@
     "The Ring of Wonder": "The Ring of Wonder",
     "首页更新": "Home page update",
     "无线新闻": "Wireless News",
+    "TV Tropes": "TV Tropes",
+    "Featured - Today's Featured Trope": "Featured - Today's Featured Trope",
+    "Featured - Newest Trope": "Featured - Newest Trope",
     "Twitch": "Twitch",
     "Channel Video": "Channel Video",
     "Stream Schedule": "Stream Schedule",
@@ -4125,6 +4129,7 @@
     "论坛版块": "Forum section",
     "Zotero": "Zotero",
     "Version History": "Version History",
+    "赵容部落": "Zhao Rong's tribe",
     "中南财经政法大学": "Zhongnan University of Economics and Law",
     "Zuvio": "Zuvio",
     "校園話題": "Campus Topics",
@@ -4232,10 +4237,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "SF 轻小说": "SF Light Novel",
-    "TV Tropes": "TV Tropes",
-    "Featured - Today's Featured Trope": "Featured - Today's Featured Trope",
-    "Featured - Newest Trope": "Featured - Newest Trope",
-    "赵容部落": "Zhao Rong's tribe"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
