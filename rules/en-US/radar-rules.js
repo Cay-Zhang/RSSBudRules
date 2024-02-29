@@ -19812,6 +19812,9 @@
 
                     return `/wmc-bj/publish${category ? `/${category}` : ''}`;
                 } } ] },
+  "wmpvp.com":{ _name:"Perfect World Gaming",
+    ".":[ { title:"Information",
+        docs:"https://docs.rsshub.app/routes/game#wan-mei-shi-jie-dian-jing-zi-xun" } ] },
   "wnacg.org":{ _name:"Gentleman Comics",
     ".":[ { title:"Latest",
         docs:"https://docs.rsshub.app/routes/anime#shen-shi-man-hua",
