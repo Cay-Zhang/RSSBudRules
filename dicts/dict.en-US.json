@@ -2939,6 +2939,8 @@
     "南京晓庄学院": "Nanjing Xiaozhuang College",
     "图书馆通知公告": "Library Notices",
     "NL Times": "NL Times",
+    "中央气象台": "Central Weather Bureau (CWB)",
+    "全国气象预警": "National meteorological warning",
     "内蒙古广播电视台": "Inner Mongolia Radio and Television",
     "点播": "On Demand",
     "Node.js": "Node.js",
@@ -4244,7 +4246,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "中央气象台": "Central Weather Bureau (CWB)",
-    "全国气象预警": "National meteorological warning"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
