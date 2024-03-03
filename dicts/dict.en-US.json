@@ -383,6 +383,7 @@
     "UP 主默认收藏夹": "UP Main Default Favorites",
     "UP 主非默认收藏夹": "UP main non-default favorites",
     "UP 主投币视频": "UP Master Coin Video",
+    "UP 主点赞视频": "UP Master Likes Video",
     "UP 主粉丝": "UP Master Fans",
     "UP 主关注用户": "UP Master Followers",
     "用户追番列表": "User chase list",
@@ -4256,6 +4257,5 @@
     "节点": "Node",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "UP 主点赞视频": "UP Master Likes Video"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
