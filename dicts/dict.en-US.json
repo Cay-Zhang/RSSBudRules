@@ -1258,6 +1258,8 @@
     "Stream Schedule": "Stream Schedule",
     "Channel Video": "Channel Video",
     "Twitter": "Twitter",
+    "Keyword": "Keyword",
+    "User media": "User media",
     "報導者": "Reporters",
     "太原师范学院": "Taiyuan Normal College",
     "Typora": "Typora",
@@ -1461,7 +1463,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Keyword": "Keyword",
-    "User media": "User media"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
