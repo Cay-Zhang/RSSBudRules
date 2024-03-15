@@ -512,6 +512,7 @@
     "用户公开动态": "User public dynamics",
     "GitHub": "GitHub",
     "Repo Branches": "Repo Branches",
+    "Issue / Pull Request comments": "Issue / Pull Request comments",
     "Repo Contributors": "Repo Contributors",
     "User Followers": "User Followers",
     "Repo Issues": "Repo Issues",
@@ -1462,5 +1463,7 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "Issue / Pull Request comments": "Issue / Pull Request comments"
+    "印记中文": "Imprint Chinese",
+    "周刊 - JavaScript": "Weekly - JavaScript",
+    "maimai DX Japanese Ver. News": "maimai DX Japanese Ver. News"
 }
