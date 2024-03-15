@@ -381,6 +381,8 @@
     "动漫之家": "Anime House",
     "新闻站": "news station",
     "DNA India": "DNA India",
+    "印记中文": "Imprint Chinese",
+    "周刊 - JavaScript": "Weekly - JavaScript",
     "DoMP4 影视": "DoMP4 Movie & TV",
     "剧集订阅": "Episode Subscription",
     "懂球帝": "Know Your Soccer",
@@ -1084,6 +1086,7 @@
     "Seeking Alpha": "Seeking Alpha",
     "Summary": "Summary",
     "SEGA": "SEGA",
+    "maimai DX Japanese Ver. News": "maimai DX Japanese Ver. News",
     "世界计划 多彩舞台 ｜ ProjectSekai ｜ プロセカ": "World Project Colorful Stage ｜ ProjectSekai ｜ Prosecco",
     "SegmentFault": "SegmentFault",
     "Sensor Tower": "Sensor Tower",
@@ -1462,8 +1465,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "印记中文": "Imprint Chinese",
-    "周刊 - JavaScript": "Weekly - JavaScript",
-    "maimai DX Japanese Ver. News": "maimai DX Japanese Ver. News"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
