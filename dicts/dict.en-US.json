@@ -387,6 +387,9 @@
     "剧集订阅": "Episode Subscription",
     "懂球帝": "Know Your Soccer",
     "早报": "Morning News",
+    "球员新闻": "Player News",
+    "足球赛果": "soccer result",
+    "球队新闻": "Team News",
     "Dorohedoro": "Dorohedoro",
     "豆瓣": "Douban",
     "豆瓣读书论坛": "Douban Reading Forum",
@@ -1465,8 +1468,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "球员新闻": "Player News",
-    "足球赛果": "soccer result",
-    "球队新闻": "Team News"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
