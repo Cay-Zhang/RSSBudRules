@@ -662,6 +662,7 @@
     "Live": "Live",
     "跟踪": "Tracking",
     "Howtoforge Linux Tutorials": "Howtoforge Linux Tutorials",
+    "Tutorials": "Tutorials",
     "Hpoi 手办维基": "Hpoi Handshake Wiki",
     "所有周边": "All perimeter",
     "热门推荐": "Popular Recommendations",
@@ -1353,7 +1354,9 @@
     "Stream Schedule": "Stream Schedule",
     "Channel Video": "Channel Video",
     "Twitter": "Twitter",
+    "Home timeline": "Home timeline",
     "Keyword": "Keyword",
+    "List timeline": "List timeline",
     "User media": "User media",
     "報導者": "Reporters",
     "太原师范学院": "Taiyuan Normal College",
@@ -1561,8 +1564,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Tutorials": "Tutorials",
-    "Home timeline": "Home timeline",
-    "List timeline": "List timeline"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
