@@ -1036,7 +1036,6 @@
     "Users": "Users",
     "Postman": "Postman",
     "PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive": "PRINCESS CONNECT! Re Dive プリンセスコネクト!",
-    "日服公告": "Japanese Service Announcement",
     "Product Hunt": "Product Hunt",
     "Today Popular": "Today Popular",
     "PlayStation Store": "PlayStation Store",
@@ -1395,6 +1394,7 @@
     "Urban Dictionary": "Urban Dictionary",
     "Random words": "Random words",
     "USENIX": "USENIX",
+    ";login:": ";login.",
     "Security Symposia": "Security Symposia",
     "北京科技大学": "University of Science and Technology Beijing",
     "研究生招生信息网": "Graduate Student Admissions Information Network",
@@ -1569,5 +1569,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    ";login:": ";login."
+    "最新公告": "Latest Announcements"
 }
