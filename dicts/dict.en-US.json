@@ -170,6 +170,7 @@
     "直播开播": "Live broadcast start",
     "漫画更新": "Comic Updates",
     "会员购票务": "Membership Ticketing",
+    "最新公告": "Latest Announcements",
     "Bing": "Bing",
     "biodiscover.com 生物探索": "biodiscover.com biodiscover",
     "BioOne": "BioOne",
@@ -712,6 +713,7 @@
     "中国新闻周刊": "China Newsweek",
     "InfoQ 中文": "InfoQ Chinese",
     "推荐": "Recommend",
+    "频道": "Channel",
     "Instructables": "Instructables",
     "Projects": "Projects",
     "爱奇艺": "Akiyo",
@@ -946,7 +948,6 @@
     "求职推荐": "Job search recommendation",
     "校招日程": "School Recruitment Schedule",
     "新唐人电视台": "New Tang Dynasty TV",
-    "频道": "Channel",
     "Nanjing University of the Arts 南京艺术学院": "Nanjing University of the Arts Nanjing Art Institute",
     "School of Design": "School of Design",
     "Graduate Institute": "Graduate Institute",
@@ -1036,7 +1037,6 @@
     "Users": "Users",
     "Postman": "Postman",
     "PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive": "PRINCESS CONNECT! Re Dive プリンセスコネクト!",
-    "最新公告": "Latest Announcements",
     "Product Hunt": "Product Hunt",
     "Today Popular": "Today Popular",
     "PlayStation Store": "PlayStation Store",
@@ -1569,5 +1569,6 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "infzm": "infzm"
 }
