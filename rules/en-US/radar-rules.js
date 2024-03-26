@@ -683,7 +683,7 @@
         source:[ "/blog",
           "/" ],
         target:"/bitmovin/blog" } ] },
-  "bjfu.edu.cn":{ _name:"Beijing Normal University",
+  "bjfu.edu.cn":{ _name:"Beijing Forestry University",
     graduate:[ { title:"Graduate School Training News",
         docs:"https://docs.rsshub.app/routes/university",
         source:[ "/" ],
