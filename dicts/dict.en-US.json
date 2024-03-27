@@ -535,6 +535,7 @@
     "Repo Branches": "Repo Branches",
     "Issue / Pull Request comments": "Issue / Pull Request comments",
     "Repo Contributors": "Repo Contributors",
+    "File Commits": "File Commits",
     "User Followers": "User Followers",
     "Repo Issues": "Repo Issues",
     "Notifications": "Notifications",
@@ -1588,6 +1589,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "File Commits": "File Commits"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
