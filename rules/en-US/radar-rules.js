@@ -3571,7 +3571,7 @@
     ".":[ { title:"Java Game Update",
         docs:"https://docs.rsshub.app/routes/game",
         source:[ "/" ],
-        target:"/minecraft/version" } ] },
+        target:"/minecraft/version/:versionType?/:linkType?" } ] },
   "missav.com":{ _name:"MissAV.com",
     ".":[ { title:"Recent Updates",
         docs:"https://docs.rsshub.app/routes/multimedia",
