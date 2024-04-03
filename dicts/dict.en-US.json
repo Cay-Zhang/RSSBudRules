@@ -116,6 +116,8 @@
     "Category": "Category",
     "App Store/Mac App Store": "App Store/Mac App Store",
     "每日精品限免 / 促销应用（鲜面连线 by AppSo）": "Daily Boutique Limited / Promotional Apps (Fresh Noodle Connection by AppSo)",
+    "空气质量": "air quality",
+    "实时 AQI": "Real-time AQI",
     "Arcteryx": "Arcteryx",
     "New Arrivals": "New Arrivals",
     "Outlet": "Outlet",
@@ -1619,7 +1621,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "空气质量": "air quality",
-    "实时 AQI": "Real-time AQI"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
