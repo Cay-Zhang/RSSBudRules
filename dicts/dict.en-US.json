@@ -1006,6 +1006,8 @@
     "南信大信息公告栏": "NUIST Information Bulletin Board",
     "NUIST CS（南信大计软院）": "NUIST CS (National University of Information Science and Technology)",
     "南信大学生工作处": "Nanshin Student Affairs Office",
+    "nymity": "nymity",
+    "CensorBib Updates": "CensorBib Updates",
     "The New York Times 纽约时报": "The New York Times",
     "Best Seller Books": "Best Seller Books",
     "新闻简报": "Newsletters",
@@ -1623,7 +1625,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "nymity": "nymity",
-    "CensorBib Updates": "CensorBib Updates"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
