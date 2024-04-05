@@ -179,6 +179,8 @@
     "漫画更新": "Comic Updates",
     "会员购票务": "Membership Ticketing",
     "最新公告": "Latest Announcements",
+    "Binance": "Binance",
+    "Binance数字货币及交易对上新": "Binance Digital Currency and Trading Pairs on New",
     "Bing": "Bing",
     "biodiscover.com 生物探索": "biodiscover.com biodiscover",
     "BioOne": "BioOne",
@@ -879,6 +881,8 @@
     "崩坏：星穹铁道": "Crash: Star Dome Railroad",
     "原神": "primordial spirit",
     "Minecraft": "Minecraft",
+    "Java Blocked Servers": "Java Blocked Servers",
+    "Java Runtimes": "Java Runtimes",
     "Java Game Update": "Java Game Update",
     "MissAV.com": "MissAV.com",
     "MIUI": "MIUI",
@@ -1627,9 +1631,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Binance": "Binance",
-    "Binance数字货币及交易对上新": "Binance Digital Currency and Trading Pairs on New",
-    "Java Blocked Servers": "Java Blocked Servers",
-    "Java Runtimes": "Java Runtimes"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
