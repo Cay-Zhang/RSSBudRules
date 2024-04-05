@@ -1265,6 +1265,9 @@
     "演出月历": "Performance Calendar",
     "ShopBack": "ShopBack",
     "Store": "Store",
+    "Shopify": "Shopify",
+    "App reviews": "App reviews",
+    "App store search": "App store search",
     "Shopping Design": "Shopping Design",
     "文章列表": "Article List",
     "秀动网": "XiuDong.com",
@@ -1635,8 +1638,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Shopify": "Shopify",
-    "App reviews": "App reviews",
-    "App store search": "App store search"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
