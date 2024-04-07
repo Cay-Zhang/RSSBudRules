@@ -2371,7 +2371,7 @@
         source:[ "/gzcy/yjzj/index.html" ],
         target:"/gov/miit/yjzj" } ] },
   "moa.gov.cn":{ _name:"People\'s Bank of China",
-    ".":[ { title:"Unknown",
+    ".":[ { title:"Ministry of Agriculture and Rural Development of the People\'s Republic of China - News",
         docs:"https://docs.rsshub.app/routes/government",
         source:[ "/" ],
         target:"/gov/moa/:suburl" } ] },
