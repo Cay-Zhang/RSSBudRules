@@ -377,6 +377,7 @@
     "DBLP": "DBLP",
     "Keyword Search": "Keyword Search",
     "DCFever": "DCFever",
+    "新聞中心": "News Center",
     "測試報告": "Test Report",
     "雨苁博客": "Boschniak Blog",
     "Deadline": "Deadline",
@@ -1650,6 +1651,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "新聞中心": "News Center"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
