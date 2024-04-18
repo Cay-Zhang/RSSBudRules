@@ -399,7 +399,10 @@
     "deeplearning.ai": "deeplearning.ai",
     "TheBatch 周报": "TheBatch Weekly",
     "DeepMind": "DeepMind",
+    "德恒律师事务所": "Deheng Law Firm",
     "专业文章": "Professional Articles",
+    "出版物": "publications",
+    "德恒论坛": "Deheng Forum",
     "Delta Lake": "Delta Lake",
     "DevolverDigital": "DevolverDigital",
     "Official Blogs": "Official Blogs",
@@ -1674,8 +1677,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "德恒律师事务所": "Deheng Law Firm",
-    "出版物": "publications",
-    "德恒论坛": "Deheng Forum"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
