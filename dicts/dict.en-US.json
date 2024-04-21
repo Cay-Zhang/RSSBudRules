@@ -248,6 +248,7 @@
     "BT 之家": "BT Home",
     "不良林": "unhealthy forest",
     "北京邮电大学": "Beijing University of Posts and Telecommunications",
+    "新闻网": "News",
     "字节点击": "Byte Click",
     "ui.dev": "ui.dev",
     "C114 通信网": "C114 Communication Network",
@@ -988,7 +989,6 @@
     "Download": "Download",
     "Netflav": "Netflav",
     "东北大学": "Tohoku University",
-    "新闻网": "News",
     "小黑盒": "fig. system whose internal structure is unknown",
     "新华社新闻": "Xinhua News",
     "上下游 News&Market": "Upstream & Downstream News&Market",
@@ -1700,5 +1700,9 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "黑龙江八一农垦大学": "Heilongjiang Bayi Agricultural Reclamation University",
+    "知识星球": "Knowledge Planet",
+    "星球": "celestial body (e.g. planet, satellite etc)",
+    "用户足迹": "user footprint"
 }
