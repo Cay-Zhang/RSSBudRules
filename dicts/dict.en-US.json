@@ -248,6 +248,7 @@
     "BT 之家": "BT Home",
     "不良林": "unhealthy forest",
     "北京邮电大学": "Beijing University of Posts and Telecommunications",
+    "黑龙江八一农垦大学": "Heilongjiang Bayi Agricultural Reclamation University",
     "新闻网": "News",
     "字节点击": "Byte Click",
     "ui.dev": "ui.dev",
@@ -1678,6 +1679,9 @@
     "浙工大新闻": "ZJIT News",
     "Zotero": "Zotero",
     "赵容部落": "Zhao Rong's tribe",
+    "知识星球": "Knowledge Planet",
+    "星球": "celestial body (e.g. planet, satellite etc)",
+    "用户足迹": "user footprint",
     "中南财经政法大学": "Zhongnan University of Economics and Law",
     "仓库 Commits": "Repo Commits",
     "仓库讨论": "Repo Discussions",
@@ -1700,9 +1704,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "黑龙江八一农垦大学": "Heilongjiang Bayi Agricultural Reclamation University",
-    "知识星球": "Knowledge Planet",
-    "星球": "celestial body (e.g. planet, satellite etc)",
-    "用户足迹": "user footprint"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
