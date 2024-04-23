@@ -360,6 +360,7 @@
     "Recent actions": "Recent actions",
     "CoinDesk Consensus Magazine": "CoinDesk Consensus Magazine",
     "新闻周刊": "Newsweek",
+    "Manga": "Manga",
     "Comics Kingdom": "Comics Kingdom",
     "Archive": "Archive",
     "消费者委员会": "Consumer Council",
@@ -1206,7 +1207,6 @@
     "Rattibha": "Rattibha",
     "User Threads": "User Threads",
     "Rawkuma": "Rawkuma",
-    "Manga": "Manga",
     "Reactiflux": "Reactiflux",
     "Transcripts": "Transcripts",
     "Readhub": "Readhub",
@@ -1717,5 +1717,6 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "COLAMANGA": "COLAMANGA"
 }
