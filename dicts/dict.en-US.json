@@ -1097,6 +1097,8 @@
     "Odaily 星球日报": "Odaily Daily Planet",
     "活动": "Events",
     "搜索快讯": "Search Newsletters",
+    "Ollama": "Ollama",
+    "Models": "Models",
     "Onet": "Onet",
     "开源中国": "Open Source China",
     "问答主题": "Question and Answer Topics",
@@ -1728,7 +1730,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Ollama": "Ollama",
-    "Models": "Models"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
