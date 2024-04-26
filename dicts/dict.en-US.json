@@ -802,6 +802,10 @@
     "IDOLY PRIDE 偶像荣耀": "IDOLY PRIDE Idol Pride",
     "IEEE Computer Society": "IEEE Computer Society",
     "IEEE Symposium on Security and Privacy": "IEEE Symposium on Security and Privacy",
+    "网猴线报": "Trojan horse tip-off",
+    "最新线报": "Latest Tips",
+    "24小时热门": "24 Hour Hot",
+    "一周热门": "Top of the Week",
     "IELTS 雅思": "IELTS (International English Language Testing System)",
     "教育部考试中心日本语能力测试重要通知": "Important Notice of Japanese Language Proficiency Test of the Examination Center of the Ministry of Education",
     "人人都是自媒体": "Everyone is a self-publisher",
@@ -880,6 +884,8 @@
     "Thesis": "thesis",
     "Kong API 网关平台": "Kong API Gateway Platform",
     "博客最新文章": "Blog Latest Posts",
+    "KPMG": "KPMG",
+    "Insights": "Insights",
     "快递 100": "Express delivery 100",
     "支持的快递公司列表": "List of supported couriers",
     "Kun Cheng": "Kun Cheng",
@@ -1722,11 +1728,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "网猴线报": "Trojan horse tip-off",
-    "最新线报": "Latest Tips",
-    "24小时热门": "24 Hour Hot",
-    "一周热门": "Top of the Week",
-    "KPMG": "KPMG",
-    "Insights": "Insights"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
