@@ -933,6 +933,8 @@
     "LINE": "LINE",
     "TODAY - Channel": "TODAY - Channel",
     "TODAY": "TODAY",
+    "LinkedIn 领英": "LinkedIn Collingwood",
+    "Jobs": "Jobs",
     "哔哩轻小说": "light novel",
     "卷": "classifier for rolled material (wad of paper money, movie reel etc)",
     "Liquipedia": "Liquipedia",
@@ -1760,7 +1762,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "LinkedIn 领英": "LinkedIn Collingwood",
-    "Jobs": "Jobs"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
