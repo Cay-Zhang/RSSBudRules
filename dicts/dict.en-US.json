@@ -1040,6 +1040,8 @@
     "小黑盒": "fig. system whose internal structure is unknown",
     "新华社新闻": "Xinhua News",
     "上下游 News&Market": "Upstream & Downstream News&Market",
+    "New Yorker": "New Yorker",
+    "The New Yorker": "The New Yorker",
     "NEW 字幕组": "NEW Subtitles Team",
     "指定剧集": "Designated episodes",
     "壹蘋新聞網": "One Apple News",
@@ -1770,7 +1772,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "New Yorker": "New Yorker",
-    "The New Yorker": "The New Yorker"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
