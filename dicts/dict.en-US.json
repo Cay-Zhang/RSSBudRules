@@ -44,6 +44,7 @@
     "专题": "Topics",
     "5EPLAY": "5EPLAY",
     "新闻列表": "News List",
+    "章节": "Chapter",
     "留园网": "Liuyuan.com",
     "6v 电影": "6v movie",
     "最新电影": "Latest Movies",
@@ -335,7 +336,6 @@
     "Model discussions": "Model discussions",
     "Latest models": "Latest models",
     "刺猬猫": "hedgehog (Cynops orientalis)",
-    "章节": "Chapter",
     "财联社": "Financial News Service",
     "热门文章排行榜": "Top Articles",
     "电报": "Telegrams",
@@ -1772,5 +1772,6 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "69书吧": "69 Book Bar"
 }
