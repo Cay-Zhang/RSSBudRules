@@ -1755,8 +1755,11 @@
     "日本語多読道場": "Japanese Doyo Dojo",
     "等级": "hierarchy",
     "优酷": "Youku",
+    "YouTube": "YouTube",
+    "Channel with id": "Channel with id",
     "Custom URL": "Custom URL",
     "Subscriptions": "Subscriptions",
+    "Channel with username": "Channel with username",
     "有知有行": "Knowing and doing",
     "有知文章": "Knowledgeable Articles",
     "语雀": "Yuque",
@@ -1835,8 +1838,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "YouTube": "YouTube",
-    "Channel with id": "Channel with id",
-    "Channel with username": "Channel with username"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
