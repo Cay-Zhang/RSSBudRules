@@ -1459,6 +1459,8 @@
     "美股": "U.S. stocks",
     "星洲网": "Xingzhou.com",
     "上海交通大学": "Shanghai Jiao Tong University",
+    "Sketis | Website of Dr. Makarius Wenzel": "Sketis | Website of Dr. Makarius Wenzel",
+    "Isabelle Development Blogs": "Isabelle Development Blogs",
     "慢雾科技": "Slow Mist Technology",
     "动态": "Dynamic",
     "Smashing Magazine": "Smashing Magazine",
@@ -1598,6 +1600,10 @@
     "Tribal Football": "Tribal Football",
     "The Ring of Wonder": "The Ring of Wonder",
     "首页更新": "Home page update",
+    "清华大学": "Tsing Hua or Qinghua University, Beijing",
+    "图书馆资源动态": "Library Resource Dynamics",
+    "图书馆已购资源动态": "Dynamics of the Library's Acquired Resources",
+    "图书馆试用资源动态": "Library Trial Resource Dynamics",
     "台視新聞網": "TTV News",
     "无线新闻": "Wireless News",
     "Twitch": "Twitch",
@@ -1838,11 +1844,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Sketis | Website of Dr. Makarius Wenzel": "Sketis | Website of Dr. Makarius Wenzel",
-    "Isabelle Development Blogs": "Isabelle Development Blogs",
-    "清华大学": "Tsing Hua or Qinghua University, Beijing",
-    "图书馆资源动态": "Library Resource Dynamics",
-    "图书馆已购资源动态": "Dynamics of the Library's Acquired Resources",
-    "图书馆试用资源动态": "Library Trial Resource Dynamics"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
