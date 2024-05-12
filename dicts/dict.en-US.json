@@ -415,6 +415,7 @@
     "新聞": "News",
     "中国传媒大学": "Communication University of China",
     "研究生招生网": "Graduate Student Admissions Network",
+    "全部": "full",
     "CuriousCat": "CuriousCat",
     "Curius": "Curius",
     "User": "User",
@@ -897,7 +898,6 @@
     "单个收藏夹": "Single Favorites",
     "收藏集": "Collection",
     "靠谱新闻": "reliable news",
-    "全部": "full",
     "KBS": "KBS",
     "Today": "Today",
     "Korean Central News Agency (KCNA) 朝鲜中央通讯社": "Korean Central News Agency (KCNA)",
@@ -1844,5 +1844,12 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "萃嶺网": "Dui Ling",
+    "哲学 · 文明": "Philosophy - Civilization",
+    "艺术 · 科技": "Art - Technology",
+    "未来 · 生命": "Future - Life",
+    "行星智慧": "planetary wisdom",
+    "数字治理": "Digital Governance",
+    "Noema精选": "Noema Selection"
 }
