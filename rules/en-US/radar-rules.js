@@ -6580,7 +6580,7 @@
         docs:"https://docs.rsshub.app/routes/university",
         source:[ "/" ],
         target:"/swpu/is/:code" },
-      { title:"School of Computer Science",
+      { title:"School of Computer and Software",
         docs:"https://docs.rsshub.app/routes/university",
         source:[ "/" ],
         target:"/swpu/scs/:code" } ] },
