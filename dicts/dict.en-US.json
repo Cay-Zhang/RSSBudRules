@@ -1561,6 +1561,7 @@
     "财经学院": "College of Finance and Economics",
     "电气信息学院": "School of Electrical Information",
     "信息学院": "School of Information",
+    "计算机与软件学院": "School of Computer and Software",
     "syosetu": "syosetu",
     "中山大学": "Sun Yat-sen University",
     "数据科学与计算机学院动态": "News from the School of Data Science and Computing",
@@ -1881,6 +1882,5 @@
     "喜马拉雅": "Himalaya",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "计算机与软件学院": "School of Computer and Software"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
