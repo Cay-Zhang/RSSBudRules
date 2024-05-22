@@ -164,9 +164,6 @@
     "New Arrivals": "New Arrivals",
     "Outlet": "Outlet",
     "Regear New Arrivals": "Regear New Arrivals",
-    "明日方舟": "Tomorrow's Ark",
-    "アークナイツ (日服新闻)": "アークナイツ (Japanese News)",
-    "游戏公告与新闻": "Game Announcements & News",
     "ArtStation": "ArtStation",
     "Artist Profolio": "Artist Profolio",
     "Asian to lick": "Asian to lick",
@@ -854,6 +851,7 @@
     "人工智能和自动化学院新闻": "News from the School of Artificial Intelligence and Automation",
     "虎嗅": "Tiger Sniff",
     "24 小时": "24 hours",
+    "アークナイツ (日服新闻)": "アークナイツ (Japanese News)",
     "Hong Kong Independent Commission Against Corruption 香港廉政公署": "Hong Kong Independent Commission Against Corruption 香港獨立委員會 Against Corruption 香港廉政公署",
     "Press Releases": "Press Releases",
     "中国工商银行": "Industrial and Commercial Bank of China (ICBC)",
@@ -1889,5 +1887,7 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "鹰角网络": "Eagle Point Networks",
+    "明日方舟 - 游戏公告与新闻": "Tomorrow's Ark - Game Announcements and News"
 }
