@@ -1026,6 +1026,9 @@
     "Magazine": "Magazine",
     "看漫画": "read comics",
     "漫画个人订阅": "Manga Personal Subscription",
+    "Matters": "Matters",
+    "Latest, heat, essence": "Latest, heat, essence",
+    "Tags": "Tags.",
     "MDPI": "MDPI",
     "中国的中古": "Medieval China",
     "Meteor": "Meteor",
@@ -1898,8 +1901,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Matters": "Matters",
-    "Latest, heat, essence": "Latest, heat, essence",
-    "Tags": "Tags."
+    "媒体 (Nitter)": "Media (Nitter)"
 }
