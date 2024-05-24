@@ -882,6 +882,8 @@
     "UK - New Product Release": "UK - New Product Release",
     "UK - Offers": "UK - Offers",
     "ImageMagick": "ImageMagick",
+    "IMDb": "IMDb",
+    "Charts": "Charts",
     "米课": "MiCon",
     "米课圈精华": "Rice Circle Highlights",
     "Indians in Kuwait": "Indians in Kuwait",
@@ -1902,7 +1904,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "IMDb": "IMDb",
-    "Charts": "Charts"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
