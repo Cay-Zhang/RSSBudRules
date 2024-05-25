@@ -252,7 +252,7 @@
         source:[ "/",
           "/article" ],
         target:"/5eplay/article" } ] },
-  "69shu.top":{ _name:"69 Book Bar",
+  "69shuba.pro":{ _name:"69 Book Bar",
     www:[ { title:"Chapter",
         docs:"https://docs.rsshub.app/routes/reading",
         source:[ "/book/:id.htm" ],
