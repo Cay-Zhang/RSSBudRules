@@ -6802,7 +6802,7 @@
         docs:"https://docs.rsshub.app/routes/social-media",
         source:[ "/s/:username" ],
         target:"/telegram/channel/:username" } ] },
-  "tencent.com":{ _name:"King of Glory",
+  "tencent.com":{ _name:"Tencent (name)",
     cloud:[ { title:"Tencent Cloud Developer Community Column",
         docs:"https://docs.rsshub.app/routes/programming",
         source:[ "/developer/column" ],
