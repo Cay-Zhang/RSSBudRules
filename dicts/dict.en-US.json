@@ -675,6 +675,7 @@
     "Recent Releases": "Recent Releases",
     "Google": "Google Internet company",
     "Extension Update": "Extension Update",
+    "上海市人民政府": "Shanghai Municipal People's Government",
     "安徽省科学技术厅": "Science and Technology Department of Anhui Province",
     "科技资讯 - 通知公告": "Technology Information - Notice",
     "科技资讯 - 工作动态": "Science and technology information - Work News",
@@ -714,6 +715,8 @@
     "沟通交流": "Communication",
     "工作论文": "Working Papers",
     "留言咨询": "Message",
+    "上海市发展和改革委员会": "Shanghai Municipal Development and Reform Commission",
+    "最新信息公开": "Latest Information Disclosure",
     "上海市职业能力考试院 考试项目": "Shanghai Vocational Aptitude Test Institute Examination Items",
     "上海市文旅局审批公告": "Shanghai Municipal Culture and Tourism Bureau Approval Announcement",
     "上海卫健委 疫情通报": "Shanghai Health Care Commission Epidemic notification",
@@ -1915,8 +1918,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "上海市人民政府": "Shanghai Municipal People's Government",
-    "上海市发展和改革委员会": "Shanghai Municipal Development and Reform Commission",
-    "最新信息公开": "Latest Information Disclosure"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
