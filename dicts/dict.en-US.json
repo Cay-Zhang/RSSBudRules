@@ -1219,6 +1219,8 @@
     "实习广场 & 社招广场": "Internship Plaza & Recruitment Plaza",
     "求职推荐": "Job search recommendation",
     "校招日程": "School Recruitment Schedule",
+    "NPM": "NPM",
+    "Package": "Package",
     "NT动漫": "NT Anime",
     "新唐人电视台": "New Tang Dynasty TV",
     "Nanjing University of the Arts 南京艺术学院": "Nanjing University of the Arts Nanjing Art Institute",
@@ -1923,7 +1925,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "NPM": "NPM",
-    "Package": "Package"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
