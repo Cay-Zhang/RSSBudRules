@@ -92,6 +92,8 @@
     "A 姐分享": "Ms. A. Sharing",
     "存档列表": "archive list",
     "存档列表 - NSFW": "List of Archives - NSFW",
+    "Academia": "Academia",
+    "interest": "interest",
     "Access Briefing": "Access Briefing",
     "Articles": "Articles",
     "Latest - News": "Latest - News",
@@ -1926,7 +1928,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Academia": "Academia",
-    "interest": "interest"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
