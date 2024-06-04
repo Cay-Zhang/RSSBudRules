@@ -1041,8 +1041,11 @@
     "Update": "Update",
     "Magnum Photos": "Magnum Photos",
     "Magazine": "Magazine",
+    "MangaDex": "MangaDex",
     "看漫画": "read comics",
     "漫画个人订阅": "Manga Personal Subscription",
+    "ManyVids": "ManyVids",
+    "Creator Videos": "Creator Videos",
     "Matters": "Matters",
     "Latest, heat, essence": "Latest, heat, essence",
     "Tags": "Tags.",
@@ -1929,8 +1932,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "MangaDex": "MangaDex",
-    "ManyVids": "ManyVids",
-    "Creator Videos": "Creator Videos"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
