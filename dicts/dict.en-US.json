@@ -1564,6 +1564,7 @@
     "作者动态": "Author News",
     "用户收藏": "User Favorites",
     "Matrix": "Matrix",
+    "会员社区": "Member Community",
     "付费专栏文章更新": "Paid column article updates",
     "最新上架付费专栏": "New Paid Columns",
     "标签订阅": "Tag Subscription",
@@ -1929,5 +1930,7 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "会员社区": "Member Community"
+    "MangaDex": "MangaDex",
+    "ManyVids": "ManyVids",
+    "Creator Videos": "Creator Videos"
 }
