@@ -1405,7 +1405,6 @@
     "RSSHub": "RSSHub",
     "New routes": "New routes",
     "软餐": "Soft serve",
-    "中国人民大学": "Renmin University of China",
     "跑野大爆炸": "Running Wild Explosion",
     "Rust 语言中文社区": "Rust Language Community",
     "新闻/聚合": "News/Aggregation",
@@ -1941,5 +1940,7 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Renmin University of China": "Renmin University of China",
+    "高瓴人工智能学院": "High Altitude Artificial Intelligence Academy"
 }
