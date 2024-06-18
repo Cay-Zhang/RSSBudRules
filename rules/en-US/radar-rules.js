@@ -6451,7 +6451,7 @@
         target:"/sicau/zsjy/:category?" } ],
     jiaowu:[ { title:"Academic Affairs Office",
         docs:"https://docs.rsshub.app/routes/university",
-        source:[ "/" ],
+        source:[ "/web/web/web/index.asp" ],
         target:"/sicau/jiaowu/jxtz" } ],
     yan:[ { title:"Graduate School",
         docs:"https://docs.rsshub.app/routes/university",
