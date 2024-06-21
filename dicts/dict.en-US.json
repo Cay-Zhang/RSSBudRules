@@ -202,6 +202,8 @@
     "订阅漫画": "Subscribe to Comics",
     "巴伦周刊中文版": "Barron's China",
     "BBC News Labs": "BBC News Labs",
+    "爆料公社": "muckraking",
+    "動態": "Dynamics",
     "北京价格": "Beijing prices",
     "价格资讯 - 新闻资讯": "Price Information - News Information",
     "价格资讯 - 工作动态": "Price information - Work News",
@@ -978,6 +980,7 @@
     "研究成果": "Research results",
     "Keep": "Keep",
     "运动日记": "Sports Diary",
+    "Kelowna Capital News": "Kelowna Capital News",
     "Kemono": "Kemono",
     "中国科普博览": "China Science Popularization Expo",
     "直播回看": "Watch Live",
@@ -1953,8 +1956,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "爆料公社": "muckraking",
-    "動態": "Dynamics",
-    "Kelowna Capital News": "Kelowna Capital News"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
