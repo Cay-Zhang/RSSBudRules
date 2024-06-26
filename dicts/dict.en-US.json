@@ -1413,7 +1413,6 @@
     "Readhub": "Readhub",
     "RemNote": "RemNote",
     "ResearchGate": "ResearchGate",
-    "Reuters 路透社": "Reuters.",
     "Category/Topic/Author": "Category/Topic/Author",
     "Radio France Internationale 法国国际广播电台": "Radio France Internationale",
     "Rodong Sinmun 劳动新闻": "Rodong Sinmun Labor News",
@@ -1961,5 +1960,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Reuters": "Reuters (name)"
 }
