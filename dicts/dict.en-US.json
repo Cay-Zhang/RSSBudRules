@@ -1857,6 +1857,8 @@
     "首页帖子": "Home Posts",
     "小宇宙": "Small Universe",
     "小专栏": "Small Columns",
+    "新华网": "Xinhua news network",
+    "客户端": "client (computing)",
     "西安交通大学": "Xi'an Jiaotong University",
     "电气学院": "School of Electricity",
     "X 漫画": "X Comics",
@@ -1976,7 +1978,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "新华网": "Xinhua news network",
-    "客户端": "client (computing)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
