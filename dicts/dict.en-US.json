@@ -1877,6 +1877,8 @@
     "新到资料": "New Arrival Information",
     "中文播客榜": "Chinese Podcast List",
     "Yahoo": "Yahoo",
+    "新聞來源列表": "News Source List",
+    "新聞來源": "News Source",
     "yande": "yande",
     "posts": "posts",
     "Yen Press": "Yen Press",
@@ -1979,7 +1981,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "新聞來源列表": "News Source List",
-    "新聞來源": "News Source"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
