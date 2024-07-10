@@ -686,6 +686,7 @@
     "仓库 Releases": "Repo Releases",
     "用户公开动态": "User public dynamics",
     "GitHub": "GitHub",
+    "User Activities": "User Activities",
     "Repo Branches": "Repo Branches",
     "Issue / Pull Request comments": "Issue / Pull Request comments",
     "Repo Contributors": "Repo Contributors",
@@ -2008,6 +2009,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "User Activities": "User Activities"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
