@@ -1145,6 +1145,7 @@
     "NASA": "NASA",
     "NASA 中文": "NASA Chinese",
     "Cheng Kung University Mirror": "Cheng Kung University Mirror",
+    "Astronomy Picture of the Day": "Astronomy Picture of the Day",
     "国家地理": "National Geographic",
     "Latest Stories": "Latest Stories",
     "Nature Journal": "Nature Journal",
@@ -1421,6 +1422,7 @@
     "后勤管理处通知": "Notification from the Logistics Management Service",
     "前瞻网": "Forward-looking.com",
     "起点": "Starting Point",
+    "作品章节": "chapters",
     "讨论区": "Discussion forum",
     "限时免费下期预告": "Free next preview for a limited time",
     "限时免费": "Free for a limited time",
@@ -1839,6 +1841,7 @@
     "微信小程序": "WeChat small program",
     "公众号（CareerEngine 来源）": "Public (CareerEngine source)",
     "新假期周刊": "New Holiday Weekly",
+    "微博": "microblog",
     "最新关注时间线": "Latest attention to the timeline",
     "超话": "super talk",
     "用户收藏动态": "User collection dynamics",
@@ -2006,8 +2009,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Astronomy Picture of the Day": "Astronomy Picture of the Day",
-    "作品章节": "chapters",
-    "微博": "microblog"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
