@@ -1595,8 +1595,6 @@
     "Shopping Design": "Shopping Design",
     "文章列表": "Article List",
     "秀动网": "XiuDong.com",
-    "音乐人 - 演出更新": "Musicians - Gig Updates",
-    "厂牌 - 演出更新": "Factory - Show Updates",
     "上海大学": "Shanghai University",
     "水果派": "fruit pie",
     "四川农业大学": "Sichuan Agricultural University",
@@ -2032,5 +2030,8 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "按音乐人 - 演出更新": "By Musician - Gig Updates",
+    "按厂牌 - 演出更新": "By Label - Show Updates",
+    "按场地 - 演出更新": "By Venue - Show Updates"
 }
