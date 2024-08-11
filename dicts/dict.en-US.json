@@ -933,6 +933,8 @@
     "Charts": "Charts",
     "米课": "MiCon",
     "米课圈精华": "Rice Circle Highlights",
+    "imop": "imop",
+    "全部消息": "All News",
     "Indians in Kuwait": "Indians in Kuwait",
     "indienova 独立游戏": "indienova indie games",
     "会员开发游戏库": "Member Development Game Library",
@@ -2038,7 +2040,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "imop": "imop",
-    "全部消息": "All News"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
