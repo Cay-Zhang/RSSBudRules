@@ -687,6 +687,8 @@
     "情报局": "Intelligence Bureau",
     "gihyo.jp": "gihyo.jp",
     "Series": "Series",
+    "GIS Reports": "GIS Reports",
+    "报告": "reporting",
     "Gitee": "Gitee",
     "仓库提交": "Repo Submission",
     "仓库动态": "Repo Dynamics",
@@ -2062,7 +2064,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "GIS Reports": "GIS Reports",
-    "报告": "reporting"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
