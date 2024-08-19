@@ -1491,6 +1491,8 @@
     "Readhub": "Readhub",
     "Readwise": "Readwise",
     "Reader Document List": "Reader Document List",
+    "Rebase Network": "Rebase Network",
+    "Web3 Geek Daily": "Web3 Geek Daily",
     "RemNote": "RemNote",
     "ResearchGate": "ResearchGate",
     "Reuters": "Reuters (name)",
@@ -2060,7 +2062,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Rebase Network": "Rebase Network",
-    "Web3 Geek Daily": "Web3 Geek Daily"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
