@@ -268,6 +268,8 @@
     "研究生院": "Graduate School",
     "北极星电力网": "Polaris Power Network",
     "环保要闻": "Environmental News",
+    "BlockBeats 律动": "BlockBeats",
+    "文章精选": "Selected Articles",
     "文章": "Articles",
     "快讯": "Quick News",
     "技术头条": "Tech Headlines",
@@ -2250,7 +2252,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "BlockBeats 律动": "BlockBeats",
-    "文章精选": "Selected Articles"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
