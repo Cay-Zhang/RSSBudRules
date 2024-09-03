@@ -268,10 +268,6 @@
     "研究生院": "Graduate School",
     "北极星电力网": "Polaris Power Network",
     "环保要闻": "Environmental News",
-    "BlockBeats 律动": "BlockBeats",
-    "文章精选": "Selected Articles",
-    "文章": "Articles",
-    "快讯": "Quick News",
     "技术头条": "Tech Headlines",
     "最新文章": "Latest Articles",
     "Bloomberg": "Bloomberg",
@@ -407,6 +403,7 @@
     "Council on Foreign Relations": "Council on Foreign Relations",
     "中国环球电视网": "China Global Television Network (CGTV)",
     "链捕手 ChainCatcher": "ChainCatcher",
+    "快讯": "Quick News",
     "唱吧": "Sing it",
     "用户": "User",
     "差评": "Poor Reviews",
@@ -462,6 +459,7 @@
     "Comics Kingdom": "Comics Kingdom",
     "Archive": "Archive",
     "消费者委员会": "Consumer Council",
+    "文章": "Articles",
     "禁忌书屋": "Taboo Books",
     "Coomer": "Coomer",
     "Artist": "Artist",
@@ -714,6 +712,8 @@
     "巴哈姆特電玩資訊站": "Bahamut Video Game Information Station",
     "動畫瘋 - 最後更新": "Animation Frenzy - Last Updated",
     "Gamer Secret": "Gamer Secret",
+    "GamerSky": "GamerSky",
+    "评测": "evaluation",
     "机核网": "Kernel Network",
     "专题文章": "Feature Articles",
     "广东工业大学": "Guangdong University of Technology",
@@ -2253,6 +2253,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "GamerSky": "GamerSky",
-    "评测": "evaluation"
+    "律动 BlockBeats": "Rhythmic BlockBeats"
 }
