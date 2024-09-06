@@ -781,6 +781,8 @@
     "Gitpod": "Gitpod",
     "Changelog": "Changelog",
     "环球法律评论": "Global Law Review",
+    "JapanGov": "JapanGov",
+    "感染症発生動向調査週報ダウンロード": "Infectious Disease Development Trend Investigation Weekly Download",
     "GoCN": "GoCN",
     "招聘": "Recruitment",
     "每日新闻": "Mainichi Shimbun, a Japanese daily newspaper",
@@ -2278,7 +2280,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "JapanGov": "JapanGov",
-    "感染症発生動向調査週報ダウンロード": "Infectious Disease Development Trend Investigation Weekly Download"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
