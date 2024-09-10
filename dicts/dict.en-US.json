@@ -708,6 +708,8 @@
     "飞客茶馆": "Flyers Tea House",
     "信用卡": "Credit Card",
     "优惠信息": "Offer Information",
+    "Follow": "Follow",
+    "User subscriptions": "User subscriptions",
     "Followin": "Followin",
     "KOL": "KOL",
     "Foresight News": "Foresight News",
@@ -1160,6 +1162,8 @@
     "收藏集": "Collection",
     "台灣角川": "Kadokawa, Taiwan",
     "角編新聞台": "Corner News Channel",
+    "カクヨム": "Cacayom",
+    "投稿": "contribute sth.",
     "靠谱新闻": "reliable news",
     "KBS": "KBS",
     "Today": "Today",
@@ -2283,9 +2287,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Follow": "Follow",
-    "User subscriptions": "User subscriptions",
-    "カクヨム": "Cacayom",
-    "投稿": "contribute sth."
+    "媒体 (Nitter)": "Media (Nitter)"
 }
