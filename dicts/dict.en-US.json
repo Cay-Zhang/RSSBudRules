@@ -276,6 +276,8 @@
     "教务处通知": "Academic Affairs Office Notice",
     "Bitbucket": "Bitbucket",
     "Commits": "Commits",
+    "Bitget": "Bitget",
+    "Announcement": "Announcement",
     "Bitmovin": "Bitmovin",
     "北京林业大学": "Beijing Forestry University",
     "研究生院培养动态": "Graduate School Training News",
@@ -2298,7 +2300,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Bitget": "Bitget",
-    "Announcement": "Announcement"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
