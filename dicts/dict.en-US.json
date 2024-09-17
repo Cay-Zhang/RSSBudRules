@@ -1869,6 +1869,7 @@
     "Following timeline": "Following timeline",
     "User Novels": "User Novels",
     "User Activity": "User Activity",
+    "pixivision": "pixivision",
     "中国互联网联合辟谣平台": "China Internet Joint Disinformation Platform",
     "今日辟谣": "Today's disinformation",
     "PKMer": "PKMer",
@@ -2609,6 +2610,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "pixivision": "pixivision"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
