@@ -2475,6 +2475,8 @@
     "winstall": "winstall",
     "Apps Update": "Apps Update",
     "WIRED": "WIRED",
+    "People + AI Research (PAIR)": "People + AI Research (PAIR)",
+    "PAIR - AI Exploreables": "PAIR - AI Exploreables",
     "WziFile": "WziFile",
     "Version History": "Version History",
     "紳士漫畫": "Gentleman Comics",
@@ -2625,7 +2627,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "People + AI Research (PAIR)": "People + AI Research (PAIR)",
-    "PAIR - AI Exploreables": "PAIR - AI Exploreables"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
