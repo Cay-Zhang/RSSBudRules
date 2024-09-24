@@ -1915,6 +1915,8 @@
     "The New York Times 纽约时报": "The New York Times",
     "Best Seller Books": "Best Seller Books",
     "新闻简报": "Newsletters",
+    "Obsidian": "Obsidian",
+    "Publish": "Publish",
     "Oct0pu5 blog": "Oct0pu5 blog",
     "Oct的小破站": "Oct's little shitty station.",
     "Odaily 星球日报": "Odaily Daily Planet",
@@ -2734,7 +2736,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Obsidian": "Obsidian",
-    "Publish": "Publish"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
