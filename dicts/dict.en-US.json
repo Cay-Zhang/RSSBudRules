@@ -595,6 +595,7 @@
     "知识城邦": "Knowledge City State",
     "Deepin": "Deepin",
     "BBS Home Page": "BBS Home Page",
+    "首页主题列表": "Home Topic List",
     "deeplearning.ai": "deeplearning.ai",
     "TheBatch 周报": "TheBatch Weekly",
     "DeepMind": "DeepMind",
@@ -2757,6 +2758,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "首页主题列表": "Home Topic List"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
