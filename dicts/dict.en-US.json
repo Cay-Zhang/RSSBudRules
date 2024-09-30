@@ -591,6 +591,9 @@
     "雨苁博客": "Boschniak Blog",
     "DeadbyDaylight": "DeadbyDaylight",
     "Deadline": "Deadline",
+    "DealStreetAsia": "DealStreetAsia",
+    "Home": "Home",
+    "Section": "Section",
     "得到": "get",
     "知识城邦": "Knowledge City State",
     "Deepin": "Deepin",
@@ -1261,6 +1264,8 @@
     "系列": "Series",
     "分類": "Classification",
     "番号": "number of military unit",
+    "Javtiful": "Javtiful",
+    "Actress": "actress",
     "Channel": "Channel",
     "简书": "simple book",
     "交流岛资源网": "Exchange Island Resource Network",
@@ -2769,10 +2774,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "DealStreetAsia": "DealStreetAsia",
-    "Home": "Home",
-    "Section": "Section",
-    "Javtiful": "Javtiful",
-    "Actress": "actress"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
