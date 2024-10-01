@@ -815,6 +815,7 @@
     "Repo Branches": "Repo Branches",
     "Issue / Pull Request comments": "Issue / Pull Request comments",
     "Repo Contributors": "Repo Contributors",
+    "Repo Discussions": "Repo Discussions",
     "File Commits": "File Commits",
     "User Followers": "User Followers",
     "Repo Issues": "Repo Issues",
@@ -2774,6 +2775,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Repo Discussions": "Repo Discussions"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
