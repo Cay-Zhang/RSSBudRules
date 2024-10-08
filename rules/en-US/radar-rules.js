@@ -8334,7 +8334,7 @@
         docs:"https://docs.rsshub.app/routes/traditional-media",
         source:[ "/" ],
         target:"/nytimes/book/:category?" },
-      { title:"Newsletters",
+      { title:"Daily Briefing",
         docs:"https://docs.rsshub.app/routes/traditional-media",
         source:[ "/" ],
         target:"/nytimes/daily_briefing_chinese" },
