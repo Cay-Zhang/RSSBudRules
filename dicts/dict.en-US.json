@@ -1977,7 +1977,6 @@
     "日本语能力测试(JLPT)通知": "Japanese Language Proficiency Test (JLPT) Notice",
     "Netflav": "Netflav",
     "东北大学": "Tohoku University",
-    "小黑盒": "fig. system whose internal structure is unknown",
     "新华社新闻": "Xinhua News",
     "上下游 News&Market": "Upstream & Downstream News&Market",
     "New Yorker": "New Yorker",
@@ -2895,5 +2894,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "新华社": "Xinhua News Agency"
 }

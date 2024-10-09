@@ -8274,7 +8274,7 @@
         docs:"https://docs.rsshub.app/routes/university",
         source:[ "/:type/list.htm" ],
         target:"/neu/news/:type" } ] },
-  "news.cn":{ _name:"fig. system whose internal structure is unknown",
+  "news.cn":{ _name:"Xinhua News Agency",
     ".":[ { title:"Xinhua News",
         docs:"https://docs.rsshub.app/routes/new-media",
         source:[ "/xhsxw.htm" ],
