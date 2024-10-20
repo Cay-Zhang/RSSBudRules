@@ -3948,7 +3948,7 @@
         source:[ "/quest/:alias" ],
         target:"/galxe/quest/:alias" } ] },
   "gameapps.hk":{ _name:"GameApps.hk Hong Kong mobile game website",
-    ".":[ { title:"Unknown",
+    ".":[ { title:"News",
         docs:"https://docs.rsshub.app/routes/other",
         source:[ "/" ],
         target:"/gameapps/" } ] },
