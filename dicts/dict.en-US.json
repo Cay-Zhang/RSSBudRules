@@ -2072,6 +2072,7 @@
     "Java Blocked Servers": "Java Blocked Servers",
     "Java Runtimes": "Java Runtimes",
     "Java Game Update": "Java Game Update",
+    "即時新聞": "News",
     "鏡週刊 Mirror Media": "Mirror Media",
     "MissAV.com": "MissAV.com",
     "MissKON": "MissKON",
@@ -2889,7 +2890,6 @@
     "人工智能学院": "Artificial Intelligence Academy",
     "The University of Chicago Press: Journals": "The University of Chicago Press: Journals",
     "聯合新聞網": "United News Network",
-    "即時新聞": "News",
     "轉角國際 - 首頁": "Turning Point International - Home",
     "轉角國際 - 標籤": "Turning Point International - Tags",
     "电子科技大学": "University of Electronic Science and Technology",
@@ -3139,5 +3139,7 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "明報": "Ming Pao",
+    "每日明報": "Daily Ming Pao"
 }
