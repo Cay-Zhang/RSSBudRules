@@ -303,6 +303,8 @@
     "American Institute of Physics": "American Institute of Physics",
     "中国国际航空公司": "Air China",
     "服务公告": "Service Announcement",
+    "ALICESOFT": "ALICESOFT",
+    "ニュース": "News",
     "阿里云盘": "AliCloud disk (computing)",
     "文件列表": "List of documents",
     "阿里研究院": "Ali Research Institute",
@@ -3141,7 +3143,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "ALICESOFT": "ALICESOFT",
-    "ニュース": "News"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
