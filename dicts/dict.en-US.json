@@ -17,8 +17,14 @@
     "慢慢说": "speak slowly",
     "道听途说": "rumor",
     "展会资讯": "Exhibition Information",
+    "同花顺财经": "Flush Finance",
     "全部": "full",
+    "重要": "critical",
+    "A股": "A-share",
+    "港股": "Hong Kong shares",
     "美股": "U.S. stocks",
+    "机会": "odds",
+    "异动": "variance",
     "公告": "Announcement",
     "禁漫天堂": "Forbidden Comic Paradise",
     "专辑": "Album",
@@ -3144,11 +3150,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "同花顺财经": "Flush Finance",
-    "重要": "critical",
-    "A股": "A-share",
-    "港股": "Hong Kong shares",
-    "机会": "odds",
-    "异动": "variance"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
