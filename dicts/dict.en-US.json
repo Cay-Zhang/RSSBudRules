@@ -373,6 +373,7 @@
     "Upcoming Live Streams": "Upcoming Live Streams",
     "Tag": "Tag",
     "Weekly": "Weekly",
+    "Latest": "Latest",
     "アニメ新番組": "Anime New Group",
     "當季新番": "Current Season",
     "放送列表": "Release List",
@@ -382,7 +383,6 @@
     "现实人物的新作品": "New works of realistic characters",
     "条目的通用路由格式": "Common routing format for entries",
     "用户日志": "User Log",
-    "用户想看": "Users want to see",
     "包子漫画": "Baozi Cartoon",
     "订阅漫画": "Subscribe to Comics",
     "巴伦周刊中文版": "Barron's China",
@@ -2857,7 +2857,6 @@
     "节目": "Programs",
     "大公文匯網": "Dagong Wenhui",
     "TokenInsight": "TokenInsight",
-    "Latest": "Latest",
     "Research": "Research",
     "同济大学": "Tongji University",
     "本科生院通知公告": "Undergraduate School Notices",
@@ -3151,5 +3150,8 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "萌番组": "Moe Fan Group",
+    "Bangumi 番组计划": "Bangumi Project",
+    "Bangumi 用户收藏列表": "Bangumi User Favorites List"
 }
