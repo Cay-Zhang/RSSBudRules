@@ -1879,7 +1879,7 @@
     ".":[ { title:"Post",
         docs:"https://docs.rsshub.app/routes/social-media",
         source:[ "/profile/:handle" ],
-        target:"/bsky/profile/:handle" } ] },
+        target:"/bsky/profile/:handle/:routeParams?" } ] },
   "2bt0.com":{ _name:"It doesn\'t work.",
     ".":[ { title:"Movie Resources Download List",
         docs:"https://docs.rsshub.app/routes/multimedia",
