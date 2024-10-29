@@ -840,6 +840,7 @@
     "Home": "Home",
     "Section": "Section",
     "得到": "get",
+    "得到文章": "Get the article",
     "知识城邦": "Knowledge City State",
     "Deepin": "Deepin",
     "BBS Home Page": "BBS Home Page",
@@ -938,6 +939,8 @@
     "ELSEVIER": "ELSEVIER",
     "Epic Games Store": "Epic Games Store",
     "Free games": "Free games",
+    "万维书刊网": "World Wide Web of Books",
+    "学术资讯": "Academic Information",
     "ESPN": "ESPN",
     "Esquire Hong Kong": "Esquire Hong Kong",
     "歐洲動態（國際）": "European Dynamics (International)",
@@ -3173,8 +3176,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "得到文章": "Get the article",
-    "万维书刊网": "World Wide Web of Books",
-    "学术资讯": "Academic Information"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
