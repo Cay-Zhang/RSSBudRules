@@ -344,6 +344,8 @@
     "播客": "Podcast",
     "AppleInsider": "AppleInsider",
     "Category": "Category",
+    "AppStare": "AppStare",
+    "Comments": "Comments",
     "App Store/Mac App Store": "App Store/Mac App Store",
     "每日精品限免 / 促销应用（鲜面连线 by AppSo）": "Daily Boutique Limited / Promotional Apps (Fresh Noodle Connection by AppSo)",
     "空气质量": "air quality",
@@ -3177,6 +3179,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "AppStare": "AppStare",
-    "Comments": "Comments"
+    "Cookbook": "Cookbook"
 }
