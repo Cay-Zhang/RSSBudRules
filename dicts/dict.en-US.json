@@ -2331,6 +2331,7 @@
     "Ollama": "Ollama",
     "Models": "Models",
     "Onet": "Onet",
+    "Cookbook": "Cookbook",
     "开源中国": "Open Source China",
     "问答主题": "Question and Answer Topics",
     "数字型账号用户博客": "Digital Account User Blog",
@@ -3178,6 +3179,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Cookbook": "Cookbook"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
