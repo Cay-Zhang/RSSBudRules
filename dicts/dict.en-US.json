@@ -389,6 +389,7 @@
     "条目的通用路由格式": "Common routing format for entries",
     "用户日志": "User Log",
     "Bangumi 用户收藏列表": "Bangumi User Favorites List",
+    "宝玉": "treasures",
     "包子漫画": "Baozi Cartoon",
     "订阅漫画": "Subscribe to Comics",
     "巴伦周刊中文版": "Barron's China",
@@ -503,6 +504,7 @@
     "字节点击": "Byte Click",
     "ui.dev": "ui.dev",
     "C114 通信网": "C114 Communication Network",
+    "滚动资讯": "rolling information",
     "caa.reviews": "caa.reviews",
     "Book Reviews": "Book Reviews",
     "Essays": "Essays",
@@ -1010,6 +1012,7 @@
     "飞客茶馆": "Flyers Tea House",
     "信用卡": "Credit Card",
     "优惠信息": "Offer Information",
+    "会员说": "members say",
     "Follow": "Follow",
     "User subscriptions": "User subscriptions",
     "Followin": "Followin",
@@ -3201,7 +3204,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "宝玉": "treasures",
-    "滚动资讯": "rolling information",
-    "会员说": "members say"
+    "物理学院": "school of physics"
 }
