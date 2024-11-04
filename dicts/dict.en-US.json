@@ -503,13 +503,13 @@
     "字节点击": "Byte Click",
     "ui.dev": "ui.dev",
     "C114 通信网": "C114 Communication Network",
-    "滚动新闻": "Rolling News",
     "caa.reviews": "caa.reviews",
     "Book Reviews": "Book Reviews",
     "Essays": "Essays",
     "Exhibition Reviews": "Exhibition Reviews",
     "全国港澳研究会": "National Association for the Study of Hong Kong and Macau",
     "财经网": "Financial Network",
+    "滚动新闻": "Rolling News",
     "财新博客": "Caixin Blog",
     "首页新闻": "Home News",
     "财新数据通": "Caixin Data Access",
@@ -3200,5 +3200,8 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "宝玉": "treasures",
+    "滚动资讯": "rolling information",
+    "会员说": "members say"
 }
