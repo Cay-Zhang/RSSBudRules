@@ -2412,6 +2412,8 @@
     "pixiv": "pixiv",
     "User Bookmark": "User Bookmark",
     "Following timeline": "Following timeline",
+    "User Novels (簡介 Basic info)": "User Novels (profile Basic info)",
+    "User Novels (全文 Full text)": "User Novels (full text)",
     "User Activity": "User Activity",
     "pixivision": "pixivision",
     "中国互联网联合辟谣平台": "China Internet Joint Disinformation Platform",
@@ -3206,7 +3208,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "User Novels (簡介 Basic info)": "User Novels (profile Basic info)",
-    "User Novels (全文 Full text)": "User Novels (full text)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
