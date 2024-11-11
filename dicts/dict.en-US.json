@@ -1052,6 +1052,7 @@
     "漫小肆韓漫": "Manga Manga",
     "Follow The Money": "Follow The Money",
     "福利吧": "Welfare Bar",
+    "Search": "Search",
     "Furstar": "Furstar",
     "已经出售的角色列表": "List of Sold Characters",
     "画师列表": "List of artists",
@@ -2430,7 +2431,6 @@
     "品玩": "Pinning and playing",
     "实时要闻": "Real Time Highlights",
     "Pixabay": "Pixabay",
-    "Search": "Search",
     "pixiv": "pixiv",
     "User Bookmark": "User Bookmark",
     "Following timeline": "Following timeline",
@@ -3232,5 +3232,16 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Furaffinity": "Furaffinity",
+    "Gallery": "Gallery",
+    "Browse": "Browse",
+    "Commissions": "Commissions",
+    "Journal Comments": "Journal Comments",
+    "Shouts": "Shouts",
+    "Status": "Status",
+    "Submission Comments": "Submission Comments",
+    "Userpage": "Userpage",
+    "User's Watcher List": "User's Watcher List",
+    "User's Watching List": "User's Watching List"
 }
