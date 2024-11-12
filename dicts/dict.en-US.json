@@ -2445,6 +2445,7 @@
     "pixiv": "pixiv",
     "User Bookmark": "User Bookmark",
     "Following timeline": "Following timeline",
+    "Novel Series": "Novel Series",
     "User Novels (簡介 Basic info)": "User Novels (profile Basic info)",
     "User Novels (全文 Full text)": "User Novels (full text)",
     "User Activity": "User Activity",
@@ -3243,6 +3244,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Novel Series": "Novel Series"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
