@@ -136,7 +136,9 @@
     "AEON": "AEON",
     "Categories": "Categories",
     "Types": "Types",
+    "The Australian Financial Review": "The Australian Financial Review",
     "Latest": "Latest",
+    "Navigation": "Navigation",
     "AGE 动漫": "AGE Anime",
     "番剧详情": "Details of the foreign drama",
     "最近更新": "Recent Updates",
@@ -3244,7 +3246,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "The Australian Financial Review": "The Australian Financial Review",
-    "Navigation": "Navigation"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
