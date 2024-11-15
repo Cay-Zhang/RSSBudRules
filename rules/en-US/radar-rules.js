@@ -1599,7 +1599,7 @@
         source:[ "/" ],
         target:"/bigquant/collections" } ] },
   "bilibili.com":{ _name:"Bilibili bilibili",
-    space:[ { title:"UP Main Column",
+    space:[ { title:"UP Main Graphic",
         docs:"https://docs.rsshub.app/routes/social-media",
         source:[ "/:uid" ],
         target:"/bilibili/user/article/:uid" },
