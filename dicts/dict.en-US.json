@@ -362,7 +362,9 @@
     "Latest Article": "Latest Article",
     "Latest News": "Latest News",
     "American Institute of Physics": "American Institute of Physics",
+    "Air-Level": "Air-Level",
     "空气质量": "air quality",
+    "空气质量排行": "Air Quality Ranking",
     "中国国际航空公司": "Air China",
     "服务公告": "Service Announcement",
     "ALICESOFT": "ALICESOFT",
@@ -3309,7 +3311,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Air-Level": "Air-Level",
-    "空气质量排行": "Air Quality Ranking"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
