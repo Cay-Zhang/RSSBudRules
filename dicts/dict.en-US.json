@@ -362,6 +362,7 @@
     "Latest Article": "Latest Article",
     "Latest News": "Latest News",
     "American Institute of Physics": "American Institute of Physics",
+    "空气质量": "air quality",
     "中国国际航空公司": "Air China",
     "服务公告": "Service Announcement",
     "ALICESOFT": "ALICESOFT",
@@ -400,7 +401,6 @@
     "Comments": "Comments",
     "App Store/Mac App Store": "App Store/Mac App Store",
     "每日精品限免 / 促销应用（鲜面连线 by AppSo）": "Daily Boutique Limited / Promotional Apps (Fresh Noodle Connection by AppSo)",
-    "空气质量": "air quality",
     "实时 AQI": "Real-time AQI",
     "Arcteryx": "Arcteryx",
     "New Arrivals": "New Arrivals",
@@ -3309,5 +3309,7 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Air-Level": "Air-Level",
+    "空气质量排行": "Air Quality Ranking"
 }
