@@ -3179,7 +3179,6 @@
     "线报酷": "Tipster's Cool",
     "线板酷": "Wired Board Cool",
     "小红书": "Little Red Book",
-    "用户笔记 全文": "User Notes Full text",
     "小米有品": "Xiaomi Youpin",
     "小米有品众筹": "Xiaomi Youpin Crowdfunding",
     "小米有品每日上新": "Xiaomi Youpin Daily New Arrival",
@@ -3316,5 +3315,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "用户笔记/收藏": "User notes/favorites"
 }

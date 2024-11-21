@@ -13542,7 +13542,7 @@
         docs:"https://docs.rsshub.app/routes/social-media",
         source:[ "/board/:board_id" ],
         target:"/xiaohongshu/board/:board_id" },
-      { title:"User Notes Full text",
+      { title:"User notes/favorites",
         docs:"https://docs.rsshub.app/routes/social-media",
         source:[ "/user/profile/:user_id" ],
         target:"/xiaohongshu/user/:user_id/notes" } ] },
