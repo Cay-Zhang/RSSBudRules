@@ -2916,7 +2916,6 @@
     "电气信息学院": "School of Electrical Information",
     "信息学院": "School of Information",
     "计算机与软件学院": "School of Computer and Software",
-    "syosetu": "syosetu",
     "なろう小説 API の更新履歴": "Updated history of Naro Novel API",
     "Novel Updates": "Novel Updates",
     "R18 Rankings": "R18 Rankings",
@@ -3376,5 +3375,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Syosetu": "Syosetu"
 }

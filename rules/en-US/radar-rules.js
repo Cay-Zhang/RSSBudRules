@@ -12349,7 +12349,7 @@
         docs:"https://docs.rsshub.app/routes/university",
         source:[ "/" ],
         target:"/swpu/scs/:code" } ] },
-  "syosetu.com":{ _name:"syosetu",
+  "syosetu.com":{ _name:"Syosetu",
     dev:[ { title:"Updated history of Naro Novel API",
         docs:"https://docs.rsshub.app/routes/program-update",
         source:[ "/" ],
