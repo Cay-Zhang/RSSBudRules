@@ -4427,7 +4427,7 @@
         source:[ "/column/detail/:id",
           "/" ],
         target:"/foresightnews/column/:id" },
-      { title:"Unknown",
+      { title:"Featured News",
         docs:"https://docs.rsshub.app/routes/new-media",
         source:[ "/" ],
         target:"/foresightnews/" },
