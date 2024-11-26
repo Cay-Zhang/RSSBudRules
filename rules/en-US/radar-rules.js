@@ -9490,7 +9490,7 @@
         docs:"https://docs.rsshub.app/routes/journal",
         source:[ "/web/:category",
           "/" ],
-        target:"/mvm/:category?" } ] },
+        target:"/mwm/:category?" } ] },
   "my-formosa.com":{ _name:"Belle Isle Newsletter",
     ".":[ { title:"Home",
         docs:"https://docs.rsshub.app/routes/new-media",
