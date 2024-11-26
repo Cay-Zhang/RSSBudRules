@@ -6080,7 +6080,7 @@
         source:[ "/" ],
         target:"/guanhai/" } ] },
   "guduodata.com":{ _name:"Bone Data",
-    data:[ { title:"Day List",
+    ".":[ { title:"Day List",
         docs:"https://docs.rsshub.app/routes/other",
         source:[ "/" ],
         target:"/guduodata/daily" } ] },
