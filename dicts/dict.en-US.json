@@ -3018,9 +3018,12 @@
     "Hot News": "Hot News",
     "唐书房": "Tang Study Room",
     "淘股吧": "Amoy Stock Bar",
+    "TapTap": "TapTap",
     "游戏更新": "Game Updates",
     "游戏评价": "Game Reviews",
     "游戏论坛": "Game Forum",
+    "Game's Changelog": "Game's Changelog",
+    "Ratings & Reviews": "Ratings & Reviews",
     "Russian News Agency TASS": "Russian News Agency TASS",
     "TechCrunch": "TechCrunch",
     "深潮 TechFlow": "Shamchao TechFlow",
@@ -3382,8 +3385,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "TapTap": "TapTap",
-    "Game's Changelog": "Game's Changelog",
-    "Ratings & Reviews": "Ratings & Reviews"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
