@@ -962,6 +962,7 @@
     "用户动态": "User dynamics",
     "二柄 APP": "Two-handle APP",
     "Digital Camera World": "Digital Camera World",
+    "频道": "Channel",
     "Discord": "Discord",
     "Channel Messages": "Channel Messages",
     "EU Disinfo Lab": "EU Disinfo Lab",
@@ -1717,7 +1718,6 @@
     "知闻AI": "AI",
     "南方周末": "Southern Weekend (newspaper)",
     "热门文章": "Popular Articles",
-    "频道": "Channel",
     "INSPIRE": "INSPIRE",
     "Author Search": "Author Search",
     "Literature Search": "Literature Search",
@@ -3037,6 +3037,8 @@
     "全部规则 - 规则汇编下载": "All Rules - Rulebook Download",
     "已废止规则 - 规则废止公告": "Repealed Rules - Rule Repeal Notices",
     "已废止规则 - 已废止规则文本": "Repealed Rules - Text of Repealed Rules",
+    "台灣大哥大": "Taiwan Big Brother",
+    "資費公告": "Fee Announcement",
     "Taiwan News": "Taiwan News",
     "Hot News": "Hot News",
     "唐书房": "Tang Study Room",
@@ -3409,6 +3411,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "台灣大哥大": "Taiwan Big Brother",
-    "資費公告": "Fee Announcement"
+    "盯梢": "follow sb."
 }
