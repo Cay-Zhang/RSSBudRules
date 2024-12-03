@@ -1798,6 +1798,7 @@
     "旅游美食": "Travel Gourmet",
     "时尚": "fashions",
     "图集": "collection of illustrations",
+    "Research": "Research",
     "江苏海洋大学": "Jiangsu Ocean University",
     "官网通知公告": "Notice on the official website",
     "极品性感美女": "Extremely sexy girl",
@@ -3111,7 +3112,6 @@
     "节目": "Programs",
     "大公文匯網": "Dagong Wenhui",
     "TokenInsight": "TokenInsight",
-    "Research": "Research",
     "同济大学": "Tongji University",
     "本科生院通知公告": "Undergraduate School Notices",
     "今日热榜": "Today's Hot List",
@@ -3411,5 +3411,14 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Jones Lang LaSalle": "Jones Lang LaSalle",
+    "Trends & Insights": "Trends & Insights",
+    "Workplace": "Workplace",
+    "Investor": "Investor",
+    "Cities": "Cities",
+    "房地产趋势与洞察": "Real Estate Trends and Insights",
+    "办公空间": "office space",
+    "投资者": "investor education",
+    "城市": "municipalities"
 }
