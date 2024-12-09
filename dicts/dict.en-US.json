@@ -367,6 +367,7 @@
     "空气质量排行": "Air Quality Ranking",
     "中国国际航空公司": "Air China",
     "服务公告": "Service Announcement",
+    "评测": "evaluation",
     "ALICESOFT": "ALICESOFT",
     "ニュース": "News",
     "阿里云盘": "AliCloud disk (computing)",
@@ -1149,7 +1150,6 @@
     "動畫瘋 - 最後更新": "Animation Frenzy - Last Updated",
     "Gamer Secret": "Gamer Secret",
     "GamerSky": "GamerSky",
-    "评测": "evaluation",
     "机核网": "Kernel Network",
     "专题文章": "Feature Articles",
     "广东工业大学": "Guangdong University of Technology",
@@ -3422,5 +3422,13 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "游侠网": "Ranger.com",
+    "最新资讯": "Latest News",
+    "游戏": "play",
+    "动漫": "cartoons and comics",
+    "影视": "movies and television",
+    "科技": "science and technology",
+    "电竞": "esports",
+    "手游": "handheld game"
 }
