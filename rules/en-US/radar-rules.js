@@ -3575,7 +3575,7 @@
     www:[ { title:"Classification",
         docs:"https://docs.rsshub.app/routes/new-media",
         source:[ "/" ],
-        target:"/copernicium/:category" } ] },
+        target:"/copernicium/:category?" } ] },
   "counter-strike.net":{ _name:"Counter Strike",
     www:[ { title:"News",
         docs:"https://docs.rsshub.app/routes/game",
