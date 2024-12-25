@@ -1851,6 +1851,7 @@
     "市场快讯": "Market News",
     "精真估": "Jingzhen Appraisal",
     "集思录": "Collective Thinking",
+    "其他": "(sth. or sb) else",
     "广场": "Piazza",
     "韭研公社": "leek research commune",
     "社群": "social grouping",
@@ -2977,7 +2978,6 @@
     "质押式报价回购": "pledged quote repurchase (PQR)",
     "约定购回": "contractual repurchase",
     "协议转让": "Agreed transfers",
-    "其他": "(sth. or sb) else",
     "沪港通": "Shanghai and Hong Kong connection",
     "互联互通存托凭证": "Connected Depositary Receipts",
     "会员管理": "Membership Management",
@@ -3434,6 +3434,7 @@
     "游研社": "Tour Research Institute",
     "游研社 - 全部文章": "YouYanSha - All Articles",
     "ZAKER": "ZAKER",
+    "精读": "peruse",
     "前端早早聊": "Front-end early chat",
     "站酷": "Station Cool",
     "用户作品": "user generated work",
@@ -3501,5 +3502,10 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "精读": "peruse"
+    "Deepseek": "Deepseek",
+    "新股": "new share",
+    "债券/可转债": "Bonds/convertible bonds",
+    "套利": "arbitrage",
+    "基金": "fund",
+    "股票": "stock (market)"
 }
