@@ -1015,6 +1015,7 @@
     "Letters from Andrew Ng - Just For Fun": "Letters from Andrew Ng - Just For Fun",
     "Letters from Andrew Ng - Learning & Education": "Letters from Andrew Ng - Learning & Education",
     "DeepMind": "DeepMind",
+    "Deepseek": "Deepseek",
     "德恒律师事务所": "Deheng Law Firm",
     "专业文章": "Professional Articles",
     "出版物": "publications",
@@ -1851,7 +1852,12 @@
     "市场快讯": "Market News",
     "精真估": "Jingzhen Appraisal",
     "集思录": "Collective Thinking",
+    "新股": "new share",
+    "债券/可转债": "Bonds/convertible bonds",
+    "套利": "arbitrage",
     "其他": "(sth. or sb) else",
+    "基金": "fund",
+    "股票": "stock (market)",
     "广场": "Piazza",
     "韭研公社": "leek research commune",
     "社群": "social grouping",
@@ -3501,11 +3507,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Deepseek": "Deepseek",
-    "新股": "new share",
-    "债券/可转债": "Bonds/convertible bonds",
-    "套利": "arbitrage",
-    "基金": "fund",
-    "股票": "stock (market)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
