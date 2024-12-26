@@ -948,6 +948,7 @@
     "CuriousCat": "CuriousCat",
     "Curius": "Curius",
     "User": "User",
+    "Cursor": "Cursor",
     "Changelog": "Changelog",
     "天下雜誌": "World Magazine",
     "作者": "Author",
@@ -3510,5 +3511,6 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "Cursor": "Cursor"
+    "Releases": "Releases",
+    "TiddlyWiki": "TiddlyWiki"
 }
