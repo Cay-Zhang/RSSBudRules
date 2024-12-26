@@ -1665,6 +1665,7 @@
     "党群工作 - 工会工作": "Party Work - Labor Union Work",
     "Huggingface": "Huggingface",
     "中文博客": "Chinese Blog",
+    "英文博客": "English Blog",
     "Daily Papers": "Daily Papers",
     "湖南人事考试网": "Hunan Personnel Examination Network",
     "湖南农业大学": "Hunan Agricultural University",
@@ -3508,6 +3509,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "英文博客": "English Blog"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
