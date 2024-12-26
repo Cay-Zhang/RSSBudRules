@@ -2596,6 +2596,7 @@
     "arXiv Computer Vision and Pattern Recognition (cs.CV)": "arXiv Computer Vision and Pattern Recognition (cs.CV)",
     "arXiv Machine Learning (cs.LG)": "arXiv Machine Learning (cs.LG)",
     "arXiv Robotics (cs.RO)": "arXiv Robotics (cs.RO)",
+    "arXiv Paper queryed by Keyword": "arXiv Paper queryed by Keyword",
     "Paradigm": "Paradigm",
     "Writing": "Writing",
     "UK Parliament": "UK Parliament",
@@ -3507,6 +3508,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "arXiv Paper queryed by Keyword": "arXiv Paper queryed by Keyword"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
