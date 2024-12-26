@@ -948,6 +948,7 @@
     "CuriousCat": "CuriousCat",
     "Curius": "Curius",
     "User": "User",
+    "Changelog": "Changelog",
     "天下雜誌": "World Magazine",
     "作者": "Author",
     "最新上線": "New Online",
@@ -1271,7 +1272,6 @@
     "Wiki History": "Wiki History",
     "Gist Commits": "Gist Commits",
     "Gitpod": "Gitpod",
-    "Changelog": "Changelog",
     "环球法律评论": "Global Law Review",
     "国门传媒在线": "State Gate Media Online",
     "中国海关": "China Customs",
@@ -3509,5 +3509,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Cursor": "Cursor"
 }
