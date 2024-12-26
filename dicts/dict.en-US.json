@@ -3329,6 +3329,7 @@
     "华西医院": "West China Hospital (Huaxi)",
     "招聘公告": "Recruitment Announcement",
     "web.dev": "web.dev",
+    "WebCatalog": "WebCatalog",
     "微信小程序": "WeChat small program",
     "公众号（CareerEngine 来源）": "Public (CareerEngine source)",
     "新假期周刊": "New Holiday Weekly",
@@ -3513,6 +3514,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "WebCatalog": "WebCatalog"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
