@@ -1271,6 +1271,7 @@
     "User Starred Repositories": "User Starred Repositories",
     "Trending": "Trending",
     "Wiki History": "Wiki History",
+    "Releases": "Releases",
     "Gist Commits": "Gist Commits",
     "Gitpod": "Gitpod",
     "环球法律评论": "Global Law Review",
@@ -3197,6 +3198,7 @@
     "Inside Blog": "Inside Blog",
     "THBWiki": "THBWiki",
     "Calendar": "Calendar",
+    "TiddlyWiki": "TiddlyWiki",
     "TikTok": "TikTok",
     "停水通知": "Water shut-off notice",
     "大连市": "Dalian",
@@ -3511,6 +3513,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "Releases": "Releases",
-    "TiddlyWiki": "TiddlyWiki"
+    "MSN": "MSN"
 }
