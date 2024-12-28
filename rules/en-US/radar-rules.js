@@ -3075,7 +3075,7 @@
         docs:"https://docs.rsshub.app/routes/government",
         source:[ "/qqgw/wszz/" ],
         target:"/chinacdc/qqgw/wszz" },
-      { title:"Global Public Health - International Exchanges (Hong Kong, Macao and Taiwan Exchanges)",
+      { title:"Global Public Health - International Exchange (Hong Kong, Macao and Taiwan Exchange)",
         docs:"https://docs.rsshub.app/routes/government",
         source:[ "/qqgw/gjjl/" ],
         target:"/chinacdc/qqgw/gjjl" },
