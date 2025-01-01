@@ -535,6 +535,7 @@
     "北京师范大学": "Beijing Normal University",
     "经济与工商管理学院": "School of Economics and Business Administration",
     "党委学生工作部": "Student Work Department of the Party Committee",
+    "教育学部-培养动态": "Faculty of Education - Cultivation News",
     "教务部（研究生院）": "Academic Affairs (Graduate School)",
     "经济与工商管理学院MBA": "MBA, Faculty of Economics and Business Administration",
     "新闻聚焦": "News Focus",
@@ -3434,7 +3435,6 @@
     "Channel with id": "Channel with id",
     "Custom URL": "Custom URL",
     "Subscriptions": "Subscriptions",
-    "Channel with username": "Channel with username",
     "有知有行": "Knowing and doing",
     "有知文章": "Knowledgeable Articles",
     "语雀": "Yuque",
@@ -3517,5 +3517,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "教育学部-培养动态": "Faculty of Education - Cultivation News"
+    "Channel with user handle": "Channel with user handle"
 }
