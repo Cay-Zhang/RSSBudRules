@@ -40,6 +40,9 @@
     "用户回帖": "User replies",
     "用户主题帖": "User Topic Post",
     "录取结果": "Admissions Results",
+    "30 Seconds of code": "30 Seconds of code",
+    "Category and Subcategory": "Category and Subcategory",
+    "New & Popular Snippets": "New & Popular Snippets",
     "36kr": "36kr",
     "资讯热榜": "Information Hot List",
     "3DMGame": "3DMGame",
@@ -3531,8 +3534,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "30 Seconds of code": "30 Seconds of code",
-    "Category and Subcategory": "Category and Subcategory",
-    "New & Popular Snippets": "New & Popular Snippets"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
