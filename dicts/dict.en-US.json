@@ -383,6 +383,7 @@
     "文件列表": "List of documents",
     "阿里研究院": "Ali Research Institute",
     "A List Apart": "A List Apart",
+    "Home Feed": "Home Feed",
     "Topics": "Topics",
     "阿里云": "Ali cloud",
     "数据库内核月报": "Database Kernel Monthly Report",
@@ -972,6 +973,7 @@
     "Most Discussed": "Most Discussed",
     "Popular": "Popular",
     "Source Posts": "Source Posts",
+    "Squads": "Squads",
     "Most upvoted": "Most upvoted",
     "User Posts": "User Posts",
     "道宣的窝": "Dawson's Nest",
@@ -3529,7 +3531,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Home Feed": "Home Feed",
-    "Squads": "Squads"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
