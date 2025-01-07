@@ -1747,10 +1747,6 @@
     "欢乐书客": "The Joyous Bookworms",
     "Harvard Business Review": "Harvard Business Review",
     "杭州电子科技大学": "Hangzhou University of Electronic Science and Technology",
-    "自动化学院 - 研究生教育通知": "School of Automation - Graduate Education Notices",
-    "自动化学院 - 通知公告": "School of Automation - Notice",
-    "自动化学院 - 学生工作": "School of Automation - Student Work",
-    "自动化学院 - 本科教学": "School of Automation - Undergraduate Teaching",
     "计算机学院 - 通知公告": "School of Computer Science - Notice",
     "计算机学院 - 研究生通知": "School of Computing - Graduate Student Notices",
     "河北网络广播电视台": "Hebei Internet Radio and Television (HIRTV)",
@@ -3691,5 +3687,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "自动化学院": "school of automation"
 }
