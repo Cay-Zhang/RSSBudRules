@@ -680,6 +680,8 @@
     "研究生院": "Graduate School",
     "北极星电力网": "Polaris Power Network",
     "环保要闻": "Environmental News",
+    "Blizzard": "Blizzard (name)",
+    "暴雪游戏国服新闻": "Blizzard Games National Service News",
     "技术头条": "Tech Headlines",
     "最新文章": "Latest Articles",
     "Bloomberg": "Bloomberg",
@@ -3691,7 +3693,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Blizzard": "Blizzard (name)",
-    "暴雪游戏国服新闻": "Blizzard Games National Service News"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
