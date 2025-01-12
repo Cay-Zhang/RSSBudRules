@@ -2893,6 +2893,9 @@
     "穿越火线 CFHD 专区资讯中心 - 赛事": "Crossfire CFHD Zone Information Center - Tournaments",
     "穿越火线 CFHD 专区资讯中心 - 杂谈": "Through the fire line CFHD special area information center - Miscellany",
     "最新辟谣": "Latest Rumor",
+    "综合": "synthesize",
+    "赛事": "competition (e.g. sporting)",
+    "攻略": "guide",
     "腾讯频道": "Tencent channel",
     "当前作者文章": "Current Author Articles",
     "公众平台系统公告栏目": "Public platform system announcement section",
@@ -3699,8 +3702,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "综合": "synthesize",
-    "赛事": "competition (e.g. sporting)",
-    "攻略": "guide"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
