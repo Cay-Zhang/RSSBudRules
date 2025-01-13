@@ -2755,6 +2755,8 @@
     "开源中国": "Open Source China",
     "问答主题": "Question and Answer Topics",
     "数字型账号用户博客": "Digital Account User Blog",
+    "osu!": "osu!",
+    "Latest Ranked Beatmap": "Latest Ranked Beatmap",
     "OTOBANANA": "OTOBANANA",
     "Cast 音声投稿": "Cast Sound Pitch",
     "Livestream ライブ配信": "Livestream ライブ配信",
@@ -3702,7 +3704,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "osu!": "osu!",
-    "Latest Ranked Beatmap": "Latest Ranked Beatmap"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
