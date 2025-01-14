@@ -2530,7 +2530,6 @@
     "即時新聞": "News",
     "每日明報": "Daily Ming Pao",
     "鏡週刊 Mirror Media": "Mirror Media",
-    "MissAV.com": "MissAV.com",
     "MissKON": "MissKON",
     "Top 3 days": "Top 3 days",
     "Top 7 days": "Top 7 days",
@@ -2954,6 +2953,7 @@
     "Current Issue": "Current Issue",
     "First Release": "First Release",
     "科学网": "Science.com",
+    "Podcasts": "Podcasts",
     "Corona Virus Disease 2019": "Corona Virus Disease 2019",
     "华南师范大学": "South China Normal University",
     "图书馆通知": "Library Notices",
@@ -3217,7 +3217,6 @@
     "远川研究所": "Fargawa Research Institute",
     "Go 语言中文网": "Go Language Chinese Website",
     "SupChina": "SupChina",
-    "Podcasts": "Podcasts",
     "南方科技大学": "Southern University of Science and Technology",
     "采购与招标管理部": "Procurement and Tender Management Department",
     "新闻网（中文）": "News Network (Chinese)",
@@ -3707,5 +3706,9 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "MissAV": "MissAV",
+    "Scientific American": "Scientific American",
+    "Science Quickly": "Science Quickly",
+    "Uncertain": "Uncertain"
 }
