@@ -2775,6 +2775,8 @@
     "Cookbook": "Cookbook",
     "OpenWrt": "OpenWrt",
     "开源中国": "Open Source China",
+    "强力推荐": "come highly recommended",
+    "最新活动": "Latest Activities",
     "问答主题": "Question and Answer Topics",
     "数字型账号用户博客": "Digital Account User Blog",
     "osu!": "osu!",
@@ -3731,7 +3733,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "强力推荐": "come highly recommended",
-    "最新活动": "Latest Activities"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
