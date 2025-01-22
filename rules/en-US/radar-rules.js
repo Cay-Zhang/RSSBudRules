@@ -12511,7 +12511,7 @@
           "/" ],
         target:"/ruancan/user/:id" } ] },
   "ruankao.org.cn":{ _name:"China Computer Professional and Technical Qualification Examination",
-    www:[ { title:"Soft Exam News",
+    www:[ { title:"Computer Professional and Technical Qualification Examination (Soft Exam) News",
         docs:"https://docs.rsshub.app/routes/study",
         source:[ "/index/work",
           "/" ],
