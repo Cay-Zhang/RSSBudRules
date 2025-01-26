@@ -225,6 +225,7 @@
     "4Gamers": "4Gamers",
     "Unknown": "Unknown",
     "主題": "Theme",
+    "4KUP": "4KUP",
     "Category": "Category",
     "Latest": "Latest",
     "Popular": "Popular",
@@ -3738,6 +3739,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "4KUP": "4KUP"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
