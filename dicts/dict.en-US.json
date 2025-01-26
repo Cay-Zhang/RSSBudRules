@@ -1081,6 +1081,7 @@
     "Artist": "Artist",
     "Recent Posts": "Recent Posts",
     "日新说": "Nissin says",
+    "Popular": "Popular",
     "Counter Strike": "Counter Strike",
     "cpcaauto.com": "cpcaauto.com",
     "行业新闻 - 国内乘用车": "Industry News - Domestic Passenger Cars",
@@ -1155,7 +1156,6 @@
     "浙江新闻联播": "Zhejiang News Feed",
     "Daily.dev": "Daily.dev",
     "Most Discussed": "Most Discussed",
-    "Popular": "Popular",
     "Source Posts": "Source Posts",
     "Squads": "Squads",
     "Most upvoted": "Most upvoted",
@@ -3737,5 +3737,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "CosplayTele": "CosplayTele"
 }
