@@ -3638,6 +3638,10 @@
     "榜单列表": "List",
     "TOPYS": "TOPYS",
     "关键字": "Keyword",
+    "とらのあな": "Tora no Ana",
+    "総合新着記事": "General Information",
+    "女性向け": "Feminine",
+    "イラスト展": "Elasto Exhibition",
     "今日头条": "headline",
     "头条主页": "Headline Home",
     "Towards Data Science": "Towards Data Science",
@@ -3949,9 +3953,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "とらのあな": "Tora no Ana",
-    "総合新着記事": "General Information",
-    "女性向け": "Feminine",
-    "イラスト展": "Elasto Exhibition"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
