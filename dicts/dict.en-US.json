@@ -1074,7 +1074,6 @@
     "Latest contests": "Latest contests",
     "Recent actions": "Recent actions",
     "Cohere": "Cohere",
-    "CoinDesk Consensus Magazine": "CoinDesk Consensus Magazine",
     "新闻周刊": "Newsweek",
     "COLAMANGA": "COLAMANGA",
     "Manga": "Manga",
@@ -3603,6 +3602,7 @@
     "天高地厚": "the sky and the earth are thick (idiom); fig. generous in every sense of the word",
     "Oyster": "Oyster",
     "The Atlantic": "The Atlantic",
+    "TheBlock": "TheBlock",
     "律动 BlockBeats": "Rhythmic BlockBeats",
     "The Gradient": "The Gradient",
     "The Hindu": "The Hindu",
@@ -3964,5 +3964,14 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "TheBlock": "TheBlock"
+    "Blockworks": "Blockworks",
+    "Blockworks News": "Blockworks News",
+    "CoinDesk": "CoinDesk",
+    "CoinDesk News": "CoinDesk News",
+    "Cointelegraph": "Cointelegraph",
+    "Cointelegraph News": "Cointelegraph News",
+    "CryptoSlate": "CryptoSlate",
+    "CryptoSlate News": "CryptoSlate News",
+    "Decrypt": "Decrypt",
+    "Decrypt News": "Decrypt News"
 }
