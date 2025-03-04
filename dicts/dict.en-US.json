@@ -585,8 +585,6 @@
     "ArtStation": "ArtStation",
     "Artist Profolio": "Artist Profolio",
     "Asianfanfics": "Asianfanfics",
-    "asianfanfics标签": "asianfanfics label",
-    "asianfanfics关键词": "asianfanfics Keywords",
     "Asian to lick": "Asian to lick",
     "ASMR Online": "ASMR Online",
     "最新收录": "Latest Collections",
@@ -3972,5 +3970,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "关键词": "byword"
 }
