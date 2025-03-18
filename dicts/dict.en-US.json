@@ -1443,6 +1443,8 @@
     "Geek Insight 特稿系列": "Geek Insight Feature Article Series",
     "心科技": "telemedicine",
     "行业资讯": "Industry News",
+    "Gelbooru": "Gelbooru",
+    "标签查询": "Label Search",
     "格隆汇": "GloomHub",
     "最热文章": "Hottest Articles",
     "实时快讯": "Real Time Newsletters",
@@ -4000,7 +4002,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Gelbooru": "Gelbooru",
-    "标签查询": "Label Search"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
