@@ -7937,7 +7937,7 @@
         source:[ "/en/wxinfo/currwx/current.htm" ],
         target:"/hko/weather" } ] },
   "hkushop.com":{ _name:"Global Records (Hong Kong) Official Online Shop,HKU Shop Vinyl Zone",
-    ".":[ { title:"HKU Shop 黑胶专区",
+    ".":[ { title:"HKU Shop Vinyl Zone",
         docs:"https://docs.rsshub.app/routes/shopping",
         source:[ "/vinyl-or-picture-lp.html",
           "/" ],
