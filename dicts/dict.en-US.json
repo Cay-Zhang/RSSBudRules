@@ -3527,6 +3527,7 @@
     "科创板": "Growth Enterprise Markets (GEM)",
     "新三板": "New Third Board",
     "滚动": "roll over (e.g. investment)",
+    "热榜": "hot list",
     "Steam": "Steam",
     "Community Hub": "Community Hub",
     "Sharefile Changelog": "Sharefile Changelog",
@@ -4068,6 +4069,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "热榜": "hot list"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
