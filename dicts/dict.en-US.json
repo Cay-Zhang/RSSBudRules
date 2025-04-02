@@ -3185,6 +3185,7 @@
     "Today Popular": "Today Popular",
     "PlayStation Store": "PlayStation Store",
     "PlayStation Monthly Games": "PlayStation Monthly Games",
+    "节点": "Node",
     "Psyche": "Psyche",
     "公視新聞網": "Public Television News Network",
     "專題策展": "Theme Curatorship",
@@ -4084,10 +4085,12 @@
     "乐评": "Music Reviews",
     "影评": "Movie Reviews",
     "fengchang/readhub-rss": "fengchang/readhub-rss",
-    "节点": "Node",
     "喜马拉雅": "Himalaya",
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "PSN 中文站": "PSN Chinese Station",
+    "数折": "fractional part (e.g. decimal or Roman numeral)",
+    "闲游": "go sightseeing"
 }
