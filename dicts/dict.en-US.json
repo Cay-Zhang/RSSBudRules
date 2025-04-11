@@ -1892,6 +1892,8 @@
     "Hamel's Blog": "Hamel's Blog",
     "hameln": "hameln",
     "chapter": "chapter",
+    "Hanime1": "Hanime1",
+    "新番预告": "New Trailer",
     "Harvard Health Publishing": "Harvard Health Publishing",
     "Health Blog": "Health Blog",
     "hashnode": "hashnode",
@@ -4112,6 +4114,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "Hanime1": "Hanime1",
-    "新番预告": "New Trailer"
+    "News (from mobile client API)": "News (from mobile client API)"
 }
