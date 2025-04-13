@@ -356,6 +356,7 @@
     "ACG17": "ACG17",
     "全部文章": "All articles",
     "ACS Publications": "ACS Publications",
+    "最新文章": "Latest Articles",
     "American Economic Association": "American Economic Association",
     "Journal": "Journal",
     "AEON": "AEON",
@@ -758,7 +759,6 @@
     "暴雪游戏国服新闻": "Blizzard Games National Service News",
     "Blockworks": "Blockworks",
     "技术头条": "Tech Headlines",
-    "最新文章": "Latest Articles",
     "Bloomberg": "Bloomberg",
     "Authors": "Authors",
     "BlueStacks": "BlueStacks",
@@ -4115,5 +4115,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "广告门": "advertising door"
 }
