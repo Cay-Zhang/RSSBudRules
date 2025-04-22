@@ -17,6 +17,7 @@
     "慢慢说": "speak slowly",
     "道听途说": "rumor",
     "展会资讯": "Exhibition Information",
+    "10000万联网": "10,000,000 Networking",
     "新闻": "News",
     "同花顺财经": "Flush Finance",
     "全部": "full",
@@ -364,6 +365,7 @@
     "AEON": "AEON",
     "Categories": "Categories",
     "Types": "Types",
+    "Blog": "Blog",
     "The Australian Financial Review": "The Australian Financial Review",
     "Navigation": "Navigation",
     "AGE 动漫": "AGE Anime",
@@ -666,7 +668,6 @@
     "智源社区 - 活动": "Wisdom Source Community - Events",
     "智源社区": "Jiyuan Community",
     "Backlinko": "Backlinko",
-    "Blog": "Blog",
     "百度": "Baidu",
     "首页指数": "Home Index",
     "帖子动态": "Post dynamics",
@@ -4125,5 +4126,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "10000万联网": "10,000,000 Networking"
+    "AFL-CIO": "AFL-CIO"
 }
