@@ -17,6 +17,7 @@
     "慢慢说": "speak slowly",
     "道听途说": "rumor",
     "展会资讯": "Exhibition Information",
+    "新闻": "News",
     "同花顺财经": "Flush Finance",
     "全部": "full",
     "重要": "critical",
@@ -317,7 +318,6 @@
     "MM 范": "MM Fan",
     "集合": "Assemblies",
     "A9VG 电玩部落": "A9VG Video Game Tribe",
-    "新闻": "News",
     "All": "All",
     "PS4": "PS4",
     "PS5": "PS5",
@@ -4124,5 +4124,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "10000万联网": "10,000,000 Networking"
 }
