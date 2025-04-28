@@ -8936,7 +8936,7 @@
         docs:"https://docs.rsshub.app/routes/other",
         source:[ "/allnews" ],
         target:"/ielts/" } ],
-    jlpt:[ { title:"Japanese Language Proficiency Test (JLPT) Notice",
+    jlpt:[ { title:"Japanese Language Proficiency Test JLPT Notice",
         docs:"https://docs.rsshub.app/routes/study",
         source:[ "/" ],
         target:"/neea/jlpt" } ] },
