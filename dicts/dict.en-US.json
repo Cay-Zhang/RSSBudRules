@@ -4106,6 +4106,8 @@
     "星球": "celestial body (e.g. planet, satellite etc)",
     "用户足迹": "user footprint",
     "中南财经政法大学": "Zhongnan University of Economics and Law",
+    "知轩藏书": "Zhixuan Collection",
+    "小说列表": "Novel List",
     "仓库 Commits": "Repo Commits",
     "仓库讨论": "Repo Discussions",
     "Reddit": "Reddit",
@@ -4127,7 +4129,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "知轩藏书": "Zhixuan Collection",
-    "小说列表": "Novel List"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
