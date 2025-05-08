@@ -3343,6 +3343,8 @@
     "ResearchGate": "ResearchGate",
     "Reuters": "Reuters (name)",
     "Category/Topic/Author": "Category/Topic/Author",
+    "Radio France Internationale": "Radio France Internationale",
+    "Generic News": "Generic News",
     "Rodong Sinmun 劳动新闻": "Rodong Sinmun Labor News",
     "Routledge": "Routledge",
     "RSSHub": "RSSHub",
@@ -4168,7 +4170,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Radio France Internationale": "Radio France Internationale",
-    "Generic News": "Generic News"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
