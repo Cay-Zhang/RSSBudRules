@@ -1219,6 +1219,8 @@
     "CPUID": "CPUID",
     "重庆燃气": "Chongqing Gas",
     "停气检修通知": "Gas shutdown notice",
+    "中国无线电协会业余无线电分会": "Radio Association of China Amateur Radio Section",
+    "考试信息": "Exam Information",
     "CCC 創作集": "CCC Creative Writing Collection",
     "Crossbell": "Crossbell",
     "Notes of character": "Notes of character",
@@ -2008,6 +2010,7 @@
     "党群工作 - 党建工作": "Party Group Work - Party Building Work",
     "党群工作 - 工会工作": "Party Work - Labor Union Work",
     "Huggingface": "Huggingface",
+    "Community Articles": "Community Articles",
     "中文博客": "Chinese Blog",
     "英文博客": "English Blog",
     "Daily Papers": "Daily Papers",
@@ -4144,7 +4147,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "中国无线电协会业余无线电分会": "Radio Association of China Amateur Radio Section",
-    "考试信息": "Exam Information",
-    "Community Articles": "Community Articles"
+    "再漫画": "reminiscent of"
 }
