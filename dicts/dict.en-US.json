@@ -1503,8 +1503,8 @@
     "快猫星云博客": "Fast Cat Nebula Blog",
     "飞客茶馆": "Flyers Tea House",
     "信用卡": "Credit Card",
-    "优惠信息": "Offer Information",
     "会员说": "members say",
+    "优惠信息": "Offer Information",
     "Follow": "Follow",
     "User subscriptions": "User subscriptions",
     "Followin": "Followin",
@@ -3343,7 +3343,6 @@
     "ResearchGate": "ResearchGate",
     "Reuters": "Reuters (name)",
     "Category/Topic/Author": "Category/Topic/Author",
-    "Radio France Internationale 法国国际广播电台": "Radio France Internationale",
     "Rodong Sinmun 劳动新闻": "Rodong Sinmun Labor News",
     "Routledge": "Routledge",
     "RSSHub": "RSSHub",
@@ -4169,5 +4168,7 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Radio France Internationale": "Radio France Internationale",
+    "Generic News": "Generic News"
 }
