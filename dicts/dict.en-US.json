@@ -3964,6 +3964,8 @@
     "VisionIAS": "VisionIAS",
     "News Today": "News Today",
     "Weekly Focus": "Weekly Focus",
+    "Visual Studio": "Visual Studio",
+    "Code Blog": "Code Blog",
     "方格子": "Square grid",
     "出版專題": "Publication Topics",
     "Voice of Mongolia": "Voice of Mongolia",
@@ -4185,7 +4187,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Visual Studio": "Visual Studio",
-    "Code Blog": "Code Blog"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
