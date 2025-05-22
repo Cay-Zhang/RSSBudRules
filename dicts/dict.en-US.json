@@ -625,6 +625,7 @@
     "App Update": "App Update",
     "Price Drop": "Price Drop",
     "Exchange and Repair Extension Programs": "Exchange and Repair Extension Programs",
+    "Security releases": "Security releases",
     "播客": "Podcast",
     "AppleInsider": "AppleInsider",
     "AppStare": "AppStare",
@@ -4123,6 +4124,7 @@
     "前端早早聊": "Front-end early chat",
     "站酷": "Station Cool",
     "用户作品": "user generated work",
+    "Zed": "Zed",
     "直播吧": "Live Streaming Bar",
     "知乎": "Knowing",
     "用户全部收藏内容": "All user favorites",
@@ -4188,7 +4190,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Security releases": "Security releases",
-    "Zed": "Zed"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
