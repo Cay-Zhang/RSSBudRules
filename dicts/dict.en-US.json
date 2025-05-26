@@ -2355,6 +2355,8 @@
     "LeetCode": "LeetCode",
     "雷峰网": "Leifeng.com",
     "业界资讯": "Industry News",
+    "联想": "associate (cognitively)",
+    "驱动": "drive (vehicle wheel)",
     "Lens": "Lens",
     "Lens Profile": "Lens Profile",
     "旅法师营地": "Traveling Mage Camp",
@@ -4199,7 +4201,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "联想": "associate (cognitively)",
-    "驱动": "drive (vehicle wheel)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
