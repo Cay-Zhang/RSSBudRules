@@ -711,6 +711,8 @@
     "Bandcamp": "Bandcamp",
     "Upcoming Live Streams": "Upcoming Live Streams",
     "Weekly": "Weekly",
+    "Bandisoft": "Bandisoft",
+    "History": "History",
     "萌番组": "Moe Fan Group",
     "アニメ新番組": "Anime New Group",
     "當季新番": "Current Season",
@@ -2748,6 +2750,8 @@
     "按主要工艺 - 其他": "By Major Process - Others",
     "美团": "Meituan (Japanese company)",
     "技术团队博客": "Technical Team Blog",
+    "Meta": "Meta",
+    "AI Blog": "AI Blog",
     "Meteor": "Meteor",
     "看板列表": "Kanban List",
     "小米": "millet",
@@ -4204,9 +4208,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Bandisoft": "Bandisoft",
-    "History": "History",
-    "Meta": "Meta",
-    "AI Blog": "AI Blog"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
