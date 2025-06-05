@@ -1174,6 +1174,7 @@
     "Civitai": "Civitai",
     "Model discussions": "Model discussions",
     "Latest models": "Latest models",
+    "User Article": "User Article",
     "刺猬猫": "hedgehog (Cynops orientalis)",
     "China Jiliang University": "China Jiliang University",
     "研究生通知": "Graduate student notification",
@@ -1737,6 +1738,7 @@
     "综合政务 - 财务预算管理": "Integrated Government Services - Financial and Budgetary Management",
     "综合政务 - 其他": "General Government - Other",
     "综合政务 - 全国人大建议和政协提案复文公开": "Comprehensive government affairs - Openness of replies to NPC recommendations and CPPCC proposals",
+    "拍卖信息 / 海关法规 / 最新文件": "Auction Information / Customs Regulations / Latest Documents",
     "广东省内城市预警信号": "Warning signals for cities in Guangdong Province",
     "突发性天气提示": "Sudden Weather Tips",
     "政务服务公开": "Disclosure of government services",
@@ -4210,7 +4212,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "User Article": "User Article",
-    "拍卖信息 / 海关法规 / 最新文件": "Auction Information / Customs Regulations / Latest Documents"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
