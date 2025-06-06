@@ -725,7 +725,11 @@
     "条目的通用路由格式": "Common routing format for entries",
     "用户日志": "User Log",
     "Bangumi 用户收藏列表": "Bangumi User Favorites List",
+    "半月谈": "Half-Monthly Talk (PRC newspaper)",
+    "今日谈": "discussion today",
+    "时政讲解": "Current Affairs",
     "评论": "commentaries",
+    "基层治理": "grassroots governance",
     "文化": "cultures",
     "BaoBua": "BaoBua",
     "Search": "Search",
@@ -4218,9 +4222,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "半月谈": "Half-Monthly Talk (PRC newspaper)",
-    "今日谈": "discussion today",
-    "时政讲解": "Current Affairs",
-    "基层治理": "grassroots governance"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
