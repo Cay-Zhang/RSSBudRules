@@ -2436,6 +2436,10 @@
     "Magazine": "Magazine",
     "Malaysiakini": "Malaysiakini",
     "MangaDex": "MangaDex",
+    "Single Manga Feed": "Single Manga Feed",
+    "MDList Feed": "MDList Feed",
+    " Follows Feed": " Follows Feed",
+    "Logged User's Followed Mangas Feed": "Logged User's Followed Mangas Feed",
     "看漫画": "read comics",
     "漫画个人订阅": "Manga Personal Subscription",
     "ManyVids": "ManyVids",
@@ -4214,9 +4218,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Single Manga Feed": "Single Manga Feed",
-    "MDList Feed": "MDList Feed",
-    " Follows Feed": " Follows Feed",
-    "Logged User's Followed Mangas Feed": "Logged User's Followed Mangas Feed"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
