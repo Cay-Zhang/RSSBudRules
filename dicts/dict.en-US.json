@@ -725,6 +725,8 @@
     "条目的通用路由格式": "Common routing format for entries",
     "用户日志": "User Log",
     "Bangumi 用户收藏列表": "Bangumi User Favorites List",
+    "评论": "commentaries",
+    "文化": "cultures",
     "BaoBua": "BaoBua",
     "Search": "Search",
     "宝玉": "treasures",
@@ -3653,7 +3655,6 @@
     "学院新闻": "College News",
     "证券时报网": "SecuritiesTimes.com",
     "股市": "online broker",
-    "评论": "commentaries",
     "产经": "menstruation",
     "科创板": "Growth Enterprise Markets (GEM)",
     "新三板": "New Third Board",
@@ -4000,7 +4001,6 @@
     "身份": "dignity",
     "政治": "politically",
     "社会": "societies",
-    "文化": "cultures",
     "经济": "economics",
     "环境": "matrix",
     "FUN": "FUN",
@@ -4218,5 +4218,9 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "半月谈": "Half-Monthly Talk (PRC newspaper)",
+    "今日谈": "discussion today",
+    "时政讲解": "Current Affairs",
+    "基层治理": "grassroots governance"
 }
