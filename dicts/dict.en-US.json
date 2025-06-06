@@ -747,6 +747,8 @@
     "New Releases": "New Releases",
     "本地宝": "Local Treasure",
     "焦点资讯": "Focus Information",
+    "BFL AI": "BFL AI",
+    "Announcements": "Announcements",
     "BigQuant": "BigQuant",
     "专题报告": "Special Reports",
     "哔哩哔哩 bilibili": "Bilibili bilibili",
@@ -4213,6 +4215,8 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "BFL AI": "BFL AI",
-    "Announcements": "Announcements"
+    "Single Manga Feed": "Single Manga Feed",
+    "MDList Feed": "MDList Feed",
+    " Follows Feed": " Follows Feed",
+    "Logged User's Followed Mangas Feed": "Logged User's Followed Mangas Feed"
 }
