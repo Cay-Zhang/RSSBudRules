@@ -2042,6 +2042,8 @@
     "图书馆": "library",
     "网络信息中心": "Network Information Center",
     "环球网": "Global Network",
+    "华为开发者联盟": "Huawei Developer Alliance",
+    "HarmonyOS 示例代码": "HarmonyOS Sample Code",
     "湖北大学": "Hubei University",
     "学术预告": "Academic Preview",
     "新闻动态": "News",
@@ -4222,7 +4224,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "华为开发者联盟": "Huawei Developer Alliance",
-    "HarmonyOS 示例代码": "HarmonyOS Sample Code"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
