@@ -2458,6 +2458,10 @@
     "Update": "Update",
     "Magnum Photos": "Magnum Photos",
     "Magazine": "Magazine",
+    "MakerWorld": "MakerWorld",
+    "Contests": "Contests",
+    "Trending Models": "Trending Models",
+    "User Uploads": "User Uploads",
     "Malaysiakini": "Malaysiakini",
     "MangaDex": "MangaDex",
     "Single Manga Feed": "Single Manga Feed",
@@ -4256,8 +4260,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "MakerWorld": "MakerWorld",
-    "Contests": "Contests",
-    "Trending Models": "Trending Models",
-    "User Uploads": "User Uploads"
+    "Cockroach Labs": "Cockroach Labs"
 }
