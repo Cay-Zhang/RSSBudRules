@@ -2426,6 +2426,8 @@
     "LINE": "LINE",
     "TODAY - Channel": "TODAY - Channel",
     "TODAY": "TODAY",
+    "LineageOS": "LineageOS",
+    "Changes": "Changes",
     "Link3": "Link3",
     "Link3 Events": "Link3 Events",
     "Link3 Profile": "Link3 Profile",
@@ -4281,7 +4283,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "LineageOS": "LineageOS",
-    "Changes": "Changes"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
