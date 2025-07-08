@@ -1289,6 +1289,9 @@
     "CryptoSlate": "CryptoSlate",
     "CSDN": "CSDN",
     "User Feed": "User Feed",
+    "CSS-Tricks": "CSS-Tricks",
+    "CSS Guides": "CSS Guides",
+    "Popular this month": "Popular this month",
     "中南大学": "Central South University",
     "就业信息网招聘信息": "Employment Information Network Job Information",
     "重庆工商大学": "Chongqing Gongshang University",
@@ -4293,8 +4296,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "CSS-Tricks": "CSS-Tricks",
-    "CSS Guides": "CSS Guides",
-    "Popular this month": "Popular this month"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
