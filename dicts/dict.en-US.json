@@ -1673,6 +1673,7 @@
     "User Followers": "User Followers",
     "Repo Issues": "Repo Issues",
     "Notifications": "Notifications",
+    "User's Feed": "User's Feed",
     "Repo Pull Requests": "Repo Pull Requests",
     "Repo Pulse": "Repo Pulse",
     "User Repo": "User Repo",
@@ -4332,6 +4333,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "User's Feed": "User's Feed"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
