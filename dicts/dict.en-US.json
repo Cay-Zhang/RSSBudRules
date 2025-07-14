@@ -2984,6 +2984,7 @@
     "东北大学": "Tohoku University",
     "新华社": "Xinhua News Agency",
     "新华社新闻": "Xinhua News",
+    "Podcast": "podcast",
     "上下游 News&Market": "Upstream & Downstream News&Market",
     "New Yorker": "New Yorker",
     "NEW 字幕组": "NEW Subtitles Team",
@@ -3652,7 +3653,6 @@
     "云谦的博客": "Yunqian's Blog",
     "希望之声": "Voices of Hope",
     "SoundOn": "SoundOn",
-    "Podcast": "podcast",
     "SpankBang": "SpankBang",
     "New Porn Videos": "New Porn Videos",
     "S&P Global": "S&P Global",
@@ -4334,5 +4334,12 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Newslaundry": "Newslaundry",
+    "Explainer": "Explainer",
+    "Explains": "Explains",
+    "NL Collaboration": "NL Collaboration",
+    "Reports": "Reports",
+    "Shot": "Shot",
+    "Subscriber Only": "Subscriber Only"
 }
