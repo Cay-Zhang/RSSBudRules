@@ -17540,7 +17540,7 @@
           "/" ],
         target:"/unusualwhales/news" } ] },
   "upc.edu.cn":{ _name:"China University of Petroleum (East China)",
-    jwc:[ { title:"Academic Affairs Office Announcement",
+    jwc:[ { title:"Academic Affairs Office",
         docs:"https://docs.rsshub.app/routes/university",
         source:[ "/",
           "/:type/list.htm" ],
