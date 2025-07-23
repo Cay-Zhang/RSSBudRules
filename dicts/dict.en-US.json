@@ -3014,6 +3014,7 @@
     "Shot": "Shot",
     "Subscriber Only": "Subscriber Only",
     "上下游 News&Market": "Upstream & Downstream News&Market",
+    "Newswav": "Newswav",
     "New Yorker": "New Yorker",
     "NEW 字幕组": "NEW Subtitles Team",
     "指定剧集": "Designated episodes",
@@ -4363,6 +4364,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Newswav": "Newswav"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
