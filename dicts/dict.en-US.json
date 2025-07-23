@@ -884,6 +884,8 @@
     "财新周刊": "Caixin Weekly (financial magazine)",
     "Caixin Global": "Caixin Global",
     "中国管理现代化研究会": "China Society for Management Modernization (CSMMS)",
+    "Insights": "Insights",
+    "Podcasts": "Podcasts",
     "Cara": "Cara",
     "Likes": "Likes",
     "Portfolio": "Portfolio",
@@ -2399,7 +2401,6 @@
     "The Korea Herald": "The Korea Herald",
     "Kovid's software projects": "Kovid's software projects",
     "KPMG": "KPMG",
-    "Insights": "Insights",
     "kpopping": "kpopping",
     "Pics": "Pics",
     "快递 100": "Express delivery 100",
@@ -3503,7 +3504,6 @@
     "First Release": "First Release",
     "科学网": "Science.com",
     "Scientific American": "Scientific American",
-    "Podcasts": "Podcasts",
     "Science Quickly": "Science Quickly",
     "Uncertain": "Uncertain",
     "Corona Virus Disease 2019": "Corona Virus Disease 2019",
@@ -4364,5 +4364,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Capitalmind": "Capitalmind"
 }
