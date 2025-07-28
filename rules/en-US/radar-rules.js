@@ -14720,7 +14720,7 @@
     ".":[ { title:"podcast",
         docs:"https://docs.rsshub.app/routes/multimedia",
         source:[ "/channels/:id" ],
-        target:"/qingting/podcast/:id/:pageSize?" } ] },
+        target:"/qingting/podcast/:id" } ] },
   "qipamaijia.com":{ _name:"Oddball buyers show",
     ".":[ { title:"Channel",
         docs:"https://docs.rsshub.app/routes/picture",
