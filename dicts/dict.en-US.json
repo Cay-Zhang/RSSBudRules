@@ -4386,5 +4386,13 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "TiDB 社区": "TiDB Community",
+    "专栏分类": "Column classification",
+    "管理与运维": "Management & Operations",
+    "实践案例": "Practical Cases",
+    "架构选型": "Architecture Selection",
+    "原理解读": "explain the principles",
+    "应用开发": "application development",
+    "社区动态": "Community Dynamics"
 }
