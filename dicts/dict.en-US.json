@@ -1483,6 +1483,8 @@
     "Filtro": "Filtro",
     "二柄 APP": "Two-handle APP",
     "Digital Camera World": "Digital Camera World",
+    "Digital Policy Alert": "Digital Policy Alert",
+    "Activity Tracker": "Activity Tracker",
     "盯梢": "follow sb.",
     "频道": "Channel",
     "Discord": "Discord",
@@ -2937,6 +2939,8 @@
     "Top 7 days": "Top 7 days",
     "Top 30 days": "Top 30 days",
     "Top 60 days": "Top 60 days",
+    "Massachusetts Institute of Technology": "Massachusetts Institute of Technology",
+    "HAN Lab Blog": "HAN Lab Blog",
     "MIUI": "MIUI",
     "小米社区用户发帖": "Xiaomi community users posting",
     "Mixcloud": "Mixcloud",
@@ -4444,9 +4448,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Digital Policy Alert": "Digital Policy Alert",
-    "Activity Tracker": "Activity Tracker",
-    "Massachusetts Institute of Technology": "Massachusetts Institute of Technology",
-    "HAN Lab Blog": "HAN Lab Blog"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
