@@ -1767,6 +1767,7 @@
     "Releases": "Releases",
     "Gist Commits": "Gist Commits",
     "Gitpod": "Gitpod",
+    "Users": "Users",
     "环球法律评论": "Global Law Review",
     "国门传媒在线": "State Gate Media Online",
     "中国海关": "China Customs",
@@ -3468,7 +3469,6 @@
     "PornHub": "PornHub",
     "Model": "Model",
     "Pornstar": "Pornstar",
-    "Users": "Users",
     "Postman": "Postman",
     "PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive": "PRINCESS CONNECT! Re Dive プリンセスコネクト!",
     "Product Hunt": "Product Hunt",
@@ -4460,5 +4460,9 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Gitstar Ranking": "Gitstar Ranking",
+    "Ranking": "Ranking",
+    "Organizations": "Organizations",
+    "Repositories": "Repositories"
 }
