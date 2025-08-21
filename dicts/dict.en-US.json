@@ -360,7 +360,11 @@
     "PC": "PC",
     "业界": "trades",
     "厂商": "company",
+    "夏柔": "Charlotte (name)",
     "每日新闻": "Mainichi Shimbun, a Japanese daily newspaper",
+    "新闻词文章数据": "Newsword article data",
+    "本平台同款自动发文章插件": "This platform with the same automatic post plugin",
+    "每天60秒读懂世界": "Read the world in 60 seconds a day",
     "論盡媒體 AllAboutMacau Media": "AllAboutMacau Media",
     "话题": "Topics",
     "ABC News": "ABC News",
@@ -4498,9 +4502,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "夏柔": "Charlotte (name)",
-    "新闻词文章数据": "Newsword article data",
-    "本平台同款自动发文章插件": "This platform with the same automatic post plugin",
-    "每天60秒读懂世界": "Read the world in 60 seconds a day"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
