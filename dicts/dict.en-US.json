@@ -1114,8 +1114,10 @@
     "政策/报告/标准 - 行业标准": "Policies/Reports/Standards - Industry Standards",
     "政策/报告/标准 - 行业政策": "Policies/Reports/Standards - Industry Policies",
     "政策/报告/标准 - 政策权威解读": "Policies/Reports/Standards - Authoritative Policy Interpretation",
+    "全球化智库": "Globalization think tanks",
     "动态": "Dynamic",
     "新闻动态": "News",
+    "媒体报道": "media report",
     "华中师范大学": "Huazhong Normal University",
     "就业信息": "Employment Information",
     "计算机学院": "School of Computer Science",
@@ -4514,7 +4516,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "全球化智库": "Globalization think tanks",
-    "媒体报道": "media report"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
