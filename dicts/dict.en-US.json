@@ -1114,6 +1114,8 @@
     "政策/报告/标准 - 行业标准": "Policies/Reports/Standards - Industry Standards",
     "政策/报告/标准 - 行业政策": "Policies/Reports/Standards - Industry Policies",
     "政策/报告/标准 - 政策权威解读": "Policies/Reports/Standards - Authoritative Policy Interpretation",
+    "动态": "Dynamic",
+    "新闻动态": "News",
     "华中师范大学": "Huazhong Normal University",
     "就业信息": "Employment Information",
     "计算机学院": "School of Computer Science",
@@ -2226,7 +2228,6 @@
     "HarmonyOS 示例代码": "HarmonyOS Sample Code",
     "湖北大学": "Hubei University",
     "学术预告": "Academic Preview",
-    "新闻动态": "News",
     "人才培养": "cultivation of talent",
     "人才培养 - 本科生教育": "Cultivation - Undergraduate Education",
     "人才培养 - 研究生教育": "Cultivation of Human Resources - Graduate Education",
@@ -3801,7 +3802,6 @@
     "Sketis | Website of Dr. Makarius Wenzel": "Sketis | Website of Dr. Makarius Wenzel",
     "Isabelle Development Blogs": "Isabelle Development Blogs",
     "慢雾科技": "Slow Mist Technology",
-    "动态": "Dynamic",
     "SmartLink": "SmartLink",
     "Smashing Magazine": "Smashing Magazine",
     "什么值得买": "SMZDM",
@@ -4514,5 +4514,7 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "全球化智库": "Globalization think tanks",
+    "媒体报道": "media report"
 }
