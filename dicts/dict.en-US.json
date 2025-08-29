@@ -1302,6 +1302,7 @@
     "China Jiliang University": "China Jiliang University",
     "研究生通知": "Graduate student notification",
     "教师通知": "Teacher notification",
+    "cline": "cline",
     "财联社": "Financial News Service",
     "热门文章排行榜": "Top Articles",
     "电报": "Telegrams",
@@ -4520,6 +4521,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "cline": "cline"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
