@@ -1636,6 +1636,7 @@
     "ESPN": "ESPN",
     "Esquire Hong Kong": "Esquire Hong Kong",
     "歐洲動態（國際）": "European Dynamics (International)",
+    "Events": "Events",
     "Eventernote": "Eventernote",
     "声优活动及演唱会": "Voice Actor Events and Concerts",
     "EVERIA.CLUB": "EVERIA.CLUB",
@@ -2631,7 +2632,6 @@
     "龙腾网": "DragonNet",
     "网站翻译": "Website translation",
     "LuMa": "LuMa",
-    "Events": "Events",
     "洛谷": "Luo Gu",
     "比赛列表": "Competition List",
     "日报": "Daily News",
@@ -4522,5 +4522,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Eventbrite": "Eventbrite"
 }
