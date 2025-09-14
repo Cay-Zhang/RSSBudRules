@@ -393,6 +393,7 @@
     "用户投稿": "User Contributions",
     "ACG17": "ACG17",
     "全部文章": "All articles",
+    "News": "News",
     "ACS Publications": "ACS Publications",
     "广告门": "advertising door",
     "案例库": "casebook",
@@ -644,7 +645,6 @@
     "Annual Reviews": "Annual Reviews",
     "Anthropic": "Anthropic",
     "Engineering": "Engineering",
-    "News": "News",
     "Research": "Research",
     "Anytxt Searcher": "Anytxt Searcher",
     "Release Notes": "Release Notes",
@@ -4568,5 +4568,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "ACG Vinyl - 黑胶": "ACG Vinyl - Vinyl"
 }
