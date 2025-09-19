@@ -1771,7 +1771,6 @@
     "预告": "teaser",
     "机组推荐": "Crew Recommendation",
     "广东外语外贸大学": "Guangdong University of Foreign Studies",
-    "新闻学院-学院新闻": "School of Journalism - School News",
     "广东工业大学": "Guangdong University of Technology",
     "极客公园": "Geek Park (PRC computer game company)",
     "综合报道": "consolidated report",
@@ -4591,5 +4590,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "新闻学院-新闻中心": "School of Journalism-News Center"
 }
