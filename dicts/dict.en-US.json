@@ -1398,6 +1398,8 @@
     "Notes of character": "Notes of character",
     "Notes": "Notes",
     "Notes of source": "Notes of source",
+    "CrushNinja": "CrushNinja",
+    "匿名投稿頁面": "Anonymous Submission Page",
     "CryptoSlate": "CryptoSlate",
     "CSDN": "CSDN",
     "User Feed": "User Feed",
@@ -4611,7 +4613,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "CrushNinja": "CrushNinja",
-    "匿名投稿頁面": "Anonymous Submission Page"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
