@@ -833,6 +833,7 @@
     "包子漫画": "Baozi Cartoon",
     "订阅漫画": "Subscribe to Comics",
     "巴伦周刊中文版": "Barron's China",
+    "BaseLang": "BaseLang",
     "BBC News Labs": "BBC News Labs",
     "爆料公社": "muckraking",
     "動態": "Dynamics",
@@ -4629,6 +4630,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "BaseLang": "BaseLang"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
