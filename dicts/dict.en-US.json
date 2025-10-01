@@ -19,6 +19,8 @@
     "慢慢说": "speak slowly",
     "道听途说": "rumor",
     "展会资讯": "Exhibition Information",
+    "0xxx.ws": "0xxx.ws",
+    "Source": "Source",
     "10000万联网": "10,000,000 Networking",
     "新闻": "News",
     "同花顺财经": "Flush Finance",
@@ -4633,7 +4635,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "0xxx.ws": "0xxx.ws",
-    "Source": "Source"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
