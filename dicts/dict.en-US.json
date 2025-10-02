@@ -2216,6 +2216,7 @@
     "今日哈工大": "HUST Today",
     "HITCON": "HITCON",
     "漏洞": "loophole",
+    "教务部": "Ministry of Education",
     "哈尔滨工业大学（威海）": "Harbin Institute of Technology (Weihai)",
     "今日工大 - 通知公告": "IIT Today - Notice",
     "珠海网": "Zhuhai.com",
@@ -3869,7 +3870,6 @@
     "按场地 - 演出更新": "By Venue - Show Updates",
     "上海大学": "Shanghai University",
     "国际部港澳台办公室": "International Department Hong Kong, Macau and Taiwan Office",
-    "教务部": "Ministry of Education",
     "校园看点": "What to see on campus",
     "水果派": "fruit pie",
     "四川农业大学": "Sichuan Agricultural University",
@@ -4635,5 +4635,7 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "哈尔滨工业大学（深圳）": "Harbin Institute of Technology (Shenzhen)",
+    "教务部教务学务与学位管理所有栏目": "Academic Affairs Academic Affairs and Degree Management All Sections of the Academic Affairs Department"
 }
