@@ -3370,6 +3370,8 @@
     "Onet": "Onet",
     "Cookbook": "Cookbook",
     "OpenWrt": "OpenWrt",
+    "Oak Ridge National Laboratory": "Oak Ridge National Laboratory",
+    "All News": "All News",
     "开源中国": "Open Source China",
     "强力推荐": "come highly recommended",
     "问答主题": "Question and Answer Topics",
@@ -4741,7 +4743,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Oak Ridge National Laboratory": "Oak Ridge National Laboratory",
-    "All News": "All News"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
