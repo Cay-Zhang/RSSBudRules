@@ -1348,6 +1348,7 @@
     "Codeforces": "Codeforces",
     "Latest contests": "Latest contests",
     "Recent actions": "Recent actions",
+    "cognition": "cognition",
     "Cohere": "Cohere",
     "CoinDesk": "CoinDesk",
     "新闻周刊": "Newsweek",
@@ -4740,6 +4741,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "cognition": "cognition"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
