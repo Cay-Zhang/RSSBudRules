@@ -10182,7 +10182,7 @@
         source:[ "/" ],
         target:"/hyperdash/top-traders" } ] },
   "arktca.com":{ _name:"Eagle Point Networks",
-    aneot:[ { title:"Periodicals",
+    aneot:[ { title:"one of the two latitude lines, Tropic of Capricorn or Tropic of Cancer",
         docs:"https://docs.rsshub.app/routes/game",
         source:[ "/" ],
         target:"/hypergryph/arknights/arktca" } ] },
