@@ -4745,5 +4745,12 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "个人中心长文": "Personal center long article",
+    "个人中心所有活动": "All activities in the Personal Center",
+    "个人中心帖子": "Personal Center Posts",
+    "个人中心评论": "Personal Center Comments",
+    "Organization Event": "Organization Event",
+    "Repository Event": "Repository Event",
+    "User Event": "User Event"
 }
