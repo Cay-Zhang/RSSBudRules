@@ -3194,6 +3194,7 @@
     "Activity": "Activity",
     "圖片": "Pictures",
     "MyGoPen": "MyGoPen",
+    "mymusic5 (MyMusicSheet)": "mymusic5 (MyMusicSheet)",
     "User Sheets": "User Sheets",
     "南开大学": "Nankai University (Tianjin)",
     "人工智能学院": "Artificial Intelligence Academy",
@@ -4774,6 +4775,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "mymusic5 (MyMusicSheet)": "mymusic5 (MyMusicSheet)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
