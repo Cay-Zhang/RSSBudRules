@@ -1399,6 +1399,8 @@
     "CPUID": "CPUID",
     "重庆燃气": "Chongqing Gas",
     "停气检修通知": "Gas shutdown notice",
+    "重庆大学": "Chongqing University",
+    "本科教学信息网通知": "Undergraduate Teaching Information Network Notice",
     "中国无线电协会业余无线电分会": "Radio Association of China Amateur Radio Section",
     "考试信息": "Exam Information",
     "CCC 創作集": "CCC Creative Writing Collection",
@@ -4892,7 +4894,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "重庆大学": "Chongqing University",
-    "本科教学信息网通知": "Undergraduate Teaching Information Network Notice"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
