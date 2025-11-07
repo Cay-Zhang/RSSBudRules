@@ -1379,6 +1379,11 @@
     "市场信息 - 百川": "Market Information - Baichuan",
     "市场信息 - 焦化市场信息": "Market Information - Coking Market Information",
     "市场信息 - 中国焦化信息": "Market Information - China Coking Information",
+    "首都师范大学": "Capital Normal University (CNU)",
+    "信息工程学院通知公告": "School of Information Engineering Notices",
+    "焦点关注": "Focus",
+    "教务处通知公示": "Faculty Senate Notification Public Notice",
+    "物理系院系新闻": "Department of Physics Faculty News",
     "生命科学学院通知公告": "College of Life Sciences Notices",
     "Cockroach Labs": "Cockroach Labs",
     "Codeforces": "Codeforces",
@@ -4946,10 +4951,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "首都师范大学": "Capital Normal University (CNU)",
-    "信息工程学院通知公告": "School of Information Engineering Notices",
-    "焦点关注": "Focus",
-    "教务处通知公示": "Faculty Senate Notification Public Notice",
-    "物理系院系新闻": "Department of Physics Faculty News"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
