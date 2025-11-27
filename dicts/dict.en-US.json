@@ -1638,6 +1638,7 @@
     "周边": "peripheral (computing)",
     "文具": "item of stationery (pen, pencil, eraser, pencil sharpener etc)",
     "官方": "official (relating a government office)",
+    "兴趣": "interest (desire know about sth)",
     "鲸闻": "whale news",
     "每日一言": "word of the day",
     "东莞理工学院": "Dongguan Institute of Technology",
@@ -5016,6 +5017,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "兴趣": "interest (desire know about sth)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
