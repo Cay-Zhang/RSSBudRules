@@ -994,6 +994,7 @@
     "Likes": "Likes",
     "Portfolio": "Portfolio",
     "Timeline": "Timeline",
+    "Keyword Search": "Keyword Search",
     "動漫狂": "Anime Mania",
     "中国科学院": "Chinese Academy of Sciences",
     "成果转化": "Result Translation",
@@ -1552,7 +1553,6 @@
     "特别策划": "special planning",
     "荐书": "recommend a book",
     "DBLP": "DBLP",
-    "Keyword Search": "Keyword Search",
     "DCFever": "DCFever",
     "新聞中心": "News Center",
     "測試報告": "Test Report",
@@ -5033,5 +5033,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Carousell": "Carousell"
 }
