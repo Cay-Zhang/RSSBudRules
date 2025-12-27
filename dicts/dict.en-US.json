@@ -1750,6 +1750,7 @@
     "传播学院通知公告": "School of Communication Announcements",
     "ACM Online-Judge contests list": "ACM Online-Judge contests list",
     "计算机科学与技术学院通知公告": "School of Computer Science and Technology Notices",
+    "本科创新创业教育网": "Undergraduate Innovation and Entrepreneurship Education Network",
     "数据科学与工程学院通知公告": "School of Data Science and Engineering Notices",
     "大夏书院通知公告": "Daxia Bookstore Notice",
     "地球科学学部通知公告": "Notices from the Department of Earth Sciences",
@@ -1757,6 +1758,7 @@
     "空间人工智能学院通知公告": "Spatial Artificial Intelligence Institute Notice",
     "光华书院通知公告": "Gwanghwa Shuyuan Notice",
     "历史学系通知公告": "Department of History Announcements",
+    "本科生交流通知": "Undergraduate Exchange Notification",
     "马克思主义学院通知公告": "Notices from the School of Marxism",
     "孟宪承书院通知公告": "Meng Xiancheng Shuyuan Notice",
     "药学院通知公告": "College of Pharmacy Notices",
@@ -5128,7 +5130,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "本科创新创业教育网": "Undergraduate Innovation and Entrepreneurship Education Network",
-    "本科生交流通知": "Undergraduate Exchange Notification"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
