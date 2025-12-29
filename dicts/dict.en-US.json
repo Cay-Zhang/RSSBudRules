@@ -878,6 +878,7 @@
     "会员购票务": "Membership Ticketing",
     "最新公告": "Latest Announcements",
     "Binance": "Binance",
+    "Announcement": "Announcement",
     "Binance数字货币及交易对上新": "Binance Digital Currency and Trading Pairs on New",
     "Bing": "Bing",
     "每日壁纸": "Daily Wallpaper",
@@ -893,7 +894,6 @@
     "Bitbucket": "Bitbucket",
     "Commits": "Commits",
     "Bitget": "Bitget",
-    "Announcement": "Announcement",
     "Bitmovin": "Bitmovin",
     "北京林业大学": "Beijing Forestry University",
     "研究生院培养动态": "Graduate School Training News",
@@ -5130,6 +5130,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "币安公告": "Coin Announcement"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
