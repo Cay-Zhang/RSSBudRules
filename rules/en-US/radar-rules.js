@@ -20736,7 +20736,7 @@
   "jlwater.com":{ _name:"Water shut-off notice",
     ".":[ { title:"Nanjing",
         docs:"https://docs.rsshub.app/routes/forecast",
-        source:[ "/portal/10000013",
+        source:[ "/portal/10000015",
           "/" ],
         target:"/tingshuitz/nanjing" } ] },
   "sz-water.com.cn":{ _name:"Water shut-off notice",
