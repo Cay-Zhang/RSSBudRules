@@ -653,6 +653,7 @@
     "Anthropic": "Anthropic",
     "Engineering": "Engineering",
     "Research": "Research",
+    "Frontier Red Team": "Frontier Red Team",
     "Anytxt Searcher": "Anytxt Searcher",
     "Release Notes": "Release Notes",
     "AP News": "AP News",
@@ -5131,6 +5132,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Frontier Red Team": "Frontier Red Team"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
