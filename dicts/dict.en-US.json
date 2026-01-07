@@ -3080,6 +3080,8 @@
     "Matters": "Matters",
     "Latest, heat, essence": "Latest, heat, essence",
     "Tags": "Tags.",
+    "Maven": "Maven",
+    "Maven Central Feed": "Maven Central Feed",
     "MDPI": "MDPI",
     "中国的中古": "Medieval China",
     "Medium": "Medium",
@@ -5135,7 +5137,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Maven": "Maven",
-    "Maven Central Feed": "Maven Central Feed"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
