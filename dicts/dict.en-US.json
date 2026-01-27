@@ -1532,6 +1532,7 @@
     "Squads": "Squads",
     "Most upvoted": "Most upvoted",
     "User Posts": "User Posts",
+    "DailyPush": "DailyPush",
     "道宣的窝": "Dawson's Nest",
     "推荐阅读文章": "Recommended Reading Articles",
     "Darwin Awards": "Darwin Awards",
@@ -5144,9 +5145,11 @@
     "郑大党委组织部": "Organization Department of the Party Committee of Zhengzhou University",
     "郑大党政办": "Party and Government Office of Zhengzhou University",
     "郑大教务部": "Academic Affairs Department at Zhengzhou University",
+    "郑大数学与统计学院": "School of Mathematics and Statistics, Zhengzhou University",
     "郑大人事部": "Personnel Department, Zheng University",
     "郑大社科院": "Zheng University School of Social Sciences (CASS)",
     "郑大学生处": "Zhengzhou University Office",
+    "郑大商学院": "Chengdu University Business School",
     "郑大党委统战部": "United Front Work Department of the Party Committee of Zhengzhou University",
     "郑大校长办": "Office of the President of Zhengzhou University",
     "郑大党委宣传部": "Publicity Department of Party Committee of Zhengzhou University",
@@ -5175,8 +5178,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "DailyPush": "DailyPush",
-    "郑大数学与统计学院": "School of Mathematics and Statistics, Zhengzhou University",
-    "郑大商学院": "Chengdu University Business School"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
