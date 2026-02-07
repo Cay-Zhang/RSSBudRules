@@ -4691,6 +4691,8 @@
     "Game's Changelog": "Game's Changelog",
     "Ratings & Reviews": "Ratings & Reviews",
     "Russian News Agency TASS": "Russian News Agency TASS",
+    "TCTMD": "TCTMD",
+    "Conference News": "Conference News",
     "TechCrunch": "TechCrunch",
     "深潮 TechFlow": "Shamchao TechFlow",
     "精选": "choice (product)",
@@ -5186,7 +5188,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "TCTMD": "TCTMD",
-    "Conference News": "Conference News"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
