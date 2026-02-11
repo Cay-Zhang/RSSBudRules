@@ -1797,6 +1797,7 @@
     "e 公司": "e Company",
     "Ekantipur / कान्तिपुर (Nepal)": "Ekantipur / कान्तिपुर (Nepal)",
     "Full Article RSS": "Full Article RSS",
+    "Releases": "Releases",
     "Elastic 中文社区": "Elastic Chinese Community",
     "电子发烧友": "fan of electronics",
     "资料": "particulars",
@@ -2010,7 +2011,6 @@
     "Trending": "Trending",
     "User Event": "User Event",
     "Wiki History": "Wiki History",
-    "Releases": "Releases",
     "Gist Commits": "Gist Commits",
     "GitKraken": "GitKraken",
     "Gitpod": "Gitpod",
@@ -5191,5 +5191,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "ElAmigos": "ElAmigos"
 }
