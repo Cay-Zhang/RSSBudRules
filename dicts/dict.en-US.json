@@ -1427,6 +1427,9 @@
     "Cointelegraph": "Cointelegraph",
     "COLAMANGA": "COLAMANGA",
     "Manga": "Manga",
+    "COMIC FUZ": "COMIC FUZ",
+    "杂志详情": "Magazine Details",
+    "漫画详情": "Manga Details",
     "Comics Kingdom": "Comics Kingdom",
     "Archive": "Archive",
     "康健": "good health",
@@ -3015,6 +3018,8 @@
     "驱动": "drive (vehicle wheel)",
     "Lens": "Lens",
     "Lens Profile": "Lens Profile",
+    "Le Phocéen": "Le Phocéen",
+    "Fil Info Le Phocéen (Chrono)": "Fil Info Le Phocéen (Chrono)",
     "Letterboxd": "Letterboxd",
     "User Watchlist": "User Watchlist",
     "旅法师营地": "Traveling Mage Camp",
@@ -5196,10 +5201,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "COMIC FUZ": "COMIC FUZ",
-    "杂志详情": "Magazine Details",
-    "漫画详情": "Manga Details",
-    "Le Phocéen": "Le Phocéen",
-    "Fil Info Le Phocéen (Chrono)": "Fil Info Le Phocéen (Chrono)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
