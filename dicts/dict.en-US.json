@@ -242,6 +242,8 @@
     "操作系统 - Windows 7": "Operating System - Windows 7",
     "操作系统 - Windows XP": "Operating System - Windows XP",
     "操作系统 - WinPE": "Operating System - WinPE",
+    "4chan": "4chan",
+    "Board's catalog": "Board's catalog",
     "4Gamers": "4Gamers",
     "Unknown": "Unknown",
     "主題": "Theme",
@@ -5201,7 +5203,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "4chan": "4chan",
-    "Board's catalog": "Board's catalog"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
