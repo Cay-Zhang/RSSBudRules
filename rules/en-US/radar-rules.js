@@ -5885,7 +5885,7 @@
         source:[ "/manga/:id" ],
         target:"/comic-fuz/manga/:id" } ] },
   "comic-walker.com":{ _name:"Kadocomi",
-    ".":[ { title:"Kadocomi (Kadocomi) Manga Details",
+    ".":[ { title:"Manga Details",
         docs:"https://docs.rsshub.app/routes/anime",
         source:[ "/detail/:id" ],
         target:"/comic-walker/manga/:id" } ] },
