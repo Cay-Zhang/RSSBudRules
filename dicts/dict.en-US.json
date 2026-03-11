@@ -1340,6 +1340,8 @@
     "China Jiliang University": "China Jiliang University",
     "研究生通知": "Graduate student notification",
     "教师通知": "Teacher notification",
+    "Claude": "Claude",
+    "Code Changelog": "Code Changelog",
     "cline": "cline",
     "Cloudflare Status": "Cloudflare Status",
     "Status": "Status",
@@ -5207,7 +5209,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Claude": "Claude",
-    "Code Changelog": "Code Changelog"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
