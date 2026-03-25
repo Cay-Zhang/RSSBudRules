@@ -1631,6 +1631,8 @@
     "DevolverDigital": "DevolverDigital",
     "Official Blogs": "Official Blogs",
     "Devtrium": "Devtrium",
+    "得物": "spoils",
+    "技术博客": "Technology Blog",
     "数字尾巴": "digital tail",
     "数码": "amount",
     "手机": "cell phone",
@@ -5211,7 +5213,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "得物": "spoils",
-    "技术博客": "Technology Blog"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
