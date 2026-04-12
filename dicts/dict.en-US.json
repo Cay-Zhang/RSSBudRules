@@ -1007,6 +1007,8 @@
     "信息工程研究所 第二研究室 处理架构组 知识库": "Institute of Information Engineering, Research Division II, Processing Architecture Group Knowledge Base",
     "中国科学技术协会": "China Association for Science and Technology",
     "Castanet": "Castanet",
+    "Castbox": "Castbox",
+    "Channels": "Channels",
     "全国翻译专业资格水平考试 (CATTI)": "National Translation Professional Qualification Test (CATTI)",
     "CATTI 考试消息": "CATTI Exam News",
     "中国农业大学": "China Agricultural University",
@@ -5231,7 +5233,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Castbox": "Castbox",
-    "Channels": "Channels"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
