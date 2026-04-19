@@ -22990,7 +22990,7 @@
         source:[ "/",
           "/notice/list.htm" ],
         target:"/zuel/notice" } ] },
-  "zxcs.info":{ _name:"Zhixuan Collection",
+  "zxcs.click":{ _name:"Zhixuan Collection",
     ".":[ { title:"Novel List",
         docs:"https://docs.rsshub.app/routes/reading",
         source:[ "/:type" ],
