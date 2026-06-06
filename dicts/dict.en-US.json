@@ -3039,6 +3039,8 @@
     "LeetCode": "LeetCode",
     "雷峰网": "Leifeng.com",
     "业界资讯": "Industry News",
+    "Le Monde": "Le Monde",
+    "News (English)": "News (English)",
     "联想": "associate (cognitively)",
     "驱动": "drive (vehicle wheel)",
     "Lens": "Lens",
@@ -5255,7 +5257,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Le Monde": "Le Monde",
-    "News (English)": "News (English)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
