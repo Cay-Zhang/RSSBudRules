@@ -2492,6 +2492,7 @@
     "计算机学院 - 通知公告": "School of Computer Science - Notice",
     "计算机学院 - 研究生通知": "School of Computing - Graduate Student Notices",
     "自动化学院": "school of automation",
+    "Temporary Exhibitions": "Temporary Exhibitions",
     "河北网络广播电视台": "Hebei Internet Radio and Television (HIRTV)",
     "农博士在行动": "Dr. Farmer in Action",
     "白话区块链": "Blockchain in Vernacular",
@@ -4445,7 +4446,6 @@
     "Shanghai Museum": "Shanghai Museum",
     "News & Announcements": "News & Announcements",
     "Shanxi Museum": "Shanxi Museum",
-    "Temporary Exhibitions": "Temporary Exhibitions",
     "上海文化广场": "Shanghai Culture Square",
     "节目列表": "Program List",
     "上海电力大学": "Shanghai Electric Power University (SEPU)",
@@ -5357,5 +5357,7 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Hebei Museum": "Hebei Museum",
+    "Shan Dong Museum": "Shandong Museum"
 }
