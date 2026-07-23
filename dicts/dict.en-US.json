@@ -6,7 +6,12 @@
     "深圳天气直播": "Shenzhen Weather Live",
     "网易公开课": "Netease Open Class",
     "用户发帖": "User Posting",
+    "电台节目": "Radio Program",
     "用户动态": "User dynamics",
+    "用户歌单": "User Playlists",
+    "歌手歌曲": "Artist Songs",
+    "歌手专辑": "Artist Albums",
+    "歌单歌曲": "Songs in the Playlist",
     "栏目": "Column",
     "精品课程": "boutique program",
     "人间": "Human",
@@ -5384,10 +5389,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "电台节目": "Radio Program",
-    "用户歌单": "User Playlists",
-    "歌手歌曲": "Artist Songs",
-    "歌手专辑": "Artist Albums",
-    "歌单歌曲": "Songs in the Playlist"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
