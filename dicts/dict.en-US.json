@@ -4811,6 +4811,8 @@
     "新京报": "Beijing news (newspaper)",
     "Bloomberg": "Bloomberg",
     "Authors": "Authors",
+    "BR-Klassik": "BR-Klassik",
+    "Aktuell (News & Kritik)": "Current (News & Reviews)",
     "caa.reviews": "caa.reviews",
     "Book Reviews": "Book Reviews",
     "Exhibition Reviews": "Exhibition Reviews",
@@ -5663,7 +5665,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "BR-Klassik": "BR-Klassik",
-    "Aktuell (News & Kritik)": "Current (News & Reviews)"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
