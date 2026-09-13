@@ -2799,6 +2799,8 @@
     "Presentations": "Presentations",
     "Instructables": "Instructables",
     "Projects": "Projects",
+    "Inuki Ichiba": "Inuki Ichiba",
+    "新着物件": "New Listings",
     "中国投资者网": "China Investor Network",
     "政策资讯 - 政策资讯": "Policy Information - Policy Information",
     "政策资讯 - 权威资讯": "Policy Information - Authority Information",
@@ -4402,6 +4404,7 @@
     "Reviews": "Reviews",
     "Telegram": "Telegram",
     "Telegram Blog": "Telegram Blog",
+    "Temposmart": "Temposmart",
     "腾讯": "Tencent (name)",
     "腾讯云开发者社区专栏": "Tencent Cloud Developer Community Column",
     "新型冠状病毒肺炎疫情实时追踪 - 中国本土数据统计": "Real-Time Tracking of the COVID-19 Outbreak - Statistics on Domestic Cases in China",
@@ -5679,8 +5682,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Inuki Ichiba": "Inuki Ichiba",
-    "新着物件": "New Listings",
-    "Temposmart": "Temposmart"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
