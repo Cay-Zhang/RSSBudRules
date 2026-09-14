@@ -1134,6 +1134,7 @@
     "话题": "Topics",
     "ABC News (Australian Broadcasting Corporation)": "ABC News (Australian Broadcasting Corporation)",
     "Channel & Topic": "Channel & Topic",
+    "新着物件": "New Listings",
     "A 姐分享": "Ms. A. Sharing",
     "存档列表 - NSFW": "List of Archives - NSFW",
     "存档列表": "archive list",
@@ -2800,7 +2801,6 @@
     "Instructables": "Instructables",
     "Projects": "Projects",
     "Inuki Ichiba": "Inuki Ichiba",
-    "新着物件": "New Listings",
     "中国投资者网": "China Investor Network",
     "政策资讯 - 政策资讯": "Policy Information - Policy Information",
     "政策资讯 - 权威资讯": "Policy Information - Authority Information",
@@ -5682,5 +5682,11 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "ABC Tenpo": "ABC Tenpo",
+    "Bukenavi": "Bukenavi",
+    "Inshokuten.com": "Inshokuten.com",
+    "iri-search": "iri-search",
+    "Sonomama": "Sonomama",
+    "Tenant Shop Network": "Tenant Shop Network"
 }
