@@ -1153,6 +1153,7 @@
     "Insight - Longer reads": "Insight - Longer reads",
     "Insight - Videos and podcasts": "Insight - Videos and podcasts",
     "AcFun": "AcFun",
+    "用户文章": "User Articles",
     "用户投稿": "User Contributions",
     "ACG Vinyl - 黑胶": "ACG Vinyl - Vinyl",
     "ACS Publications": "ACS Publications",
@@ -3022,7 +3023,6 @@
     "自由時報": "Liberty Times",
     "自由軍武頻道": "Free Military Weapons Channel",
     "洛谷": "Luo Gu",
-    "用户文章": "User Articles",
     "比赛列表": "Competition List",
     "日报": "Daily News",
     "罗磊的独立博客": "Luo Lei's Independent Blog",
@@ -4409,6 +4409,7 @@
     "Reviews": "Reviews",
     "Telegram": "Telegram",
     "Telegram Blog": "Telegram Blog",
+    "Temponw": "Temponw",
     "Temposmart": "Temposmart",
     "Tenant Shop Network": "Tenant Shop Network",
     "腾讯": "Tencent (name)",
@@ -5689,5 +5690,6 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "Temponw": "Temponw"
+    "エリア別賃料相場": "Average Rents by Area",
+    "賃料相場": "Market Rent Rates"
 }
