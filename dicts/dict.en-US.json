@@ -238,6 +238,8 @@
     "Kotlin": "Kotlin",
     "Dart": "Dart",
     "领域咨询": "Domain Consulting",
+    "気象庁 Japan Meteorological Agency": "Japan Meteorological Agency",
+    "天気図": "Weather Map",
     "Jones Lang LaSalle": "Jones Lang LaSalle",
     "Trends & Insights": "Trends & Insights",
     "Latest": "Latest",
@@ -5704,7 +5706,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "気象庁 Japan Meteorological Agency": "Japan Meteorological Agency",
-    "天気図": "Weather Map"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
