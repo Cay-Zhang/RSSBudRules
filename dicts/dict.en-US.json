@@ -1205,6 +1205,7 @@
     "人工智能学院": "Artificial Intelligence Academy",
     "安徽建筑大学": "Anhui University of Architecture",
     "通知公告": "Notice",
+    "Special Exhibition": "Special Exhibition",
     "安徽医科大学": "Anhui Medical University",
     "研究生学院通知公告": "Graduate School Notices and Announcements",
     "安徽科技工程大学": "Anhui University of Science and Technology",
@@ -4375,7 +4376,6 @@
     "西南财经大学": "Southwest University of Finance and Economics",
     "经济信息工程学院": "School of Economic Information Engineering",
     "Shaanxi History Museum": "Shaanxi History Museum",
-    "Special Exhibition": "Special Exhibition",
     "中山大学": "Sun Yat-sen University",
     "数据科学与计算机学院动态": "News from the School of Data Science and Computing",
     "粤港澳发展研究院": "Guangdong, Hong Kong and Macao Development Institute",
@@ -5716,5 +5716,7 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Anhui Museum": "Anhui Museum",
+    "安博新闻": "Ambo News"
 }
