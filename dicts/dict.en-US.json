@@ -2950,6 +2950,8 @@
     "Kiro": "Kiro",
     "KISS": "KISS",
     "ブログ": "Blog",
+    "Komica": "Komica",
+    "討論板": "Discussion Board",
     "Kong API 网关平台": "Kong API Gateway Platform",
     "博客最新文章": "Blog Latest Posts",
     "The Korea Herald": "The Korea Herald",
@@ -5671,6 +5673,7 @@
     "Bullets": "Bullets",
     "Most Viewed": "Most Viewed",
     "Trending Topic": "Trending Topic",
+    "Fortnite": "Fortnite",
     "pixiv": "pixiv",
     "User Bookmark": "User Bookmark",
     "Following timeline": "Following timeline",
@@ -5721,8 +5724,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Komica": "Komica",
-    "討論板": "Discussion Board",
-    "Fortnite": "Fortnite"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
