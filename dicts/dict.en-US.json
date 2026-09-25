@@ -490,6 +490,8 @@
     "Pinterest": "Pinterest",
     "蜻蜓 FM": "Dragonfly FM",
     "播客": "Podcast",
+    "Rockstar Games": "Rockstar Games",
+    "Newswire": "Newswire",
     "Skebetter": "Skebetter",
     "Illust - Hot": "Illust - Hot",
     "Illust - Week": "Illust - Week",
@@ -5183,6 +5185,7 @@
     "中华人民共和国交通运输部": "Ministry of Transport of the People's Republic of China",
     "交通要闻": "Transportation News",
     "时政要闻": "Current Affairs",
+    "预警提示": "Alert Notice",
     "中华人民共和国国家发展和改革委员会": "National Development and Reform Commission of the People's Republic of China",
     "发展改革工作": "Development reform work",
     "机关办公 - 业务工作": "Office - Operations",
@@ -5723,8 +5726,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Rockstar Games": "Rockstar Games",
-    "Newswire": "Newswire",
-    "预警提示": "Alert Notice"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
