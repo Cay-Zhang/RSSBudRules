@@ -4479,6 +4479,8 @@
     "The Hindu": "The Hindu",
     "The Verge": "The Verge",
     "Thinking Machines Lab": "Thinking Machines Lab",
+    "Threads": "Threads",
+    "Post & Replies": "Posts & Replies",
     "TiDB 社区": "TiDB Community",
     "专栏分类": "Column classification",
     "管理与运维": "Management & Operations",
@@ -5734,7 +5736,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Threads": "Threads",
-    "Post & Replies": "Posts & Replies"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
