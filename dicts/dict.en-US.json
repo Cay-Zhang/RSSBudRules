@@ -2952,6 +2952,7 @@
     "Kong API 网关平台": "Kong API Gateway Platform",
     "博客最新文章": "Blog Latest Posts",
     "The Korea Herald": "The Korea Herald",
+    "Kosmo Foto": "Kosmo Foto",
     "Kovid's software projects": "Kovid's software projects",
     "Koyso": "Koyso",
     "全部游戏": "All Games",
@@ -5702,6 +5703,7 @@
     "Custom URL": "Custom URL",
     "Subscriptions": "Subscriptions",
     "Channel with id": "Channel with id",
+    "Shows": "Shows",
     "Channel with user handle": "Channel with user handle",
     "Home latest timeline": "Home latest timeline",
     "Home timeline": "Home timeline",
@@ -5735,7 +5737,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Kosmo Foto": "Kosmo Foto",
-    "Shows": "Shows"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
