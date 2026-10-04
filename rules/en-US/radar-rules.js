@@ -20266,7 +20266,7 @@
     www:[ { title:"Articles and News",
         docs:"https://docs.rsshub.app/routes/programming",
         source:[ "/" ],
-        target:"/xmlcom/" } ] },
+        target:"/xml/" } ] },
   "xmnn.cn":{ _name:"Xiamen.com",
     epaper:[ { title:"Digital Media",
         docs:"https://docs.rsshub.app/routes/traditional-media",
