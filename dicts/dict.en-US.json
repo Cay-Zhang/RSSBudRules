@@ -579,6 +579,7 @@
     "EVERIA.CLUB": "EVERIA.CLUB",
     "Images with category": "Images with category",
     "Images with tag": "Images with tag",
+    "Facebook": "Facebook",
     "Fantia": "Fantia",
     "User Posts": "User Posts",
     "风之动漫": "Wind Animation",
@@ -2410,8 +2411,6 @@
     "F-Droid": "F-Droid",
     "F95zone": "F95zone",
     "Thread": "Thread",
-    "Facebook": "Facebook",
-    "Page": "Page",
     "ファミ通": "Fax",
     "中房网": "China Housing Network",
     "列表": "listings",
@@ -4861,6 +4860,7 @@
     "News (from mobile client API)": "News (from mobile client API)",
     "Asian to lick": "Asian to lick",
     "Top rated": "Top-Rated",
+    "Page": "Page",
     "Bangumi 番组计划": "Bangumi Project",
     "Bangumi 用户收藏列表": "Bangumi User Favorites List",
     "放送列表": "Release List",
@@ -5741,5 +5741,7 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "Group": "Group",
+    "Page / Profile": "Page / Profile"
 }
