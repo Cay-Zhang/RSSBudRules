@@ -18118,7 +18118,7 @@
         docs:"https://docs.rsshub.app/routes/shopping",
         source:[ "/member/:uid/baoliao" ],
         target:"/smzdm/baoliao/:uid" } ],
-    post:[ { title:"Good Article Categories",
+    www:[ { title:"Good Article Categories",
         docs:"https://docs.rsshub.app/routes/shopping",
         source:[ "/fenlei/:name" ],
         target:"/smzdm/haowen/fenlei/:name" } ],
