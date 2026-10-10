@@ -5611,6 +5611,8 @@
     "Community Hub": "Community Hub",
     "Sharefile Changelog": "Sharefile Changelog",
     "Workshop Search Results": "Workshop Search Results",
+    "Discussion List": "Discussion List",
+    "Discussion Thread": "Discussion Thread",
     "Latest Curator Reviews": "Latest Curator Reviews",
     "Store Search": "Store Search",
     "Go 语言中文网": "Go Language Chinese Website",
@@ -5836,7 +5838,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Discussion List": "Discussion List",
-    "Discussion Thread": "Discussion Thread"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
