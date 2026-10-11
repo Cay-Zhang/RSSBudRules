@@ -2625,7 +2625,7 @@
           "/Profile/:uid/:handle/Store" ],
         target:"/manyvids/profile/vids/:uid" } ] },
   "mi.com":{ _name:"millet",
-    m:[ { title:"Xiaomi crowdfunding",
+    m:[ { title:"crowdfunding",
         docs:"https://docs.rsshub.app/routes/shopping",
         source:[ "/crowdfunding/home" ],
         target:"/mi/crowdfunding" } ] },
