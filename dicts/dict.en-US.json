@@ -5740,9 +5740,9 @@
     "热门播客": "Popular Podcasts",
     "新锐播客": "Up-and-Coming Podcasts",
     "Yahoo": "Yahoo",
-    "Finance news": "Finance News",
     "Gaming news": "Gaming News",
     "Publisher profiles": "Publisher Profiles",
+    "Finance news": "Finance News",
     "合作媒體": "Cooperation Media",
     "新聞來源列表": "News Source List",
     "新聞來源": "News Source",
@@ -5841,5 +5841,8 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "UP 主频道的视频列表": "Video List on the Creator's Main Channel",
+    "UP 主频道的合集": "Playlists on the Creator's Channel",
+    "Finance news (Hong Kong)": "Finance News (Hong Kong)"
 }
