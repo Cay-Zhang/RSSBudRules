@@ -2298,6 +2298,7 @@
     "心科技": "telemedicine",
     "趨勢科技防詐達人": "Trending Technology Fraud Prevention Expert",
     "最新詐騙情報": "Latest Fraud Alerts",
+    "研究报告": "Research Reports",
     "GIGAZINE": "GIGAZINE",
     "English News": "English News",
     "gihyo.jp": "gihyo.jp",
@@ -2687,7 +2688,6 @@
     "美妆行业": "Beauty Industry",
     "食品饮料行业": "Food & Beverage Industry",
     "酒行业": "wine industry",
-    "研究报告": "Research Reports",
     "最新报告": "Latest reports",
     "研究图表": "Research Charts",
     "热门报告": "Hot Reports",
@@ -5786,5 +5786,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "广发期货": "GF Futures"
 }
