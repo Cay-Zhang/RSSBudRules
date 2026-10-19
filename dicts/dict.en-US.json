@@ -490,6 +490,9 @@
     "mymusic5 (MyMusicSheet)": "mymusic5 (MyMusicSheet)",
     "User Sheets": "User Sheets",
     "南华期货": "South China futures",
+    "指数日报": "Daily Index Report",
+    "指数周报": "Weekly Index Report",
+    "指数季报": "Quarterly Index Report",
     "研报": "research report",
     "Odaily 星球日报": "Odaily Daily Planet",
     "搜索快讯": "Search Newsletters",
@@ -5791,8 +5794,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "指数日报": "Daily Index Report",
-    "指数周报": "Weekly Index Report",
-    "指数季报": "Quarterly Index Report"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
