@@ -3648,6 +3648,7 @@
     "Best Seller Books": "Best Seller Books",
     "Daily Briefing": "Daily Briefing",
     "Wirecutter": "Wirecutter",
+    "Oaktree Capital": "Oaktree Capital",
     "Obsidian": "Obsidian",
     "Publish": "Publish",
     "Odakyu Electric Railway": "Odakyu Electric Railway",
@@ -3762,6 +3763,8 @@
     "Premium Bandai": "Premium Bandai",
     "New Items": "New Items",
     "普世社会科学研究所": "Ecumenical Social Science Institute",
+    "Panasonic": "Panasonic",
+    "Camera and lens firmware": "Camera and Lens Firmware",
     "Cool Papers": "Cool Papers",
     "arXiv Paper queryed by Keyword": "arXiv Paper queryed by Keyword",
     "Astrophysics (astro-ph)": "Astrophysics (astro-ph)",
@@ -5803,8 +5806,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Oaktree Capital": "Oaktree Capital",
-    "Panasonic": "Panasonic",
-    "Camera and lens firmware": "Camera and Lens Firmware"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
