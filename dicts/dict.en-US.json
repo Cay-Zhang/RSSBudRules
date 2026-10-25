@@ -19,6 +19,8 @@
     "人间": "Human",
     "今日关注": "Today's Focus",
     "论坛": "forum (for discussion)",
+    "中国移动": "China Mobile",
+    "采购与招标网公告": "Announcement on the Procurement and Bidding Website",
     "最新动态": "Latest News",
     "共产党员网": "Communist Party Network",
     "最新发布": "New Releases",
@@ -5806,7 +5808,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "中国移动": "China Mobile",
-    "采购与招标网公告": "Announcement on the Procurement and Bidding Website"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
