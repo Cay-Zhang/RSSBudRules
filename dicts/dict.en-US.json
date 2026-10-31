@@ -1307,8 +1307,6 @@
     "ASUS": "ASUS",
     "BIOS": "BIOS",
     "GPU Tweak": "GPU Tweak",
-    "at home": "at home",
-    "貸店舗": "Loan Store",
     "Augment Code": "Augment Code",
     "Axis Studios": "Axis Studios",
     "Work": "Work",
@@ -4875,6 +4873,8 @@
     "Asian to lick": "Asian to lick",
     "Top rated": "Top-Rated",
     "Page": "Page",
+    "at home": "at home",
+    "貸店舗": "Loan Store",
     "Bandcamp": "Bandcamp",
     "Upcoming Live Events": "Upcoming Live Events",
     "Weekly": "Weekly",
@@ -5814,5 +5814,10 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "賃貸物件": "Rental Properties",
+    "中古マンション": "Pre-owned Condominiums",
+    "LIFULL HOME'S": "LIFULL HOME'S",
+    "中古一戸建て": "Pre-owned Single-Family Home",
+    "SUUMO": "SUUMO"
 }
