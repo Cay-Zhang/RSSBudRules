@@ -4875,6 +4875,9 @@
     "Page": "Page",
     "at home": "at home",
     "貸店舗": "Loan Store",
+    "賃貸物件": "Rental Properties",
+    "中古一戸建て": "Pre-owned Single-Family Home",
+    "中古マンション": "Pre-owned Condominiums",
     "Bandcamp": "Bandcamp",
     "Upcoming Live Events": "Upcoming Live Events",
     "Weekly": "Weekly",
@@ -5399,6 +5402,7 @@
     "宣城校区通知": "Xuancheng Campus Notice",
     "香港 01": "Hong Kong 01",
     "子栏目": "Subcategory",
+    "LIFULL HOME'S": "LIFULL HOME'S",
     "Hpoi 手办维基": "Hpoi Handshake Wiki",
     "热门推荐": "Popular Recommendations",
     "所有周边": "All perimeter",
@@ -5583,6 +5587,7 @@
     "Sub HD": "Sub HD",
     "字幕": "Subtitles",
     "字幕组": "Subtitle Group",
+    "SUUMO": "SUUMO",
     "特斯拉中国": "Tesla China",
     "价格": "Price",
     "The Guardian": "The Guardian",
@@ -5815,9 +5820,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "賃貸物件": "Rental Properties",
-    "中古マンション": "Pre-owned Condominiums",
-    "LIFULL HOME'S": "LIFULL HOME'S",
-    "中古一戸建て": "Pre-owned Single-Family Home",
-    "SUUMO": "SUUMO"
+    "Calif": "Calif"
 }
