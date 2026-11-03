@@ -4882,6 +4882,7 @@
     "Bandcamp": "Bandcamp",
     "Upcoming Live Events": "Upcoming Live Events",
     "Weekly": "Weekly",
+    "Daily": "Daily",
     "Bangumi 番组计划": "Bangumi Project",
     "用户收藏列表": "User Favorites List",
     "放送列表": "Release List",
@@ -5839,6 +5840,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Daily": "Daily"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
