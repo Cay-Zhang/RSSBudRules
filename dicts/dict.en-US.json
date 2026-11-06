@@ -4,6 +4,7 @@
     "12306": "12306",
     "中国军网": "China Military Network (CMN)",
     "中国人民解放军专业技术人才网": "Chinese People's Liberation Army Professional and Technical Talent Network",
+    "解放军报": "People's Liberation Army Daily",
     "深圳台风网": "Shenzhen Typhoon Network",
     "深圳天气直播": "Shenzhen Weather Live",
     "网易公开课": "Netease Open Class",
@@ -1847,6 +1848,8 @@
     "市场信息 - 百川": "Market Information - Baichuan",
     "市场信息 - 焦化市场信息": "Market Information - Coking Market Information",
     "市场信息 - 中国焦化信息": "Market Information - China Coking Information",
+    "理论网": "Theory Network",
+    "学习时报": "Study Times",
     "首都师范大学": "Capital Normal University (CNU)",
     "信息工程学院通知公告": "School of Information Engineering Notices",
     "焦点关注": "Focus",
@@ -5849,8 +5852,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "解放军报": "People's Liberation Army Daily",
-    "理论网": "Theory Network",
-    "学习时报": "Study Times"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
