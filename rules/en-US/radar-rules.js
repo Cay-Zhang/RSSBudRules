@@ -20415,7 +20415,7 @@
         docs:"https://docs.rsshub.app/routes/sigsac",
         source:[ "/ccs.html",
           "/" ],
-        target:"/sigsac/ccs" } ] },
+        target:"/sigsac/ccs/:year?" } ] },
   "simpleinfo.cc":{ _name:"Communication Design",
     blog:[ { title:"Zhiqi Qiqi",
         docs:"https://docs.rsshub.app/routes/simpleinfo",
