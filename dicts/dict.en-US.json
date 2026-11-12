@@ -1308,6 +1308,7 @@
     "行业资讯": "Industry News",
     "ASUS": "ASUS",
     "BIOS": "BIOS",
+    "Driver": "Driver",
     "GPU Tweak": "GPU Tweak",
     "Augment Code": "Augment Code",
     "Axis Studios": "Axis Studios",
@@ -5855,5 +5856,5 @@
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
     "媒体 (Nitter)": "Media (Nitter)",
-    "Driver": "Driver"
+    "Groq": "Groq"
 }
