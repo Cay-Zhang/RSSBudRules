@@ -2403,6 +2403,7 @@
     "Grist": "Grist",
     "Latest Articles": "Latest Articles",
     "Featured": "Featured",
+    "Groq": "Groq",
     "Goldman Sachs": "Goldman Sachs",
     "Developer Blog": "Developer Blog",
     "观察者网": "Observer",
@@ -5855,6 +5856,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Groq": "Groq"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
