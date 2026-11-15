@@ -286,6 +286,8 @@
     "土猛的员外": "You're a tough guy, aren't you?",
     "LiSA": "LiSA",
     "Latest Discography": "Latest Discography",
+    "ManyVids": "ManyVids",
+    "Creator Videos": "Creator Videos",
     "Microsoft": "Microsoft corporation",
     "Addons Update": "Addons Update",
     "Product tags in mcr.microsoft.com": "Product tags on mcr.microsoft.com",
@@ -492,8 +494,6 @@
     "Locals": "Locals",
     "Content Feed": "Content Feed",
     "Manus": "Manus",
-    "ManyVids": "ManyVids",
-    "Creator Videos": "Creator Videos",
     "南华期货": "South China futures",
     "指数日报": "Daily Index Report",
     "指数周报": "Weekly Index Report",
@@ -5805,5 +5805,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "MiniMax": "MiniMax"
 }
