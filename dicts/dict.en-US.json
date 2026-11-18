@@ -2286,8 +2286,6 @@
     "信用卡": "Credit Card",
     "会员说": "members say",
     "优惠信息": "Offer Information",
-    "十年之约": "Ten-Year Engagement",
-    "专题展示 - 文章": "Featured - Articles",
     "财富中文网": "Fortune Chinese",
     "Fraenkel Gallery": "Fraenkel Gallery",
     "Exhibitions & Conversations": "Exhibitions & Conversations",
@@ -4613,6 +4611,7 @@
     "Weekly Focus": "Weekly Focus",
     "Visual Studio": "Visual Studio",
     "Code Blog": "Code Blog",
+    "vLLM": "vLLM",
     "Voice of Mongolia": "Voice of Mongolia",
     "歪脑": "twisted brain",
     "主题": "thematic",
@@ -5809,6 +5808,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "vLLM": "vLLM"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
