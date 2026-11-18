@@ -5504,6 +5504,7 @@
     "Library": "Library",
     "Shuangxing Information": "Shuangxing Information",
     "Cookbook": "Cookbook",
+    "Developers Blog": "Developers Blog",
     "Pikabu": "Pikabu",
     "北京大学": "Beijing University",
     "北大未名 BBS 全站十大": "Peking University Unmei BBS Top 10 of the whole site",
@@ -5768,7 +5769,6 @@
     "Arts & Culture featured stories": "Arts & Culture: Featured Stories",
     "Extension Update": "Extension Update",
     "Play Store Update": "Play Store Update",
-    "Developers Blog": "Developers Blog",
     "X (Twitter)": "X (Twitter)",
     "Space speaking status": "Space Speaking Status",
     "Home latest timeline": "Home latest timeline",
@@ -5809,5 +5809,6 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)"
+    "媒体 (Nitter)": "Media (Nitter)",
+    "vLLM": "vLLM"
 }
