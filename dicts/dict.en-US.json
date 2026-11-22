@@ -1808,6 +1808,7 @@
     "Claude": "Claude",
     "Code Changelog": "Code Changelog",
     "Developer Blog": "Developer Blog",
+    "Cline Official Blog": "Cline Official Blog",
     "Cloudflare": "Cloudflare",
     "财联社": "Financial News Service",
     "电报": "Telegrams",
@@ -5556,6 +5557,9 @@
     "华南师范大学": "South China Normal University",
     "计算机学院竞赛通知": "School of Computer Science Competition Notice",
     "软件学院通知公告": "School of Software Notice",
+    "物理学院通知": "Notice from the School of Physics",
+    "物理学院新闻动态": "News and Updates from the School of Physics",
+    "物理学院科学研究动态": "Research Updates from the School of Physics",
     "四川大学": "Sichuan University",
     "学工部通知公告": "Notices and Announcements from the Office of Student Affairs",
     "新浪": "Sina",
@@ -5826,9 +5830,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Cline Official Blog": "Cline Official Blog",
-    "物理学院通知": "Notice from the School of Physics",
-    "物理学院新闻动态": "News and Updates from the School of Physics",
-    "物理学院科学研究动态": "Research Updates from the School of Physics"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
