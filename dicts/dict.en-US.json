@@ -5617,6 +5617,7 @@
     "Sub HD": "Sub HD",
     "字幕": "Subtitles",
     "字幕组": "Subtitle Group",
+    "Supabase": "Supabase",
     "SUUMO": "SUUMO",
     "特斯拉中国": "Tesla China",
     "价格": "Price",
@@ -5838,6 +5839,5 @@
     "Twitter": "Twitter",
     "用户时间线 (Nitter)": "User Timeline (Nitter)",
     "用户时间线 & 回复 (Nitter)": "User Timeline & reply (Nitter)",
-    "媒体 (Nitter)": "Media (Nitter)",
-    "Supabase": "Supabase"
+    "媒体 (Nitter)": "Media (Nitter)"
 }
